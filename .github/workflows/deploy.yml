@@ -35,13 +35,12 @@ jobs:
 
       - name: Install dependencies
         run: npm install --legacy-peer-deps --ignore-scripts
-        working-directory: .
 
       - name: Build Docusaurus site
         run: npm run build
-        working-directory: .
         env:
           BASE_URL: /KG-docs/
+          DOCUSAURUS_SLOWER: true
           NODE_OPTIONS: --max-old-space-size=6144
 
       - name: Upload build artifact
