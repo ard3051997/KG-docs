@@ -88,11 +88,11 @@ const config: Config = {
           label: 'Docs',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
-        // {
-        //   href: 'https://kalagato.co/',
-        //   label: 'home page',
-        //   position: 'right',
-        // },
+        {
+          href: 'https://kalagato.co/',
+          label: 'home page',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -138,7 +138,7 @@ const config: Config = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Kalagato.`,
     },
     prism: {
       theme: prismThemes.github,
