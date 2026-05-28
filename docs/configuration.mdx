@@ -1,0 +1,65 @@
+---
+description: Comprehensive catalog of accounts, credentials management, key storage, and SDK configuration files across the KalaGato app ecosystem.
+---
+
+# Credentials & Configurations
+
+This document serves as the guide for locating, configuring, and updating application-level parameters, platform API keys, advertising mediation floor values, and publisher store certificates across our product portfolio.
+
+---
+
+## Key Account Credentials Directory
+
+KalaGato manages its portfolio under two primary publishing identities and associated analytical consoles:
+
+### Android Infrastructure (Google Play Console)
+* **Primary Publisher Account**: **ElQube Tech** * **Console Access Control**: Managed via official `@kalagato.co` G-Suite administrator emails.
+* **API Service Keys**: Located in the GCP Console under project `elqube-publishing-core`.
+
+### iOS Infrastructure (App Store Connect)
+* **Primary Publisher Account**: **NPM Industries / Human Data SG Pte. Ltd.** * **Certificates & Keys**: Apple Distribution Certs, push notifications `.p8` keys, and provision profiles are securely backed up in our team vaults.
+
+### Analytics, Monetization, & Paywalls
+* **Google AdMob**: Consolidated reporting dashboard for mediator ad network floors.
+* **Firebase Consoles**: Multi-app logical workspaces containing crash telemetry and user analytics streams.
+* **RevenueCat**: Core subscription transaction and user entitlement manager.
+* **Superwall**: Dynamic canvas dashboard for A/B testing paywall creatives and styles in real-time.
+
+---
+
+## Active App Configuration Files
+
+To build and compile our applications successfully, you must ensure that target resource files contain the correct, up-to-date identifiers:
+
+### 1. Analytics & Push Services Integration
+Every repository requires the platform-specific Google service parameter mapping:
+* **Android (`google-services.json`)**: Place in the `app/` folder. Verify project-id maps to the target application (e.g., `ryn-vpn-prod-bucket`).
+* **iOS (`GoogleService-Info.plist`)**: Integrate into the main project root folder and reference via Xcode bundle targets.
+
+### 2. Subscription Engine Constants (RevenueCat)
+Do not hardcode RevenueCat client keys. Manage credentials inside build configs:
+* **Android (`BuildConfig.REVENUECAT_PUBLIC_KEY`)**: Populated via `secrets.properties` in your local directory.
+* **iOS (`RCConfiguration.swift`)**: Referenced via Xcode target configuration schemes.
+
+### 3. Obfuscation & Security Guardrails (`proguard-rules.pro`)
+To prevent reverse engineering and ensure third-party SDK compatibility, Android builds must keep strict ProGuard configurations:
+```proguard
+# Prevent obfuscation of Firebase analytics events
+-keep class com.google.firebase.analytics.** { *; }
+
+# Keep RevenueCat entitlements intact
+-keep class com.revenuecat.purchases.** { *; }
+
+# Protect ad network mediation adapters
+-keep class com.google.android.gms.ads.** { *; }
+```
+
+---
+
+## Credential Rotation Procedures
+
+In compliance with our security SOPs, API tokens and keystores are subject to regular, manual rotations governed by the **Technical Lead**:
+
+1. **Staging Test Dry-Runs**: Prior to rotating keys in production consoles, the change must be verified in a dedicated sandbox environment.
+2. **Jira Record Alignment**: Document the key rotation date, scope, and target application version in the security epic.
+3. **Cross-Platform Deployments**: Sync updated configurations across developer environments concurrently to avoid compiling errors during active sprints.

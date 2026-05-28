@@ -1,0 +1,57 @@
+---
+description: Interactive testing portals, paywall previewing setups, local debugging tools, and sandbox verification channels.
+---
+
+# Interactive Testing & Playgrounds
+
+This document describes the active staging channels, interactive portals, and sandbox testing capabilities available to KalaGato developers and product leads to verify monetization, localization, and VPN behaviors before deployment.
+
+---
+
+## Superwall Dynamic Paywall Previews
+
+To test draft paywall screens, layouts, and copy configurations without pushing active builds to production stores:
+
+### 1. Paywall Sandbox Launchers
+Developers and product designers can trigger localized paywall mockups on test devices or simulators:
+* **iOS URL Schemes**: Launch the application using the custom developer URL query:
+ ```
+ ryn-vpn-dev://superwall/paywall/preview?id=paywall_annual_offer_blackfriday
+ ```
+* **Android ADB Intents**: Broadcast the preview action explicitly to the emulator shell:
+ ```bash
+ adb shell am start -a android.intent.action.VIEW \
+ -d "voicechanger://superwall/paywall/preview?id=voice_mod_premium_tier"
+ ```
+
+### 2. Live Layout Adjustments
+By linking test devices to the Superwall debug log console, color variations, call-to-action weights, and localized strings reflect on-screen dynamically within **5 seconds** of saving changes in the Superwall dashboard editor.
+
+---
+
+## Sandbox Subscription Purchases
+
+Before pushing live updates affecting app monetizations:
+
+### Google Play Billing Sandbox Setup
+1. **Tester Registry**: The **Growth Partner** registers developer test Gmail accounts in the Play Console under the license testing matrix.
+2. **Payment Method Settings**: Ensure test accounts are configured with "Test Card, always approves" or "Test Card, always declines" to verify purchase successes, subscription renewals, or billing grace period routing.
+3. **RevenueCat Live Hooks**: Open the RevenueCat Sandbox dashboard to verify that mock purchase receipts generate proper server-side entitlements and trigger immediate webhooks.
+
+### Apple App Store Sandbox Verification
+1. **Sandbox User Accounts**: Configure App Store sandbox profiles in Apple Store Connect.
+2. **App Entitlements Verification**: Log out of your primary Apple ID on the target iPhone, install the debug build via TestFlight or Xcode, and complete sandbox purchases to confirm receipt validation pipelines.
+
+---
+
+## Local Network Proxy & Diagnostics Playground
+
+To isolate networking behaviors, server response latencies, and third-party SDK traffic:
+
+### 1. Charles Proxy & Fiddler Setup
+* **SSL Proxying**: Install the Charles SSL CA certificate on your test device to decrypt encrypted HTTPS calls to our backend API endpoints.
+* **Bandwidth Throttling**: Simulate low-connectivity cellular environments (e.g., 3G network profiles) to evaluate VPN tunnel reconnect latencies or audio converter buffering speeds.
+
+### 2. SDK Network Inspectors
+* **Flipper Interface**: Use the Flipper network inspector tab to view all AdMob mediation bids, Firebase dispatch queues, and API network headers in real-time.
+* **LeakCanary Telemetry**: Native Android staging builds compile with LeakCanary to detect and flag memory retention leaks automatically.
