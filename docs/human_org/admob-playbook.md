@@ -12,7 +12,7 @@ Our ad monetization success relies on five main metrics:
 2. **Fill Rate**: The percentage of ad requests that are successfully served with an ad. Target baseline: **≥75%**.
 3. **Show Rate (Render Rate)**: The percentage of loaded ads that are actually rendered to the user. High match rates with low show rates point to integration or UX bugs.
 4. **ARPDAU (Average Revenue Per Daily Active User)**: Calculated as:
-   $$\text{ARPDAU} = \text{Impressions per User} \times \frac{\text{eCPM}}{1000}$$
+   `ARPDAU = Impressions per User × (eCPM / 1000)`
    This is our primary metric for evaluating monetization health as it normalizes for DAU fluctuations.
 5. **Retention (D1 / D7 / D30)**: Monetization must never be optimized at the cost of core user retention. Low retention ultimately degrades DAU and long-term revenue.
 

@@ -60,7 +60,7 @@ If a worker agent's queue is contested ("the ASO agent has time for 3 apps this 
 | Tier | Criteria | Agent treatment |
 |---|---|---|
 | **Core** | Top 5 by MRR OR strategic (e.g. Ryn VPN scale) | Full agent coverage, weekly experiments |
-| **Experimental** | New launch, <90 days old, OR rebuild in progress | Capped spend, fast-fail review at day 60 |
+| **Experimental** | New launch, &lt;90 days old, OR rebuild in progress | Capped spend, fast-fail review at day 60 |
 | **Harvest** | Profitable but declining, no growth budget | ASO + mediation only, no new features |
 | **Wind-down** | Costs > revenue, no path back | Maintenance only, plan removal from stores |
 
