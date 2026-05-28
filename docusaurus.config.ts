@@ -335,34 +335,33 @@ export default async function createConfigAsync() {
           },
         },
       ],
-      [
-        './src/plugins/changelog/index.ts',
-        {
-          blogTitle: 'Docusaurus changelog',
-          // Not useful, but permits to run git commands earlier
-          // Otherwise the sitemap plugin will run them in postBuild()
-          showLastUpdateAuthor: showLastUpdate,
-          showLastUpdateTime: showLastUpdate,
-          blogDescription:
-            'Keep yourself up-to-date about new features in every release',
-          blogSidebarCount: 'ALL',
-          blogSidebarTitle: 'Changelog',
-          routeBasePath: '/changelog',
-          showReadingTime: false,
-          postsPerPage: 20,
-          archiveBasePath: null,
-          authorsMapPath: 'authors.json',
-          feedOptions: {
-            type: 'all',
-            title: 'Docusaurus changelog',
-            description:
-              'Keep yourself up-to-date about new features in every release',
-            copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`,
-            language: defaultLocale,
-          },
-          onInlineAuthors: 'warn',
-        },
-      ],
+      // Changelog plugin disabled — requires Docusaurus monorepo git history
+      // [
+      //   './src/plugins/changelog/index.ts',
+      //   {
+      //     blogTitle: 'Docusaurus changelog',
+      //     showLastUpdateAuthor: showLastUpdate,
+      //     showLastUpdateTime: showLastUpdate,
+      //     blogDescription:
+      //       'Keep yourself up-to-date about new features in every release',
+      //     blogSidebarCount: 'ALL',
+      //     blogSidebarTitle: 'Changelog',
+      //     routeBasePath: '/changelog',
+      //     showReadingTime: false,
+      //     postsPerPage: 20,
+      //     archiveBasePath: null,
+      //     authorsMapPath: 'authors.json',
+      //     feedOptions: {
+      //       type: 'all',
+      //       title: 'Docusaurus changelog',
+      //       description:
+      //         'Keep yourself up-to-date about new features in every release',
+      //       copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`,
+      //       language: defaultLocale,
+      //     },
+      //     onInlineAuthors: 'warn',
+      //   },
+      // ],
       [
         'content-docs',
         {
