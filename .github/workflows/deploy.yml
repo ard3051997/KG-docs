@@ -15,6 +15,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     name: Build Docusaurus Site
@@ -28,17 +31,18 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: yarn
-          cache-dependency-path: ./yarn.lock
+          node-version: 24
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm install --legacy-peer-deps --ignore-scripts
+        working-directory: .
 
       - name: Build Docusaurus site
-        run: yarn build
+        run: npm run build
+        working-directory: .
         env:
           BASE_URL: /KG-docs/
+          NODE_OPTIONS: --max-old-space-size=6144
 
       - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
@@ -56,3 +60,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
