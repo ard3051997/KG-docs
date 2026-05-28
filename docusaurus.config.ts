@@ -130,7 +130,7 @@ const isBranchDeploy =
 // Used to debug production build issues faster
 const isBuildFast = !!process.env.BUILD_FAST;
 
-const baseUrl = process.env.BASE_URL ?? '/';
+const baseUrl = process.env.BASE_URL ?? '/KG-docs/';
 
 // Special deployment for staging locales until they get enough translations
 // https://app.netlify.com/sites/docusaurus-i18n-staging
@@ -173,11 +173,11 @@ export default async function createConfigAsync() {
   return {
     title: 'KalaGato',
     tagline: getLocalizedConfigValue('tagline'),
-    organizationName: 'kalagato',
-    projectName: 'portal',
+    organizationName: 'ard3051997',
+    projectName: 'KG-docs',
     baseUrl,
     baseUrlIssueBanner: true,
-    url: 'https://docusaurus.io',
+    url: 'https://ard3051997.github.io',
     future: {
       v4: !isSlower, // Not accurate, but good enough
       faster: isSlower
