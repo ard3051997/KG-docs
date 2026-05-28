@@ -1,0 +1,28 @@
+{
+  "id": "api/misc/eslint-plugin/no-html-links",
+  "title": "no-html-links",
+  "description": "Ensure that the Docusaurus ` component is used instead of ` tags.",
+  "source": "@site/versioned_docs/version-3.10.1/api/misc/eslint-plugin/no-html-links.mdx",
+  "sourceDirName": "api/misc/eslint-plugin",
+  "slug": "/api/misc/@docusaurus/eslint-plugin/no-html-links",
+  "permalink": "/docs/api/misc/@docusaurus/eslint-plugin/no-html-links",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/misc/eslint-plugin/no-html-links.mdx",
+  "tags": [],
+  "version": "3.10.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/api/misc/@docusaurus/eslint-plugin/no-html-links"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 eslint-plugin",
+    "permalink": "/docs/api/misc/@docusaurus/eslint-plugin"
+  },
+  "next": {
+    "title": "no-untranslated-text",
+    "permalink": "/docs/api/misc/@docusaurus/eslint-plugin/no-untranslated-text"
+  }
+}

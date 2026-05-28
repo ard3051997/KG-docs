@@ -1,0 +1,40 @@
+{
+  "permalink": "/changelog/3.3.2",
+  "source": "@site/changelog/source/3.3.2.md",
+  "title": "3.3.2",
+  "description": "Bug Fix",
+  "date": "2024-05-03T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2024-05-03T20:00",
+    "authors": [
+      "slorber"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "3.4.0",
+    "permalink": "/changelog/3.4.0"
+  },
+  "nextItem": {
+    "title": "3.3.1",
+    "permalink": "/changelog/3.3.1"
+  },
+  "listPageLink": "/changelog/"
+}

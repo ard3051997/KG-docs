@@ -1,0 +1,49 @@
+{
+  "permalink": "/changelog/3.6.1",
+  "source": "@site/changelog/source/3.6.1.md",
+  "title": "3.6.1",
+  "description": "Bug Fix",
+  "date": "2024-11-08T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Balthasar Hofer",
+      "alias": "lebalz",
+      "url": "https://github.com/lebalz",
+      "imageURL": "https://github.com/lebalz.png",
+      "key": "lebalz",
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2024-11-08T20:00",
+    "authors": [
+      "lebalz",
+      "slorber"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "3.6.2",
+    "permalink": "/changelog/3.6.2"
+  },
+  "nextItem": {
+    "title": "3.6.0",
+    "permalink": "/changelog/3.6.0"
+  },
+  "listPageLink": "/changelog/"
+}

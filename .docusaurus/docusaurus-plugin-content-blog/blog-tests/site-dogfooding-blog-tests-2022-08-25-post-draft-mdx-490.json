@@ -1,0 +1,47 @@
+{
+  "permalink": "/tests/blog/draft-post",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_blog tests/2022-08-25-post-draft.mdx",
+  "source": "@site/_dogfooding/_blog tests/2022-08-25-post-draft.mdx",
+  "title": "Draft blog post",
+  "description": "This draft blog post should not be accessible in production, only in dev!",
+  "date": "2022-08-25T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Blog",
+      "permalink": "/tests/blog/tags/blog"
+    },
+    {
+      "inline": false,
+      "label": "Visibility",
+      "permalink": "/tests/blog/tags/visibility"
+    },
+    {
+      "inline": false,
+      "label": "Draft",
+      "permalink": "/tests/blog/tags/draft"
+    }
+  ],
+  "readingTime": 2.6,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Draft blog post",
+    "draft": true,
+    "tags": [
+      "blog",
+      "visibility",
+      "draft"
+    ],
+    "slug": "/draft-post"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "A post with html slug",
+    "permalink": "/tests/blog/x/y/z.html"
+  },
+  "nextItem": {
+    "title": "Unlisted blog post",
+    "permalink": "/tests/blog/unlisted-post"
+  }
+}

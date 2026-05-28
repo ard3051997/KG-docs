@@ -1,0 +1,20 @@
+{
+  "id": "migration/v2/migration-manual",
+  "title": "Manual migration",
+  "description": "This manual migration process should be run after the automated migration process, to complete the missing parts, or debug issues in the migration CLI output.",
+  "source": "@site/docs/migration/v2/migration-manual.mdx",
+  "sourceDirName": "migration/v2",
+  "slug": "/migration/v2/manual",
+  "permalink": "/docs/next/migration/v2/manual",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/migration/v2/migration-manual.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/migration/v2/manual",
+    "toc_max_heading_level": 4
+  }
+}

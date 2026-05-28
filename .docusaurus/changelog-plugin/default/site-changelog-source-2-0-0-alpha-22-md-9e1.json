@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.22",
+  "source": "@site/changelog/source/2.0.0-alpha.22.md",
+  "title": "2.0.0-alpha.22",
+  "description": "- Add missing dependencies on @docusaurus/preset-classic",
+  "date": "2019-07-20T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-07-20T20:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.23",
+    "permalink": "/changelog/2.0.0-alpha.23"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.21",
+    "permalink": "/changelog/2.0.0-alpha.21"
+  },
+  "listPageLink": "/changelog/page/6"
+}

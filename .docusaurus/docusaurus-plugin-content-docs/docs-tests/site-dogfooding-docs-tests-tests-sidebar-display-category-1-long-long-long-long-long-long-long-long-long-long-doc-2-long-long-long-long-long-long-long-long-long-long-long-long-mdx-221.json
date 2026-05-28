@@ -1,0 +1,24 @@
+{
+  "id": "tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc2 long long long long long long long long long long long long",
+  "title": "Doc 2 long long long long long long long long long long long long",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc2 long long long long long long long long long long long long.mdx",
+  "sourceDirName": "tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong",
+  "slug": "/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc2 long long long long long long long long long long long long",
+  "permalink": "/tests/docs/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc2 long long long long long long long long long long long long",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc2 long long long long long long long long long long long long.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc 1",
+    "permalink": "/tests/docs/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc1"
+  },
+  "next": {
+    "title": "Doc 3 longlonglonglonglonglonglonglonglonglonglonglong",
+    "permalink": "/tests/docs/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc3longlonglonglonglonglonglonglonglonglonglonglong"
+  }
+}

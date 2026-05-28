@@ -1,0 +1,86 @@
+{
+  "docusaurusVersion": "3.10.1",
+  "siteVersion": "3.10.1",
+  "pluginVersions": {
+    "docusaurus-plugin-css-cascade-layers": {
+      "type": "package",
+      "name": "@docusaurus/plugin-css-cascade-layers",
+      "version": "3.10.1"
+    },
+    "docusaurus-plugin-content-docs": {
+      "type": "package",
+      "name": "@docusaurus/plugin-content-docs",
+      "version": "3.10.1"
+    },
+    "docusaurus-plugin-content-blog": {
+      "type": "package",
+      "name": "@docusaurus/plugin-content-blog",
+      "version": "3.10.1"
+    },
+    "docusaurus-plugin-content-pages": {
+      "type": "package",
+      "name": "@docusaurus/plugin-content-pages",
+      "version": "3.10.1"
+    },
+    "docusaurus-plugin-debug": {
+      "type": "package",
+      "name": "@docusaurus/plugin-debug",
+      "version": "3.10.1"
+    },
+    "docusaurus-plugin-sitemap": {
+      "type": "package",
+      "name": "@docusaurus/plugin-sitemap",
+      "version": "3.10.1"
+    },
+    "docusaurus-plugin-svgr": {
+      "type": "package",
+      "name": "@docusaurus/plugin-svgr",
+      "version": "3.10.1"
+    },
+    "docusaurus-theme-classic": {
+      "type": "package",
+      "name": "@docusaurus/theme-classic",
+      "version": "3.10.1"
+    },
+    "docusaurus-theme-search-algolia": {
+      "type": "package",
+      "name": "@docusaurus/theme-search-algolia",
+      "version": "3.10.1"
+    },
+    "disable-expensive-bundler-optimizations": {
+      "type": "local"
+    },
+    "changelog-plugin": {
+      "type": "project"
+    },
+    "docusaurus-plugin-client-redirects": {
+      "type": "package",
+      "name": "@docusaurus/plugin-client-redirects",
+      "version": "3.10.1"
+    },
+    "docusaurus-plugin-ideal-image": {
+      "type": "package",
+      "name": "@docusaurus/plugin-ideal-image",
+      "version": "3.10.1"
+    },
+    "docusaurus-theme-mermaid": {
+      "type": "package",
+      "name": "@docusaurus/theme-mermaid",
+      "version": "3.10.1"
+    },
+    "feature-requests-plugin": {
+      "type": "project"
+    },
+    "client-module-test-plugin": {
+      "type": "local"
+    },
+    "docusaurus-theme-live-codeblock": {
+      "type": "package",
+      "name": "@docusaurus/theme-live-codeblock",
+      "version": "3.10.1"
+    },
+    "swizzle-theme-tests": {
+      "type": "local"
+    }
+  }
+}

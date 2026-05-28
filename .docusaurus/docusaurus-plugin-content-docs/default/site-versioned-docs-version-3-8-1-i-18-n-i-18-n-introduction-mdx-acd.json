@@ -1,0 +1,29 @@
+{
+  "id": "i18n/introduction",
+  "title": "i18n - Introduction",
+  "description": "It is easy to translate a Docusaurus website with its internationalization (i18n) support.",
+  "source": "@site/versioned_docs/version-3.8.1/i18n/i18n-introduction.mdx",
+  "sourceDirName": "i18n",
+  "slug": "/i18n/introduction",
+  "permalink": "/docs/3.8.1/i18n/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/i18n/i18n-introduction.mdx",
+  "tags": [],
+  "version": "3.8.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "introduction",
+    "slug": "/i18n/introduction"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Deployment",
+    "permalink": "/docs/3.8.1/deployment"
+  },
+  "next": {
+    "title": "Tutorial",
+    "permalink": "/docs/3.8.1/i18n/tutorial"
+  }
+}

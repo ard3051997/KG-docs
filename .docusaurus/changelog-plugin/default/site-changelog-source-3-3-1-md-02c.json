@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/3.3.1",
+  "source": "@site/changelog/source/3.3.1.md",
+  "title": "3.3.1",
+  "description": "Failed release",
+  "date": "2024-05-03T19:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2024-05-03T19:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "3.3.2",
+    "permalink": "/changelog/3.3.2"
+  },
+  "nextItem": {
+    "title": "3.3.0",
+    "permalink": "/changelog/3.3.0"
+  },
+  "listPageLink": "/changelog/"
+}

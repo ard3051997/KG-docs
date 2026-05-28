@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-content-docs",
+  "title": "📦 plugin-content-docs",
+  "description": "Provides the Docs functionality and is the default docs plugin for Docusaurus.",
+  "source": "@site/versioned_docs/version-3.4.0/api/plugins/plugin-content-docs.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-content-docs",
+  "permalink": "/docs/3.4.0/api/plugins/@docusaurus/plugin-content-docs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-content-docs.mdx",
+  "tags": [],
+  "version": "3.4.0",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/api/plugins/@docusaurus/plugin-content-docs"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Plugins overview",
+    "permalink": "/docs/3.4.0/api/plugins"
+  },
+  "next": {
+    "title": "📦 plugin-content-blog",
+    "permalink": "/docs/3.4.0/api/plugins/@docusaurus/plugin-content-blog"
+  }
+}

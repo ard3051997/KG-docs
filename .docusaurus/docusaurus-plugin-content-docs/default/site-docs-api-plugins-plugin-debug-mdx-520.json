@@ -1,0 +1,21 @@
+{
+  "id": "api/plugins/plugin-debug",
+  "title": "📦 plugin-debug",
+  "description": "The debug plugin will display useful debug information at http3000/docusaurus/debug.",
+  "source": "@site/docs/api/plugins/plugin-debug.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-debug",
+  "permalink": "/docs/next/api/plugins/@docusaurus/plugin-debug",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-debug.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "slug": "/api/plugins/@docusaurus/plugin-debug"
+  }
+}

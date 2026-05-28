@@ -1,0 +1,31 @@
+{
+  "id": "standalone",
+  "title": "Standalone doc",
+  "description": "This doc is not in any sidebar, on purpose, to measure the build size impact of the huge sidebar",
+  "source": "@site/_dogfooding/_docs tests/standalone.mdx",
+  "sourceDirName": ".",
+  "slug": "/standalone",
+  "permalink": "/tests/docs/standalone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/standalone.mdx",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Label for tag b",
+      "permalink": "/tests/docs/tags/b"
+    },
+    {
+      "inline": false,
+      "label": "D",
+      "permalink": "/tests/docs/tags/d"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "tags": [
+      "b",
+      "d"
+    ]
+  }
+}

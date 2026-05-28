@@ -1,0 +1,26 @@
+{
+  "id": "human_org/employee-policies",
+  "title": "Corporate Employee & Operational Policies",
+  "description": "This document establishes the official employee policies, financial thresholds, reimbursement guidelines, and performance review cycles for all personnel at KalaGato (Human Data SG Pte. Ltd.).",
+  "source": "@site/docs/human_org/employee-policies.md",
+  "sourceDirName": "human_org",
+  "slug": "/human_org/employee-policies",
+  "permalink": "/docs/human_org/employee-policies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/human_org/employee-policies.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Employee Onboarding Manual",
+    "permalink": "/docs/human_org/onboarding"
+  },
+  "next": {
+    "title": "Incident Management & Escalation SOP",
+    "permalink": "/docs/human_org/incident-management"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "installation",
+  "title": "Developer Staging & Setup",
+  "description": "Environment setup, repository configuration, and local server setups for the KalaGato product and publishing ecosystem.",
+  "source": "@site/docs/installation.mdx",
+  "sourceDirName": ".",
+  "slug": "/installation",
+  "permalink": "/docs/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/installation.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Environment setup, repository configuration, and local server setups for the KalaGato product and publishing ecosystem."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/category/getting-started"
+  },
+  "next": {
+    "title": "Credentials & Configurations",
+    "permalink": "/docs/configuration"
+  }
+}

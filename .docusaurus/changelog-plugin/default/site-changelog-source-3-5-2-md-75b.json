@@ -1,0 +1,67 @@
+{
+  "permalink": "/changelog/3.5.2",
+  "source": "@site/changelog/source/3.5.2.md",
+  "title": "3.5.2",
+  "description": "Bug Fix",
+  "date": "2024-08-13T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Christian Stangerup",
+      "alias": "cstangerup",
+      "url": "https://github.com/cstangerup",
+      "imageURL": "https://github.com/cstangerup.png",
+      "key": "cstangerup",
+      "page": null
+    },
+    {
+      "name": "Gatien Boquet",
+      "alias": "GatienBoquet",
+      "url": "https://github.com/GatienBoquet",
+      "imageURL": "https://github.com/GatienBoquet.png",
+      "key": "GatienBoquet",
+      "page": null
+    },
+    {
+      "name": "Josh Wong",
+      "alias": "josh-wong",
+      "url": "https://github.com/josh-wong",
+      "imageURL": "https://github.com/josh-wong.png",
+      "key": "josh-wong",
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2024-08-13T20:00",
+    "authors": [
+      "cstangerup",
+      "GatienBoquet",
+      "josh-wong",
+      "slorber"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "3.6.0",
+    "permalink": "/changelog/3.6.0"
+  },
+  "nextItem": {
+    "title": "3.5.1",
+    "permalink": "/changelog/3.5.1"
+  },
+  "listPageLink": "/changelog/"
+}

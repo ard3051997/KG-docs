@@ -1,0 +1,26 @@
+{
+  "id": "tests/Conflicts/sidebar-label/doc2",
+  "title": "Doc 2",
+  "description": "Doc 2",
+  "source": "@site/_dogfooding/_docs tests/tests/Conflicts/sidebar-label/doc2.mdx",
+  "sourceDirName": "tests/Conflicts/sidebar-label",
+  "slug": "/tests/Conflicts/sidebar-label/doc2",
+  "permalink": "/tests/docs/tests/Conflicts/sidebar-label/doc2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/Conflicts/sidebar-label/doc2.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Doc sidebar label"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc sidebar label",
+    "permalink": "/tests/docs/tests/Conflicts/sidebar-label/doc1"
+  },
+  "next": {
+    "title": "Admonitions tests",
+    "permalink": "/tests/docs/tests/admonitions"
+  }
+}

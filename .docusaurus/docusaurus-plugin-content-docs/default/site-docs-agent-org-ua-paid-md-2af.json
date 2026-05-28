@@ -1,0 +1,26 @@
+{
+  "id": "agent_org/ua-paid",
+  "title": "1.4 UA & Paid Marketing Agent",
+  "description": "Tier: 1 Mobile Growth (worker)",
+  "source": "@site/docs/agent_org/ua-paid.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/ua-paid",
+  "permalink": "/docs/agent_org/ua-paid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/ua-paid.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "1.3 Paywall & Pricing Agent",
+    "permalink": "/docs/agent_org/paywall-pricing"
+  },
+  "next": {
+    "title": "1.5 First-Party Attribution Agent",
+    "permalink": "/docs/agent_org/attribution"
+  }
+}

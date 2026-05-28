@@ -1,0 +1,21 @@
+{
+  "id": "guides/markdown-features/plugins",
+  "title": "MDX Plugins",
+  "description": "Using MDX plugins to expand Docusaurus Markdown functionalities",
+  "source": "@site/docs/guides/markdown-features/markdown-features-plugins.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/plugins",
+  "permalink": "/docs/next/markdown-features/plugins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-plugins.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "plugins",
+    "description": "Using MDX plugins to expand Docusaurus Markdown functionalities",
+    "slug": "/markdown-features/plugins"
+  }
+}

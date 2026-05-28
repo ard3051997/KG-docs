@@ -1,0 +1,35 @@
+{
+  "id": "tests/visibility/only-drafts/draft2",
+  "title": "Only Drafts - Draft 2",
+  "description": "Doc with draft front matter",
+  "source": "@site/_dogfooding/_docs tests/tests/visibility/only-drafts/draft2.mdx",
+  "sourceDirName": "tests/visibility/only-drafts",
+  "slug": "/tests/visibility/only-drafts/draft2",
+  "permalink": "/tests/docs/tests/visibility/only-drafts/draft2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/visibility/only-drafts/draft2.mdx",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Draft",
+      "permalink": "/tests/docs/tags/draft"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "draft": true,
+    "tags": [
+      "draft"
+    ]
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Only Drafts - Draft 1",
+    "permalink": "/tests/docs/tests/visibility/only-drafts/draft1"
+  },
+  "next": {
+    "title": "Only Unlisteds - Subcategory index unlisted",
+    "permalink": "/tests/docs/tests/visibility/only-unlisteds/unlisted-subcategory/"
+  }
+}

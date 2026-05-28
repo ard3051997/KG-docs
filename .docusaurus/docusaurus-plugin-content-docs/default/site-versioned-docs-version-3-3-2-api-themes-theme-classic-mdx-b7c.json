@@ -1,0 +1,30 @@
+{
+  "id": "api/themes/theme-classic",
+  "title": "📦 theme-classic",
+  "description": "The classic theme for Docusaurus.",
+  "source": "@site/versioned_docs/version-3.3.2/api/themes/theme-classic.mdx",
+  "sourceDirName": "api/themes",
+  "slug": "/api/themes/@docusaurus/theme-classic",
+  "permalink": "/docs/3.3.2/api/themes/@docusaurus/theme-classic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/themes/theme-classic.mdx",
+  "tags": [],
+  "version": "3.3.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "slug": "/api/themes/@docusaurus/theme-classic"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/3.3.2/api/themes/configuration"
+  },
+  "next": {
+    "title": "📦 theme-live-codeblock",
+    "permalink": "/docs/3.3.2/api/themes/@docusaurus/theme-live-codeblock"
+  }
+}

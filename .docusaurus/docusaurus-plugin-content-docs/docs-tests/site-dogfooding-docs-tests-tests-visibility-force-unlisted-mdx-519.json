@@ -1,0 +1,27 @@
+{
+  "id": "tests/visibility/force-unlisted",
+  "title": "force_unlisted_parseFrontMatter_test",
+  "description": "This doc is hidden despite unlisted: false",
+  "source": "@site/_dogfooding/_docs tests/tests/visibility/force-unlisted.mdx",
+  "sourceDirName": "tests/visibility",
+  "slug": "/tests/visibility/force-unlisted",
+  "permalink": "/tests/docs/tests/visibility/force-unlisted",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/visibility/force-unlisted.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true,
+    "force_unlisted_parseFrontMatter_test": true
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Visibility",
+    "permalink": "/tests/docs/tests/visibility/"
+  },
+  "next": {
+    "title": "Only Drafts - Subcategory index draft",
+    "permalink": "/tests/docs/tests/visibility/only-drafts/draft-subcategory/"
+  }
+}

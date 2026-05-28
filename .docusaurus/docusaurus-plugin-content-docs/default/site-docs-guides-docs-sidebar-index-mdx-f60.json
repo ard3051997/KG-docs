@@ -1,0 +1,19 @@
+{
+  "id": "guides/docs/sidebar/index",
+  "title": "Sidebar",
+  "description": "Creating a sidebar is useful to:",
+  "source": "@site/docs/guides/docs/sidebar/index.mdx",
+  "sourceDirName": "guides/docs/sidebar",
+  "slug": "/sidebar",
+  "permalink": "/docs/next/sidebar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/docs/sidebar/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/sidebar"
+  }
+}

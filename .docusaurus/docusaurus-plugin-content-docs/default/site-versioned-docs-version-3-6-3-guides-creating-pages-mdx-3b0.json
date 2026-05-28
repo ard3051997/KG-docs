@@ -1,0 +1,29 @@
+{
+  "id": "guides/creating-pages",
+  "title": "Creating Pages",
+  "description": "In this section, we will learn about creating pages in Docusaurus.",
+  "source": "@site/versioned_docs/version-3.6.3/guides/creating-pages.mdx",
+  "sourceDirName": "guides",
+  "slug": "/creating-pages",
+  "permalink": "/docs/3.6.3/creating-pages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/creating-pages.mdx",
+  "tags": [],
+  "version": "3.6.3",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/creating-pages",
+    "sidebar_label": "Pages"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Guides",
+    "permalink": "/docs/3.6.3/category/guides"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/3.6.3/docs-introduction"
+  }
+}

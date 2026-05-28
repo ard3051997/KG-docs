@@ -1,0 +1,30 @@
+{
+  "id": "guides/docs/create-doc",
+  "title": "Create a doc",
+  "description": "Create a Markdown Document",
+  "source": "@site/versioned_docs/version-3.1.1/guides/docs/docs-create-doc.mdx",
+  "sourceDirName": "guides/docs",
+  "slug": "/create-doc",
+  "permalink": "/docs/3.1.1/create-doc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/docs/docs-create-doc.mdx",
+  "tags": [],
+  "version": "3.1.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "create-doc",
+    "description": "Create a Markdown Document",
+    "slug": "/create-doc"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/3.1.1/docs-introduction"
+  },
+  "next": {
+    "title": "Sidebar",
+    "permalink": "/docs/3.1.1/sidebar"
+  }
+}

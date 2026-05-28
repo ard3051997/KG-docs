@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.4.2",
+  "source": "@site/changelog/source/2.4.2.md",
+  "title": "2.4.2",
+  "description": "Bad npm publish, please use 2.4.3",
+  "date": "2023-09-20T19:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2023-09-20T19:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.4.3",
+    "permalink": "/changelog/2.4.3"
+  },
+  "nextItem": {
+    "title": "2.4.1",
+    "permalink": "/changelog/2.4.1"
+  },
+  "listPageLink": "/changelog/page/2"
+}

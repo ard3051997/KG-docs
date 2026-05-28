@@ -1,0 +1,19 @@
+{
+  "id": "cli",
+  "title": "CLI",
+  "description": "Docusaurus provides a set of scripts to help you generate, serve, and deploy your website.",
+  "source": "@site/docs/cli.mdx",
+  "sourceDirName": ".",
+  "slug": "/cli",
+  "permalink": "/docs/next/cli",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cli.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Docusaurus provides a set of scripts to help you generate, serve, and deploy your website."
+  }
+}

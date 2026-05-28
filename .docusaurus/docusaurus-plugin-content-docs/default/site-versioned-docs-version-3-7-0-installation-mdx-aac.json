@@ -1,0 +1,28 @@
+{
+  "id": "installation",
+  "title": "Installation",
+  "description": "How to install Docusaurus locally, and start a Docusaurus site in no time.",
+  "source": "@site/versioned_docs/version-3.7.0/installation.mdx",
+  "sourceDirName": ".",
+  "slug": "/installation",
+  "permalink": "/docs/3.7.0/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/installation.mdx",
+  "tags": [],
+  "version": "3.7.0",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "How to install Docusaurus locally, and start a Docusaurus site in no time."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/3.7.0/category/getting-started"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/docs/3.7.0/configuration"
+  }
+}

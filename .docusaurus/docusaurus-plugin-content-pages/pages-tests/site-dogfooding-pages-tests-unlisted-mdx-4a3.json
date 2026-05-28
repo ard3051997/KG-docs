@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/my-custom/unlisted/slug",
+  "source": "@site/_dogfooding/_pages tests/unlisted.mdx",
+  "title": "Unlisted page",
+  "description": "This unlisted page should always be directly accessible, but hidden from search engines",
+  "frontMatter": {
+    "unlisted": true,
+    "slug": "/my-custom/unlisted/slug"
+  },
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/unlisted.mdx",
+  "unlisted": false
+}

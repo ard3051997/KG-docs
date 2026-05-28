@@ -1,0 +1,29 @@
+{
+  "id": "api/plugin-methods/extend-infrastructure",
+  "title": "Extending infrastructure",
+  "description": "Docusaurus has some infrastructure like hot reloading, CLI, and swizzling, that can be extended by external plugins.",
+  "source": "@site/versioned_docs/version-2.x/api/plugin-methods/extend-infrastructure.mdx",
+  "sourceDirName": "api/plugin-methods",
+  "slug": "/api/plugin-methods/extend-infrastructure",
+  "permalink": "/docs/2.x/api/plugin-methods/extend-infrastructure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugin-methods/extend-infrastructure.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Lifecycle APIs",
+    "permalink": "/docs/2.x/api/plugin-methods/lifecycle-apis"
+  },
+  "next": {
+    "title": "I18n lifecycles",
+    "permalink": "/docs/2.x/api/plugin-methods/i18n-lifecycles"
+  }
+}

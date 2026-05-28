@@ -1,0 +1,30 @@
+{
+  "id": "guides/docs/introduction",
+  "title": "Docs Introduction",
+  "description": "The docs feature provides users with a way to organize Markdown files in a hierarchical format.",
+  "source": "@site/versioned_docs/version-3.5.2/guides/docs/docs-introduction.mdx",
+  "sourceDirName": "guides/docs",
+  "slug": "/docs-introduction",
+  "permalink": "/docs/3.5.2/docs-introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/docs/docs-introduction.mdx",
+  "tags": [],
+  "version": "3.5.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "introduction",
+    "sidebar_label": "Introduction",
+    "slug": "/docs-introduction"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Pages",
+    "permalink": "/docs/3.5.2/creating-pages"
+  },
+  "next": {
+    "title": "Create a doc",
+    "permalink": "/docs/3.5.2/create-doc"
+  }
+}

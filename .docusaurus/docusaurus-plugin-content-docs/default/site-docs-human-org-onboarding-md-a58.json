@@ -1,0 +1,26 @@
+{
+  "id": "human_org/onboarding",
+  "title": "Employee Onboarding Manual",
+  "description": "Welcome to KalaGato (Human Data SG Pte. Ltd.)! We are thrilled to have you join our team.",
+  "source": "@site/docs/human_org/onboarding.md",
+  "sourceDirName": "human_org",
+  "slug": "/human_org/onboarding",
+  "permalink": "/docs/human_org/onboarding",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/human_org/onboarding.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/human_org"
+  },
+  "next": {
+    "title": "Corporate Employee & Operational Policies",
+    "permalink": "/docs/human_org/employee-policies"
+  }
+}

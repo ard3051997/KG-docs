@@ -1,0 +1,28 @@
+{
+  "id": "typescript-support",
+  "title": "TypeScript Support",
+  "description": "Docusaurus is written in TypeScript and provides first-class TypeScript support.",
+  "source": "@site/versioned_docs/version-3.8.1/typescript-support.mdx",
+  "sourceDirName": ".",
+  "slug": "/typescript-support",
+  "permalink": "/docs/3.8.1/typescript-support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/typescript-support.mdx",
+  "tags": [],
+  "version": "3.8.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Docusaurus is written in TypeScript and provides first-class TypeScript support."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Playground",
+    "permalink": "/docs/3.8.1/playground"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/docs/3.8.1/category/guides"
+  }
+}

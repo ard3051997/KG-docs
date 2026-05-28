@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.27",
+  "source": "@site/changelog/source/2.0.0-alpha.27.md",
+  "title": "2.0.0-alpha.27",
+  "description": "- Add @theme/Tabs which can be used to implement multi-language code tabs.",
+  "date": "2019-10-14T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-10-14T20:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.28",
+    "permalink": "/changelog/2.0.0-alpha.28"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.26",
+    "permalink": "/changelog/2.0.0-alpha.26"
+  },
+  "listPageLink": "/changelog/page/6"
+}

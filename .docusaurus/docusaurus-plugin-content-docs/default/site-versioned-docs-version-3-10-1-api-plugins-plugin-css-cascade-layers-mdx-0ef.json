@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-css-cascade-layers",
+  "title": "📦 plugin-css-cascade-layers",
+  "description": "This plugin is mostly designed to be used internally by the classic preset through the Docusaurus future.v4.useCssCascadeLayers flag, although it can also be used as a standalone plugin. Please let us know here if you have a use case for it and help us design an API that makes sense for the future of Docusaurus.",
+  "source": "@site/versioned_docs/version-3.10.1/api/plugins/plugin-css-cascade-layers.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-css-cascade-layers",
+  "permalink": "/docs/api/plugins/@docusaurus/plugin-css-cascade-layers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-css-cascade-layers.mdx",
+  "tags": [],
+  "version": "3.10.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "slug": "/api/plugins/@docusaurus/plugin-css-cascade-layers"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-ideal-image",
+    "permalink": "/docs/api/plugins/@docusaurus/plugin-ideal-image"
+  },
+  "next": {
+    "title": "📦 plugin-pwa",
+    "permalink": "/docs/api/plugins/@docusaurus/plugin-pwa"
+  }
+}

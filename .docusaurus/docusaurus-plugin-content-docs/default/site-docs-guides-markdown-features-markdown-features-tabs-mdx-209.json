@@ -1,0 +1,21 @@
+{
+  "id": "guides/markdown-features/tabs",
+  "title": "Tabs",
+  "description": "Using tabs inside Docusaurus Markdown",
+  "source": "@site/docs/guides/markdown-features/markdown-features-tabs.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/tabs",
+  "permalink": "/docs/next/markdown-features/tabs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-tabs.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "tabs",
+    "description": "Using tabs inside Docusaurus Markdown",
+    "slug": "/markdown-features/tabs"
+  }
+}

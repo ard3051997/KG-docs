@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.25",
+  "source": "@site/changelog/source/2.0.0-alpha.25.md",
+  "title": "2.0.0-alpha.25",
+  "description": "- Blog plugin is rewritten in TypeScript and can now support CJK",
+  "date": "2019-10-01T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-10-01T20:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.26",
+    "permalink": "/changelog/2.0.0-alpha.26"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.24",
+    "permalink": "/changelog/2.0.0-alpha.24"
+  },
+  "listPageLink": "/changelog/page/6"
+}

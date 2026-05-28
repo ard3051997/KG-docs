@@ -1,0 +1,20 @@
+{
+  "id": "guides/docs/sidebar/items",
+  "title": "Sidebar items",
+  "description": "The sidebar supports various item types:",
+  "source": "@site/docs/guides/docs/sidebar/items.mdx",
+  "sourceDirName": "guides/docs/sidebar",
+  "slug": "/sidebar/items",
+  "permalink": "/docs/next/sidebar/items",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/docs/sidebar/items.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "toc_max_heading_level": 4,
+    "slug": "/sidebar/items"
+  }
+}

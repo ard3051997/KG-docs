@@ -1,0 +1,26 @@
+{
+  "id": "tests/images/index",
+  "title": "Image Tests",
+  "description": "URL encoded image",
+  "source": "@site/_dogfooding/_docs tests/tests/images/index.mdx",
+  "sourceDirName": "tests/images",
+  "slug": "/tests/images/",
+  "permalink": "/tests/docs/tests/images/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/images/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "image": "./img/oss_logo.png"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Footnotes",
+    "permalink": "/tests/docs/tests/footnotes"
+  },
+  "next": {
+    "title": "Import Bad Package",
+    "permalink": "/tests/docs/tests/import-bad-package"
+  }
+}

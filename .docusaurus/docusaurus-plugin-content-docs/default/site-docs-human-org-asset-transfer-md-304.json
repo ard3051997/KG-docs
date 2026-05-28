@@ -1,0 +1,26 @@
+{
+  "id": "human_org/asset-transfer",
+  "title": "Asset Transfer & Knowledge Transfer SOP",
+  "description": "This document outlines the step-by-step standard operating procedure (SOP) for transferring digital assets, codebase repositories, developer console accounts, and platform configurations from sellers to KalaGato post-acquisition.",
+  "source": "@site/docs/human_org/asset-transfer.md",
+  "sourceDirName": "human_org",
+  "slug": "/human_org/asset-transfer",
+  "permalink": "/docs/human_org/asset-transfer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/human_org/asset-transfer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "M&A Due Diligence & Pipeline Audits",
+    "permalink": "/docs/human_org/due-diligence"
+  },
+  "next": {
+    "title": "AdMob & Mediation Monetization Playbook",
+    "permalink": "/docs/human_org/admob-playbook"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kg_system/admob-mediation",
+  "title": "1.2 — AdMob Mediation Agent",
+  "description": "Tier: 1 — Mobile Growth (worker)",
+  "source": "@site/docs/kg_system/12-admob-mediation.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/admob-mediation",
+  "permalink": "/docs/kg_system/admob-mediation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/12-admob-mediation.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 12,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "1.1 — ASO & Keyword Agent",
+    "permalink": "/docs/kg_system/aso-keyword"
+  },
+  "next": {
+    "title": "1.3 — Paywall & Pricing Agent",
+    "permalink": "/docs/kg_system/paywall-pricing"
+  }
+}

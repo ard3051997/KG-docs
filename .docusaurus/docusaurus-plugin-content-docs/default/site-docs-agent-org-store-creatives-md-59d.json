@@ -1,0 +1,26 @@
+{
+  "id": "agent_org/store-creatives",
+  "title": "1.7 Store Listing & Creatives Agent",
+  "description": "Tier: 1 Mobile Growth (worker)",
+  "source": "@site/docs/agent_org/store-creatives.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/store-creatives",
+  "permalink": "/docs/agent_org/store-creatives",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/store-creatives.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "1.6 CRM / Lifecycle Agent",
+    "permalink": "/docs/agent_org/crm-lifecycle"
+  },
+  "next": {
+    "title": "2.0 Tech Manager Agent",
+    "permalink": "/docs/agent_org/tech-manager"
+  }
+}

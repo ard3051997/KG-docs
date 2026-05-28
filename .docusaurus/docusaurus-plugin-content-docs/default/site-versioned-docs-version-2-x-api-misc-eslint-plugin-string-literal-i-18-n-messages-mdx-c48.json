@@ -1,0 +1,28 @@
+{
+  "id": "api/misc/eslint-plugin/string-literal-i18n-messages",
+  "title": "string-literal-i18n-messages",
+  "description": "Enforce translate APIs to be called on plain text labels.",
+  "source": "@site/versioned_docs/version-2.x/api/misc/eslint-plugin/string-literal-i18n-messages.mdx",
+  "sourceDirName": "api/misc/eslint-plugin",
+  "slug": "/api/misc/@docusaurus/eslint-plugin/string-literal-i18n-messages",
+  "permalink": "/docs/2.x/api/misc/@docusaurus/eslint-plugin/string-literal-i18n-messages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/misc/eslint-plugin/string-literal-i18n-messages.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/api/misc/@docusaurus/eslint-plugin/string-literal-i18n-messages"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "no-untranslated-text",
+    "permalink": "/docs/2.x/api/misc/@docusaurus/eslint-plugin/no-untranslated-text"
+  },
+  "next": {
+    "title": "📦 logger",
+    "permalink": "/docs/2.x/api/misc/@docusaurus/logger"
+  }
+}

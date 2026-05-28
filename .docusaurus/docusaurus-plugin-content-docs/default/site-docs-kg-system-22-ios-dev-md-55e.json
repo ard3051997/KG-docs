@@ -1,0 +1,27 @@
+{
+  "id": "kg_system/ios-dev",
+  "title": "2.2 — iOS Dev Agent",
+  "description": "Tier: 2 — Tech (worker)",
+  "source": "@site/docs/kg_system/22-ios-dev.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/ios-dev",
+  "permalink": "/docs/kg_system/ios-dev",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/22-ios-dev.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 22,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "2.1 — Android Dev Agent",
+    "permalink": "/docs/kg_system/android-dev"
+  },
+  "next": {
+    "title": "2.3 — Release Train Agent",
+    "permalink": "/docs/kg_system/release-train"
+  }
+}

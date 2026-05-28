@@ -1,0 +1,72 @@
+---
+description: Environment setup, repository configuration, and local server setups for the KalaGato product and publishing ecosystem.
+---
+
+# Developer Staging & Setup
+
+This document outlines the local workstation installation procedures, toolchain requirements, and repository configurations required for developers to build, test, and release code across the KalaGato portfolio.
+
+---
+
+## Workstation System Requirements
+
+Before checking out codebases, ensure your development machine is configured with the following baseline frameworks:
+
+### Android Environment
+* **IDE**: Android Studio (Ladybug 2024.2.1 or above).
+* **Target SDK**: Android 34 / 35 (compile SDK parameters set in Gradle configurations).
+* **Diagnostics Tooling**: Android Studio Profilers, Facebook Flipper desktop, and Android emulator with Google Play Services enabled.
+
+### iOS Environment
+* **IDE**: Xcode (Version 15.2 or above) running on macOS Sonoma/Sequoia.
+* **Package Managers**: CocoaPods and Swift Package Manager (SPM).
+* **Diagnostics Tooling**: Xcode Instruments, Xcode Simulator, and Apple Developer provisioning credentials.
+
+### Portal & Tooling Stack
+* **Node.js**: Version 24.x (Check by running `node -v`).
+* **Package Managers**: `npm` or `yarn` (global).
+* **Version Control**: Git client connected to KalaGato GitHub organization.
+
+---
+
+## Local Repository & Environment Configuration
+
+To set up the KalaGato Portal, which includes this Docusaurus knowledge base and the live interactive Markdown Editor:
+
+### 1. Repository Checkout
+Clone the core documentation and tools repository to your local workspace:
+```bash
+git clone https://github.com/kalagato/portal.git
+cd portal/docusaurus/website
+```
+
+### 2. Dependency Setup
+Install the Node.js packages for the website and custom tooling:
+```bash
+npm install
+```
+
+### 3. Run the Local Development Environment
+We run two parallel local environments to manage and display active portal documents:
+
+* **Primary Documentation Server**: Runs Docusaurus with hot-reloading active.
+ ```bash
+ npm run dev
+ ```
+ *Local Address: [http://localhost:3001](http://localhost:3001)* * **Live Markdown Editor Backend**: A custom Node.js server handling direct document saves.
+ ```bash
+ node editor-server.js
+ ```
+ *Local Address: [http://localhost:3002](http://localhost:3002)* ---
+
+## Staging & VPN Protocol Verification (Sandbox)
+
+For developers working on core networking utilities (e.g., **Ryn VPN** or **Fast VPN**):
+
+1. **Android VPN Core Configs**: Set up **AndroidLibXrayLite** parameters inside the local `local.properties` file:
+ ```properties
+ xray.lib.path=/path/to/local/xray/bin
+ vpn.sandbox.routing=true
+ ```
+2. **Xcode Sandbox Routing**: In Xcode, ensure the **NetworkExtension** capabilities are properly linked to your development team provisioning profile.
+3. **Local Mock Servers**: Start the VPN diagnostic mock endpoints in your local console to simulate active tunnel behaviors.

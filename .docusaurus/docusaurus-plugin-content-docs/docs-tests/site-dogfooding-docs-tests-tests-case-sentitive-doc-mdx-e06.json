@@ -1,0 +1,24 @@
+{
+  "id": "tests/Case-Sentitive-Doc",
+  "title": "Case-Sensitive doc",
+  "description": "This doc has uppercase and lowercase chars in its filename, and thus in its path / slug.",
+  "source": "@site/_dogfooding/_docs tests/tests/Case-Sentitive-Doc.mdx",
+  "sourceDirName": "tests",
+  "slug": "/tests/Case-Sentitive-Doc",
+  "permalink": "/tests/docs/tests/Case-Sentitive-Doc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/Case-Sentitive-Doc.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc 3 longlonglonglonglonglonglonglonglonglonglonglong",
+    "permalink": "/tests/docs/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc3longlonglonglonglonglonglonglonglonglonglonglong"
+  },
+  "next": {
+    "title": "Conflicts",
+    "permalink": "/tests/docs/category/conflicts"
+  }
+}

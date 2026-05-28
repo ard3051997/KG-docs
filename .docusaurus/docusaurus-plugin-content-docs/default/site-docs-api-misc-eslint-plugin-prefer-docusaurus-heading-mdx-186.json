@@ -1,0 +1,19 @@
+{
+  "id": "api/misc/eslint-plugin/prefer-docusaurus-heading",
+  "title": "prefer-docusaurus-heading",
+  "description": "Ensures that the @theme/Heading theme component provided by Docusaurus theme-classic is used instead of `` tags for headings.",
+  "source": "@site/docs/api/misc/eslint-plugin/prefer-docusaurus-heading.mdx",
+  "sourceDirName": "api/misc/eslint-plugin",
+  "slug": "/api/misc/@docusaurus/eslint-plugin/prefer-docusaurus-heading",
+  "permalink": "/docs/next/api/misc/@docusaurus/eslint-plugin/prefer-docusaurus-heading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/misc/eslint-plugin/prefer-docusaurus-heading.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/api/misc/@docusaurus/eslint-plugin/prefer-docusaurus-heading"
+  }
+}

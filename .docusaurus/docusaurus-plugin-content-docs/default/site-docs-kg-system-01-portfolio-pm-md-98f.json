@@ -1,0 +1,27 @@
+{
+  "id": "kg_system/portfolio-pm",
+  "title": "0.2 — Portfolio PM Agent (PPM)",
+  "description": "Tier: 0 — Orchestration",
+  "source": "@site/docs/kg_system/01-portfolio-pm.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/portfolio-pm",
+  "permalink": "/docs/kg_system/portfolio-pm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/01-portfolio-pm.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "0.1 — Chief of Staff Agent (CoS)",
+    "permalink": "/docs/kg_system/chief-of-staff"
+  },
+  "next": {
+    "title": "1.0 — Mobile Growth Manager Agent",
+    "permalink": "/docs/kg_system/growth-manager"
+  }
+}

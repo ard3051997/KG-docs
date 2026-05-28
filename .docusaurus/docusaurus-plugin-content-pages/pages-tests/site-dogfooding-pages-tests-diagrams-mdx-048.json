@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/diagrams",
+  "source": "@site/_dogfooding/_pages tests/diagrams.mdx",
+  "title": "Diagram Examples",
+  "description": "Invalid Diagrams",
+  "frontMatter": {},
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/diagrams.mdx",
+  "unlisted": false
+}

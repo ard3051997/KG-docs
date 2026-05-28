@@ -1,0 +1,29 @@
+{
+  "id": "advanced/ssg",
+  "title": "Static site generation (SSG)",
+  "description": "Docusaurus statically renders your React code into HTML, allowing faster load speed and better SEO.",
+  "source": "@site/versioned_docs/version-3.10.1/advanced/ssg.mdx",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/ssg",
+  "permalink": "/docs/advanced/ssg",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/advanced/ssg.mdx",
+  "tags": [],
+  "version": "3.10.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "sidebar_label": "Static site generation",
+    "description": "Docusaurus statically renders your React code into HTML, allowing faster load speed and better SEO."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Routing",
+    "permalink": "/docs/advanced/routing"
+  },
+  "next": {
+    "title": "Client architecture",
+    "permalink": "/docs/advanced/client"
+  }
+}

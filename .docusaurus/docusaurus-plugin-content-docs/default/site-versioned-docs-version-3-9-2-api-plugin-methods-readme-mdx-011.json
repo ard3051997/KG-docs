@@ -1,0 +1,26 @@
+{
+  "id": "api/plugin-methods/README",
+  "title": "Plugin Method References",
+  "description": "This section is a work in progress. Anchor links or even URLs are not guaranteed to be stable.",
+  "source": "@site/versioned_docs/version-3.9.2/api/plugin-methods/README.mdx",
+  "sourceDirName": "api/plugin-methods",
+  "slug": "/api/plugin-methods/",
+  "permalink": "/docs/3.9.2/api/plugin-methods/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugin-methods/README.mdx",
+  "tags": [],
+  "version": "3.9.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {},
+  "sidebar": "api",
+  "previous": {
+    "title": "docusaurus.config.js",
+    "permalink": "/docs/3.9.2/api/docusaurus-config"
+  },
+  "next": {
+    "title": "Lifecycle APIs",
+    "permalink": "/docs/3.9.2/api/plugin-methods/lifecycle-apis"
+  }
+}

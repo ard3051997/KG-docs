@@ -1,0 +1,29 @@
+{
+  "id": "migration/v3",
+  "title": "Upgrading to Docusaurus v3",
+  "description": "This documentation will help you upgrade your site from Docusaurus v2 to Docusaurus v3.",
+  "source": "@site/versioned_docs/version-3.8.1/migration/v3.mdx",
+  "sourceDirName": "migration",
+  "slug": "/migration/v3",
+  "permalink": "/docs/3.8.1/migration/v3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/migration/v3.mdx",
+  "tags": [],
+  "version": "3.8.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/migration/v3",
+    "sidebar_label": "To Docusaurus v3"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Upgrading Docusaurus",
+    "permalink": "/docs/3.8.1/migration"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/3.8.1/migration/v2"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "permalink": "/blog/2018/04/30/How-I-Converted-Profilo-To-Docusaurus",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2018/04-30-How-I-Converted-Profilo-To-Docusaurus.mdx",
+  "source": "@site/blog/2018/04-30-How-I-Converted-Profilo-To-Docusaurus.mdx",
+  "title": "How I Converted Profilo to Docusaurus in Under 2 Hours",
+  "description": "“Joel and I were discussing having a website and how it would have been great to launch with it. So I challenged myself to add Docusaurus support. It took just over an hour and a half. I'm going to send you a PR with the addition so you can take a look and see if you like it. Your workflow for adding docs wouldn't be much different from editing those Markdown files.”",
+  "date": "2018-04-30T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Profilo",
+      "permalink": "/blog/tags/profilo"
+    },
+    {
+      "inline": false,
+      "label": "Adoption",
+      "permalink": "/blog/tags/adoption"
+    }
+  ],
+  "readingTime": 6.48,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Christine Abernathy",
+      "url": "http://x.com/abernathyca",
+      "socials": {
+        "x": "https://x.com/abernathyca"
+      },
+      "imageURL": "https://github.com/caabernathy.png",
+      "key": "abernathyca",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "title": "How I Converted Profilo to Docusaurus in Under 2 Hours",
+    "authors": [
+      "abernathyca"
+    ],
+    "tags": [
+      "profilo",
+      "adoption"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Towards Docusaurus 2",
+    "permalink": "/blog/2018/09/11/Towards-Docusaurus-2"
+  },
+  "nextItem": {
+    "title": "Introducing Docusaurus",
+    "permalink": "/blog/2017/12/14/introducing-docusaurus"
+  }
+}

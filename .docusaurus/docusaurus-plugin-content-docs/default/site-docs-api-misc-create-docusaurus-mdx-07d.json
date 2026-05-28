@@ -1,0 +1,21 @@
+{
+  "id": "api/misc/create-docusaurus",
+  "title": "📦 create-docusaurus",
+  "description": "A scaffolding utility to help you instantly set up a functional Docusaurus app.",
+  "source": "@site/docs/api/misc/create-docusaurus.mdx",
+  "sourceDirName": "api/misc",
+  "slug": "/api/misc/create-docusaurus",
+  "permalink": "/docs/next/api/misc/create-docusaurus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/misc/create-docusaurus.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "slug": "/api/misc/create-docusaurus"
+  }
+}

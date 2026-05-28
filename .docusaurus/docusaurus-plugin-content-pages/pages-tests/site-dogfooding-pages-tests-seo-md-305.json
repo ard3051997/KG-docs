@@ -1,0 +1,18 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/seo",
+  "source": "@site/_dogfooding/_pages tests/seo.md",
+  "title": "custom SEO title",
+  "description": "custom SEO description",
+  "frontMatter": {
+    "title": "custom SEO title",
+    "description": "custom SEO description",
+    "keywords": [
+      "custom",
+      "keywords"
+    ],
+    "image": "./local-image.png"
+  },
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/seo.md",
+  "unlisted": false
+}

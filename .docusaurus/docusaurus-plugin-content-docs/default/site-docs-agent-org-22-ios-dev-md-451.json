@@ -1,0 +1,18 @@
+{
+  "id": "agent_org/ios-dev",
+  "title": "2.2 — iOS Dev Agent",
+  "description": "Tier: 2 — Tech (worker)",
+  "source": "@site/docs/agent_org/22-ios-dev.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/ios-dev",
+  "permalink": "/docs/agent_org/ios-dev",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/22-ios-dev.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 22,
+  "frontMatter": {}
+}

@@ -1,0 +1,26 @@
+{
+  "id": "guides/whats-next",
+  "title": "What's next?",
+  "description": "Congratulations! You have understood most core features of Docusaurus now. You have:",
+  "source": "@site/versioned_docs/version-2.x/guides/whats-next.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/whats-next",
+  "permalink": "/docs/2.x/guides/whats-next",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/whats-next.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using Crowdin",
+    "permalink": "/docs/2.x/i18n/crowdin"
+  },
+  "next": {
+    "title": "Advanced Tutorials",
+    "permalink": "/docs/2.x/advanced/"
+  }
+}

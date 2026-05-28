@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/head-metadata",
+  "source": "@site/_dogfooding/_pages tests/head-metadata.mdx",
+  "description": "Head Metadata tests",
+  "frontMatter": {},
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/head-metadata.mdx",
+  "unlisted": false
+}

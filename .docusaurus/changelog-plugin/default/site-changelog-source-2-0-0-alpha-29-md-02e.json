@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.29",
+  "source": "@site/changelog/source/2.0.0-alpha.29.md",
+  "title": "2.0.0-alpha.29",
+  "description": "HOTFIX for 2.0.0-alpha.28.",
+  "date": "2019-10-21T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-10-21T20:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.30",
+    "permalink": "/changelog/2.0.0-alpha.30"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.28",
+    "permalink": "/changelog/2.0.0-alpha.28"
+  },
+  "listPageLink": "/changelog/page/6"
+}

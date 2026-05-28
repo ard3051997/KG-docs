@@ -1,0 +1,30 @@
+{
+  "id": "guides/markdown-features/tabs",
+  "title": "Tabs",
+  "description": "Using tabs inside Docusaurus Markdown",
+  "source": "@site/versioned_docs/version-3.9.2/guides/markdown-features/markdown-features-tabs.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/tabs",
+  "permalink": "/docs/3.9.2/markdown-features/tabs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-tabs.mdx",
+  "tags": [],
+  "version": "3.9.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "tabs",
+    "description": "Using tabs inside Docusaurus Markdown",
+    "slug": "/markdown-features/tabs"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "MDX and React",
+    "permalink": "/docs/3.9.2/markdown-features/react"
+  },
+  "next": {
+    "title": "Code blocks",
+    "permalink": "/docs/3.9.2/markdown-features/code-blocks"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-google-gtag",
+  "title": "📦 plugin-google-gtag",
+  "description": "The default Global Site Tag (gtag.js) plugin. It is a JavaScript tagging framework and API that allows you to send event data to Google Analytics, Google Ads, and Google Marketing Platform. This section describes how to configure a Docusaurus site to enable global site tag for Google Analytics.",
+  "source": "@site/versioned_docs/version-3.3.2/api/plugins/plugin-google-gtag.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-google-gtag",
+  "permalink": "/docs/3.3.2/api/plugins/@docusaurus/plugin-google-gtag",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-google-gtag.mdx",
+  "tags": [],
+  "version": "3.3.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "slug": "/api/plugins/@docusaurus/plugin-google-gtag"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-google-analytics",
+    "permalink": "/docs/3.3.2/api/plugins/@docusaurus/plugin-google-analytics"
+  },
+  "next": {
+    "title": "📦 plugin-google-tag-manager",
+    "permalink": "/docs/3.3.2/api/plugins/@docusaurus/plugin-google-tag-manager"
+  }
+}

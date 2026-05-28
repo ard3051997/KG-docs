@@ -1,0 +1,157 @@
+{
+  "permalink": "/changelog/3.7.0",
+  "source": "@site/changelog/source/3.7.0.md",
+  "title": "3.7.0",
+  "description": "New Feature",
+  "date": "2025-01-03T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Alvin Bryan",
+      "alias": "alvinometric",
+      "url": "https://github.com/alvinometric",
+      "imageURL": "https://github.com/alvinometric.png",
+      "key": "alvinometric",
+      "page": null
+    },
+    {
+      "name": "Lin Huang",
+      "alias": "codimiracle",
+      "url": "https://github.com/codimiracle",
+      "imageURL": "https://github.com/codimiracle.png",
+      "key": "codimiracle",
+      "page": null
+    },
+    {
+      "name": "Zen",
+      "alias": "effozen",
+      "url": "https://github.com/effozen",
+      "imageURL": "https://github.com/effozen.png",
+      "key": "effozen",
+      "page": null
+    },
+    {
+      "name": "Zed Spencer-Milnes",
+      "alias": "GingerGeek",
+      "url": "https://github.com/GingerGeek",
+      "imageURL": "https://github.com/GingerGeek.png",
+      "key": "GingerGeek",
+      "page": null
+    },
+    {
+      "name": "Hichem Fantar",
+      "alias": "hichemfantar",
+      "url": "https://github.com/hichemfantar",
+      "imageURL": "https://github.com/hichemfantar.png",
+      "key": "hichemfantar",
+      "page": null
+    },
+    {
+      "name": "Ivan Cheban",
+      "alias": "ivancheban",
+      "url": "https://github.com/ivancheban",
+      "imageURL": "https://github.com/ivancheban.png",
+      "key": "ivancheban",
+      "page": null
+    },
+    {
+      "name": "Jake Boone",
+      "alias": "jakeboone02",
+      "url": "https://github.com/jakeboone02",
+      "imageURL": "https://github.com/jakeboone02.png",
+      "key": "jakeboone02",
+      "page": null
+    },
+    {
+      "name": "Jan Aukema",
+      "alias": "janaukema",
+      "url": "https://github.com/janaukema",
+      "imageURL": "https://github.com/janaukema.png",
+      "key": "janaukema",
+      "page": null
+    },
+    {
+      "name": "Lehoczky Zoltán",
+      "alias": "Lehoczky",
+      "url": "https://github.com/Lehoczky",
+      "imageURL": "https://github.com/Lehoczky.png",
+      "key": "Lehoczky",
+      "page": null
+    },
+    {
+      "name": "Pierre Millot",
+      "alias": "millotp",
+      "url": "https://github.com/millotp",
+      "imageURL": "https://github.com/millotp.png",
+      "key": "millotp",
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    },
+    {
+      "name": "Taylor Reece",
+      "alias": "taylorreece",
+      "url": "https://github.com/taylorreece",
+      "imageURL": "https://github.com/taylorreece.png",
+      "key": "taylorreece",
+      "page": null
+    },
+    {
+      "name": "Waldir Pimenta",
+      "alias": "waldyrious",
+      "url": "https://github.com/waldyrious",
+      "imageURL": "https://github.com/waldyrious.png",
+      "key": "waldyrious",
+      "page": null
+    },
+    {
+      "name": "William Black",
+      "alias": "WillBlack403",
+      "url": "https://github.com/WillBlack403",
+      "imageURL": "https://github.com/WillBlack403.png",
+      "key": "WillBlack403",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2025-01-03T20:00",
+    "authors": [
+      "alvinometric",
+      "codimiracle",
+      "effozen",
+      "GingerGeek",
+      "hichemfantar",
+      "ivancheban",
+      "jakeboone02",
+      "janaukema",
+      "Lehoczky",
+      "millotp",
+      "slorber",
+      "taylorreece",
+      "waldyrious",
+      "WillBlack403"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "3.8.0",
+    "permalink": "/changelog/3.8.0"
+  },
+  "nextItem": {
+    "title": "3.6.3",
+    "permalink": "/changelog/3.6.3"
+  },
+  "listPageLink": "/changelog/"
+}

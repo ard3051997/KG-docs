@@ -1,0 +1,41 @@
+{
+  "id": "tests/visibility/some-unlisteds/subcategory-with-listed-index/unlisted1",
+  "title": "Unlisted 1",
+  "description": "Doc with unlisted front matter",
+  "source": "@site/_dogfooding/_docs tests/tests/visibility/some-unlisteds/subcategory-with-listed-index/unlisted1.mdx",
+  "sourceDirName": "tests/visibility/some-unlisteds/subcategory-with-listed-index",
+  "slug": "/tests/visibility/some-unlisteds/subcategory-with-listed-index/unlisted1",
+  "permalink": "/tests/docs/tests/visibility/some-unlisteds/subcategory-with-listed-index/unlisted1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/visibility/some-unlisteds/subcategory-with-listed-index/unlisted1.mdx",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Visibility",
+      "permalink": "/tests/docs/tags/visibility"
+    },
+    {
+      "inline": false,
+      "label": "Unlisted",
+      "permalink": "/tests/docs/tags/unlisted"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true,
+    "tags": [
+      "visibility",
+      "unlisted"
+    ]
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Subcategory index listed",
+    "permalink": "/tests/docs/tests/visibility/some-unlisteds/subcategory-with-listed-index/"
+  },
+  "next": {
+    "title": "Unlisted 2",
+    "permalink": "/tests/docs/tests/visibility/some-unlisteds/subcategory-with-listed-index/unlisted2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "api/misc/logger/logger",
+  "title": "📦 logger",
+  "description": "An encapsulated logger for semantically formatting console messages.",
+  "source": "@site/versioned_docs/version-3.9.2/api/misc/logger/logger.mdx",
+  "sourceDirName": "api/misc/logger",
+  "slug": "/api/misc/@docusaurus/logger",
+  "permalink": "/docs/3.9.2/api/misc/@docusaurus/logger",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/misc/logger/logger.mdx",
+  "tags": [],
+  "version": "3.9.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "slug": "/api/misc/@docusaurus/logger"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "string-literal-i18n-messages",
+    "permalink": "/docs/3.9.2/api/misc/@docusaurus/eslint-plugin/string-literal-i18n-messages"
+  }
+}

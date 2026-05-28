@@ -1,0 +1,28 @@
+{
+  "id": "deployment",
+  "title": "Deployment",
+  "description": "Deploy your Docusaurus app for production on a range of static site hosting services.",
+  "source": "@site/versioned_docs/version-2.x/deployment.mdx",
+  "sourceDirName": ".",
+  "slug": "/deployment",
+  "permalink": "/docs/2.x/deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/deployment.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Deploy your Docusaurus app for production on a range of static site hosting services."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using Plugins",
+    "permalink": "/docs/2.x/using-plugins"
+  },
+  "next": {
+    "title": "i18n - Introduction",
+    "permalink": "/docs/2.x/i18n/introduction"
+  }
+}

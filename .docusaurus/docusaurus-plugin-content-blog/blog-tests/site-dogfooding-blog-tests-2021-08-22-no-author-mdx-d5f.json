@@ -1,0 +1,32 @@
+{
+  "permalink": "/tests/blog/2021/08/22/no-author",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_blog tests/2021-08-22-no-author.mdx",
+  "source": "@site/_dogfooding/_blog tests/2021-08-22-no-author.mdx",
+  "title": "Hmmm!",
+  "description": "This is a blog post from an anonymous author!",
+  "date": "2021-08-22T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Paginated-tag",
+      "permalink": "/tests/blog/tags/paginated-tag"
+    }
+  ],
+  "readingTime": 3.4,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "paginated-tag"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Multiple authors",
+    "permalink": "/tests/blog/2021/08/23/multiple-authors"
+  },
+  "nextItem": {
+    "title": "Blog TOC FrontMatter tests",
+    "permalink": "/tests/blog/2021/08/21/blog-post-toc-tests"
+  }
+}

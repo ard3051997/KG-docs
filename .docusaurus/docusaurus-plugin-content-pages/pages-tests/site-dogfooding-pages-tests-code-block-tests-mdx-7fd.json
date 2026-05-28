@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/code-block-tests",
+  "source": "@site/_dogfooding/_pages tests/code-block-tests.mdx",
+  "title": "Code block tests",
+  "description": "This test page is quite outdated: MDX v2 lowercase tags are not substituted anymore in the same way as they were in v1.",
+  "frontMatter": {},
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/code-block-tests.mdx",
+  "unlisted": false
+}

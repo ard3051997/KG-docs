@@ -1,0 +1,26 @@
+{
+  "id": "tests/links/target",
+  "title": "Target doc",
+  "description": "This is just a doc meant to be linked to by other docs.",
+  "source": "@site/_dogfooding/_docs tests/tests/links/target.mdx",
+  "sourceDirName": "tests/links",
+  "slug": "/tests/links/target-doc-slug",
+  "permalink": "/tests/docs/tests/links/target-doc-slug",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/links/target.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "target-doc-slug"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Link resolution tests",
+    "permalink": "/tests/docs/tests/links/resolution/"
+  },
+  "next": {
+    "title": "Test links",
+    "permalink": "/tests/docs/tests/links/test-markdown-links"
+  }
+}

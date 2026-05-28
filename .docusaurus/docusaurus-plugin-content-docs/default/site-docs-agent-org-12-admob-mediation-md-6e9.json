@@ -1,0 +1,18 @@
+{
+  "id": "agent_org/admob-mediation",
+  "title": "1.2 — AdMob Mediation Agent",
+  "description": "Tier: 1 — Mobile Growth (worker)",
+  "source": "@site/docs/agent_org/12-admob-mediation.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/admob-mediation",
+  "permalink": "/docs/agent_org/admob-mediation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/12-admob-mediation.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 12,
+  "frontMatter": {}
+}

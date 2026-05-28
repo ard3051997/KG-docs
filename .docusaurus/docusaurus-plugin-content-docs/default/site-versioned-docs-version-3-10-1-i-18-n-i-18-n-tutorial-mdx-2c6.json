@@ -1,0 +1,30 @@
+{
+  "id": "i18n/tutorial",
+  "title": "i18n - Tutorial",
+  "description": "This tutorial will walk you through the basics of the Docusaurus i18n system.",
+  "source": "@site/versioned_docs/version-3.10.1/i18n/i18n-tutorial.mdx",
+  "sourceDirName": "i18n",
+  "slug": "/i18n/tutorial",
+  "permalink": "/docs/i18n/tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/i18n/i18n-tutorial.mdx",
+  "tags": [],
+  "version": "3.10.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "tutorial",
+    "description": "This tutorial will walk you through the basics of the Docusaurus i18n system.",
+    "slug": "/i18n/tutorial"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "i18n - Introduction",
+    "permalink": "/docs/i18n/introduction"
+  },
+  "next": {
+    "title": "Using Git",
+    "permalink": "/docs/i18n/git"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "search",
+  "title": "Search",
+  "description": "There are a few options you can use to add search to your website:",
+  "source": "@site/versioned_docs/version-3.8.1/search.mdx",
+  "sourceDirName": ".",
+  "slug": "/search",
+  "permalink": "/docs/3.8.1/search",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/search.mdx",
+  "tags": [],
+  "version": "3.8.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "keywords": [
+      "algolia",
+      "search"
+    ]
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Static Assets",
+    "permalink": "/docs/3.8.1/static-assets"
+  },
+  "next": {
+    "title": "Browser support",
+    "permalink": "/docs/3.8.1/browser-support"
+  }
+}

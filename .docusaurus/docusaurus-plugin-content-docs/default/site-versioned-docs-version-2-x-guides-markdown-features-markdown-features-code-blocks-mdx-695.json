@@ -1,0 +1,30 @@
+{
+  "id": "guides/markdown-features/code-blocks",
+  "title": "Code blocks",
+  "description": "Handling code blocks in Docusaurus Markdown",
+  "source": "@site/versioned_docs/version-2.x/guides/markdown-features/markdown-features-code-blocks.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/code-blocks",
+  "permalink": "/docs/2.x/markdown-features/code-blocks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-code-blocks.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "code-blocks",
+    "description": "Handling code blocks in Docusaurus Markdown",
+    "slug": "/markdown-features/code-blocks"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tabs",
+    "permalink": "/docs/2.x/markdown-features/tabs"
+  },
+  "next": {
+    "title": "Admonitions",
+    "permalink": "/docs/2.x/markdown-features/admonitions"
+  }
+}

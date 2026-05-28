@@ -1,0 +1,47 @@
+{
+  "permalink": "/tests/blog/unlisted-post",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_blog tests/2022-08-24-post-unlisted.mdx",
+  "source": "@site/_dogfooding/_blog tests/2022-08-24-post-unlisted.mdx",
+  "title": "Unlisted blog post",
+  "description": "This unlisted blog post should be \"hidden\" in production, but remain accessible.",
+  "date": "2022-08-24T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Blog",
+      "permalink": "/tests/blog/tags/blog"
+    },
+    {
+      "inline": false,
+      "label": "Visibility",
+      "permalink": "/tests/blog/tags/visibility"
+    },
+    {
+      "inline": false,
+      "label": "Unlisted",
+      "permalink": "/tests/blog/tags/unlisted"
+    }
+  ],
+  "readingTime": 4.2,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Unlisted blog post",
+    "unlisted": true,
+    "tags": [
+      "blog",
+      "visibility",
+      "unlisted"
+    ],
+    "slug": "/unlisted-post"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Draft blog post",
+    "permalink": "/tests/blog/draft-post"
+  },
+  "nextItem": {
+    "title": "First post with footnote to test posts with same footnote reference.",
+    "permalink": "/tests/blog/2022/04/20/dup-footnote"
+  }
+}

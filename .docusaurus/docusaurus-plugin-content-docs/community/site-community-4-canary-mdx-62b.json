@@ -1,0 +1,27 @@
+{
+  "id": "canary",
+  "title": "Canary releases",
+  "description": "Docusaurus has a canary releases system.",
+  "source": "@site/community/4-canary.mdx",
+  "sourceDirName": ".",
+  "slug": "/canary",
+  "permalink": "/community/canary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/community/4-canary.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "community",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/community/contributing"
+  },
+  "next": {
+    "title": "Release process",
+    "permalink": "/community/release-process"
+  }
+}

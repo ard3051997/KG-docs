@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.57",
+  "source": "@site/changelog/source/2.0.0-alpha.57.md",
+  "title": "2.0.0-alpha.57",
+  "description": "Bad release, check ## 2.0.0-alpha.58",
+  "date": "2020-06-18T19:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2020-06-18T19:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.58",
+    "permalink": "/changelog/2.0.0-alpha.58"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.56",
+    "permalink": "/changelog/2.0.0-alpha.56"
+  },
+  "listPageLink": "/changelog/page/4"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "api/themes/theme-mermaid",
+  "title": "📦 theme-mermaid",
+  "description": "This theme provides a @theme/Mermaid component that is powered by mermaid. You can read more on diagrams documentation.",
+  "source": "@site/docs/api/themes/theme-mermaid.mdx",
+  "sourceDirName": "api/themes",
+  "slug": "/api/themes/@docusaurus/theme-mermaid",
+  "permalink": "/docs/next/api/themes/@docusaurus/theme-mermaid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/themes/theme-mermaid.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "slug": "/api/themes/@docusaurus/theme-mermaid"
+  }
+}

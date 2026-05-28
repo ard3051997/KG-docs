@@ -1,0 +1,26 @@
+{
+  "id": "human_org/prd-case-study",
+  "title": "PRD Writing Guide & Release Case Study",
+  "description": "This document provides our step-by-step guide for writing Product Requirement Documents (PRDs) at KalaGato, paired with an institutional case study detailing the successful Clone Armies Super Hero Skin Pack Release.",
+  "source": "@site/docs/human_org/prd-case-study.md",
+  "sourceDirName": "human_org",
+  "slug": "/human_org/prd-case-study",
+  "permalink": "/docs/human_org/prd-case-study",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/human_org/prd-case-study.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Standard Operating Procedure (SOP) for Release",
+    "permalink": "/docs/human_org/release-sop"
+  },
+  "next": {
+    "title": "M&A Due Diligence & Pipeline Audits",
+    "permalink": "/docs/human_org/due-diligence"
+  }
+}

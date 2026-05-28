@@ -1,0 +1,26 @@
+{
+  "id": "agent_org/paywall-pricing",
+  "title": "1.3 Paywall & Pricing Agent",
+  "description": "Tier: 1 Mobile Growth (worker)",
+  "source": "@site/docs/agent_org/paywall-pricing.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/paywall-pricing",
+  "permalink": "/docs/agent_org/paywall-pricing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/paywall-pricing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "1.2 AdMob Mediation Agent",
+    "permalink": "/docs/agent_org/admob-mediation"
+  },
+  "next": {
+    "title": "1.4 UA & Paid Marketing Agent",
+    "permalink": "/docs/agent_org/ua-paid"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "doc-with-last-update",
+  "title": "Doc With Last Update Front Matter",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/doc-with-last-update.mdx",
+  "sourceDirName": ".",
+  "slug": "/doc-with-last-update",
+  "permalink": "/tests/docs/doc-with-last-update",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/doc-with-last-update.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "last_update": {
+      "author": "custom author",
+      "date": "1/1/2000"
+    }
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc with another sidebar",
+    "permalink": "/tests/docs/doc-with-another-sidebar"
+  },
+  "next": {
+    "title": "Tests",
+    "permalink": "/tests/docs/category/tests"
+  }
+}

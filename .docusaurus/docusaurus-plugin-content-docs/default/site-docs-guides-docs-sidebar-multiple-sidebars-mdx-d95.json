@@ -1,0 +1,19 @@
+{
+  "id": "guides/docs/sidebar/multiple-sidebars",
+  "title": "Using multiple sidebars",
+  "description": "You can create a sidebar for each set of Markdown files that you want to group together.",
+  "source": "@site/docs/guides/docs/sidebar/multiple-sidebars.mdx",
+  "sourceDirName": "guides/docs/sidebar",
+  "slug": "/sidebar/multiple-sidebars",
+  "permalink": "/docs/next/sidebar/multiple-sidebars",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/docs/sidebar/multiple-sidebars.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/sidebar/multiple-sidebars"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.32",
+  "source": "@site/changelog/source/2.0.0-alpha.32.md",
+  "title": "2.0.0-alpha.32",
+  "description": "Features",
+  "date": "2019-11-04T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-11-04T20:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.33",
+    "permalink": "/changelog/2.0.0-alpha.33"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.31",
+    "permalink": "/changelog/2.0.0-alpha.31"
+  },
+  "listPageLink": "/changelog/page/5"
+}

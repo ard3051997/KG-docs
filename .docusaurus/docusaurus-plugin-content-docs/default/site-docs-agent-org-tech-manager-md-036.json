@@ -1,0 +1,26 @@
+{
+  "id": "agent_org/tech-manager",
+  "title": "2.0 Tech Manager Agent",
+  "description": "Tier: 2 Tech",
+  "source": "@site/docs/agent_org/tech-manager.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/tech-manager",
+  "permalink": "/docs/agent_org/tech-manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/tech-manager.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "1.7 Store Listing & Creatives Agent",
+    "permalink": "/docs/agent_org/store-creatives"
+  },
+  "next": {
+    "title": "2.1 Android Dev Agent",
+    "permalink": "/docs/agent_org/android-dev"
+  }
+}

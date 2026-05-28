@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-sitemap",
+  "title": "📦 plugin-sitemap",
+  "description": "This plugin creates sitemaps for your site so that search engine crawlers can crawl your site more accurately.",
+  "source": "@site/versioned_docs/version-3.10.1/api/plugins/plugin-sitemap.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-sitemap",
+  "permalink": "/docs/api/plugins/@docusaurus/plugin-sitemap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-sitemap.mdx",
+  "tags": [],
+  "version": "3.10.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "slug": "/api/plugins/@docusaurus/plugin-sitemap"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-pwa",
+    "permalink": "/docs/api/plugins/@docusaurus/plugin-pwa"
+  },
+  "next": {
+    "title": "📦 plugin-vercel-analytics",
+    "permalink": "/docs/api/plugins/@docusaurus/plugin-vercel-analytics"
+  }
+}

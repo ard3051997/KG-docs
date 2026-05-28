@@ -1,0 +1,21 @@
+{
+  "id": "api/plugins/plugin-ideal-image",
+  "title": "📦 plugin-ideal-image",
+  "description": "Docusaurus Plugin to generate an almost ideal image (responsive, lazy-loading, and low quality placeholder).",
+  "source": "@site/docs/api/plugins/plugin-ideal-image.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-ideal-image",
+  "permalink": "/docs/next/api/plugins/@docusaurus/plugin-ideal-image",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-ideal-image.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "slug": "/api/plugins/@docusaurus/plugin-ideal-image"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "folder with space/doc 2",
+  "title": "Doc 2",
+  "description": "Inside folder with space",
+  "source": "@site/_dogfooding/_docs tests/folder with space/doc 2.mdx",
+  "sourceDirName": "folder with space",
+  "slug": "/folder with space/doc 2",
+  "permalink": "/tests/docs/folder with space/doc 2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/folder with space/doc 2.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

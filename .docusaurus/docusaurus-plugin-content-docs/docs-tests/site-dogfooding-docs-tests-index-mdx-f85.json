@@ -1,0 +1,47 @@
+{
+  "id": "index",
+  "title": "Docs tests",
+  "description": "This Docusaurus docs plugin instance is meant to test fancy edge-cases that regular unit tests don't really cover.",
+  "source": "@site/_dogfooding/_docs tests/index.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/tests/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/index.mdx",
+  "tags": [
+    {
+      "inline": false,
+      "label": "A",
+      "permalink": "/tests/docs/tags/a",
+      "description": "Description for tag a"
+    },
+    {
+      "inline": false,
+      "label": "Label for tag b",
+      "permalink": "/tests/docs/tags/b"
+    },
+    {
+      "inline": false,
+      "label": "C",
+      "permalink": "/tests/docs/tags/permalink-for-tag-c"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "tags": [
+      "a",
+      "b",
+      "c"
+    ],
+    "unlisted": true,
+    "id": "index",
+    "sidebar_label": "Docs tests"
+  },
+  "sidebar": "sidebar",
+  "next": {
+    "title": "Doc without sidebar",
+    "permalink": "/tests/docs/doc-without-sidebar"
+  }
+}

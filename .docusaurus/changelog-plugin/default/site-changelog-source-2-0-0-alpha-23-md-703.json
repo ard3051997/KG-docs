@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.23",
+  "source": "@site/changelog/source/2.0.0-alpha.23.md",
+  "title": "2.0.0-alpha.23",
+  "description": "- Fix docusaurus route config generation for certain edge case",
+  "date": "2019-07-21T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-07-21T20:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.24",
+    "permalink": "/changelog/2.0.0-alpha.24"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.22",
+    "permalink": "/changelog/2.0.0-alpha.22"
+  },
+  "listPageLink": "/changelog/page/6"
+}

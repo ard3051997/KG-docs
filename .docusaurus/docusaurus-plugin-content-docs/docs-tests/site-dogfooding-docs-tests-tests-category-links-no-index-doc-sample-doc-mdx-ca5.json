@@ -1,0 +1,24 @@
+{
+  "id": "tests/category-links/no-index-doc/sample-doc",
+  "title": "Sample doc",
+  "description": "Lorem Ipsum",
+  "source": "@site/_dogfooding/_docs tests/tests/category-links/no-index-doc/sample-doc.mdx",
+  "sourceDirName": "tests/category-links/no-index-doc",
+  "slug": "/tests/category-links/no-index-doc/sample-doc",
+  "permalink": "/tests/docs/tests/category-links/no-index-doc/sample-doc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/category-links/no-index-doc/sample-doc.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Index",
+    "permalink": "/tests/docs/tests/category-links/no-index-doc/"
+  },
+  "next": {
+    "title": "No sub-docs",
+    "permalink": "/tests/docs/tests/category-links/no-subdoc/"
+  }
+}

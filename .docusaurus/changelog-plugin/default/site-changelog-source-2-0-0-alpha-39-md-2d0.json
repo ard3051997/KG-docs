@@ -1,0 +1,40 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.39",
+  "source": "@site/changelog/source/2.0.0-alpha.39.md",
+  "title": "2.0.0-alpha.39",
+  "description": "Bug Fix",
+  "date": "2019-12-07T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Endi",
+      "alias": "endiliey",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "endiliey",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-12-07T20:00",
+    "authors": [
+      "endiliey"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.40",
+    "permalink": "/changelog/2.0.0-alpha.40"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.38",
+    "permalink": "/changelog/2.0.0-alpha.38"
+  },
+  "listPageLink": "/changelog/page/5"
+}

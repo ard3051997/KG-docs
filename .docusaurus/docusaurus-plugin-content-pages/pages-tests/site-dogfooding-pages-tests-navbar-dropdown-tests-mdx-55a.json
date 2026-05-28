@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/navbar-dropdown-tests",
+  "source": "@site/_dogfooding/_pages tests/navbar-dropdown-tests.mdx",
+  "title": "navbar-dropdown-tests",
+  "description": "1. Make sure that the theme switcher is placed immediately after the language switcher in the navbar.",
+  "frontMatter": {},
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/navbar-dropdown-tests.mdx",
+  "unlisted": false
+}

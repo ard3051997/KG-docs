@@ -1,0 +1,31 @@
+{
+  "id": "api/docusaurus.config.js",
+  "title": "docusaurus.config.js",
+  "description": "API reference for Docusaurus configuration file.",
+  "source": "@site/versioned_docs/version-3.7.0/api/docusaurus.config.js.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/docusaurus-config",
+  "permalink": "/docs/3.7.0/api/docusaurus-config",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/docusaurus.config.js.mdx",
+  "tags": [],
+  "version": "3.7.0",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "description": "API reference for Docusaurus configuration file.",
+    "slug": "/api/docusaurus-config"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Client API",
+    "permalink": "/docs/3.7.0/docusaurus-core"
+  },
+  "next": {
+    "title": "Plugin Method References",
+    "permalink": "/docs/3.7.0/api/plugin-methods/"
+  }
+}

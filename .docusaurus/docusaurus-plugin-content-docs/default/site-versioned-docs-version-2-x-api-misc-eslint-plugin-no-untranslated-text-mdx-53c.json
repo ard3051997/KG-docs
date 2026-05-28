@@ -1,0 +1,28 @@
+{
+  "id": "api/misc/eslint-plugin/no-untranslated-text",
+  "title": "no-untranslated-text",
+  "description": "Enforce text labels in JSX to be wrapped by translate calls.",
+  "source": "@site/versioned_docs/version-2.x/api/misc/eslint-plugin/no-untranslated-text.mdx",
+  "sourceDirName": "api/misc/eslint-plugin",
+  "slug": "/api/misc/@docusaurus/eslint-plugin/no-untranslated-text",
+  "permalink": "/docs/2.x/api/misc/@docusaurus/eslint-plugin/no-untranslated-text",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/misc/eslint-plugin/no-untranslated-text.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/api/misc/@docusaurus/eslint-plugin/no-untranslated-text"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 eslint-plugin",
+    "permalink": "/docs/2.x/api/misc/@docusaurus/eslint-plugin"
+  },
+  "next": {
+    "title": "string-literal-i18n-messages",
+    "permalink": "/docs/2.x/api/misc/@docusaurus/eslint-plugin/string-literal-i18n-messages"
+  }
+}

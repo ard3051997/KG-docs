@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/2022/01/24/docusaurus-2021-recap",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2022/01-24-docusaurus-2021-recap/index.mdx",
+  "source": "@site/blog/2022/01-24-docusaurus-2021-recap/index.mdx",
+  "title": "Docusaurus 2021 Recap",
+  "description": "Docusaurus has made great progress in 2021! We've seen a lot of traction and just crossed 30k stars on GitHub!",
+  "date": "2022-01-24T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Recap",
+      "permalink": "/blog/tags/recap",
+      "description": "Blog posts about Docusaurus' year recaps"
+    }
+  ],
+  "readingTime": 7.02,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Joshua Chen",
+      "title": "Working hard on Docusaurus",
+      "url": "https://joshcena.com/",
+      "email": "sidachen2003@gmail.com",
+      "page": {
+        "permalink": "/blog/authors/josh-cena"
+      },
+      "imageURL": "https://github.com/josh-cena.png",
+      "key": "Josh-Cena"
+    }
+  ],
+  "frontMatter": {
+    "title": "Docusaurus 2021 Recap",
+    "authors": [
+      "Josh-Cena"
+    ],
+    "tags": [
+      "recap"
+    ],
+    "image": "./img/thumbnail.png"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Announcing Docusaurus 2.0",
+    "permalink": "/blog/2022/08/01/announcing-docusaurus-2.0"
+  },
+  "nextItem": {
+    "title": "DocSearch migration",
+    "permalink": "/blog/2021/11/21/algolia-docsearch-migration"
+  }
+}

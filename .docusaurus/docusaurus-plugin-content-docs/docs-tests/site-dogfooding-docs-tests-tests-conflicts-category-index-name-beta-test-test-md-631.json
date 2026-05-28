@@ -1,0 +1,24 @@
+{
+  "id": "tests/Conflicts/category-index-name/beta/test/test",
+  "title": "test",
+  "description": "Test file",
+  "source": "@site/_dogfooding/_docs tests/tests/Conflicts/category-index-name/beta/test/test.md",
+  "sourceDirName": "tests/Conflicts/category-index-name/beta/test",
+  "slug": "/tests/Conflicts/category-index-name/beta/test/",
+  "permalink": "/tests/docs/tests/Conflicts/category-index-name/beta/test/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/Conflicts/category-index-name/beta/test/test.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "CategoryLabelTest",
+    "permalink": "/tests/docs/category/categorylabeltest-1"
+  },
+  "next": {
+    "title": "Category Index Name conflict 2",
+    "permalink": "/tests/docs/category/category-index-name-conflict-2"
+  }
+}

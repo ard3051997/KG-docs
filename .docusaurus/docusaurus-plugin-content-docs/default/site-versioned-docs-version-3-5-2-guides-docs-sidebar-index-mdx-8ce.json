@@ -1,0 +1,28 @@
+{
+  "id": "guides/docs/sidebar/index",
+  "title": "Sidebar",
+  "description": "Creating a sidebar is useful to:",
+  "source": "@site/versioned_docs/version-3.5.2/guides/docs/sidebar/index.mdx",
+  "sourceDirName": "guides/docs/sidebar",
+  "slug": "/sidebar",
+  "permalink": "/docs/3.5.2/sidebar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/docs/sidebar/index.mdx",
+  "tags": [],
+  "version": "3.5.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/sidebar"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Create a doc",
+    "permalink": "/docs/3.5.2/create-doc"
+  },
+  "next": {
+    "title": "Sidebar items",
+    "permalink": "/docs/3.5.2/sidebar/items"
+  }
+}

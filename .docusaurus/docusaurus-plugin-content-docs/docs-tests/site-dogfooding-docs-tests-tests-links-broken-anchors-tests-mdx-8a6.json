@@ -1,0 +1,24 @@
+{
+  "id": "tests/links/broken-anchors-tests",
+  "title": "Broken Anchors tests",
+  "description": "Markdown link to above anchor",
+  "source": "@site/_dogfooding/_docs tests/tests/links/broken-anchors-tests.mdx",
+  "sourceDirName": "tests/links",
+  "slug": "/tests/links/broken-anchors-tests",
+  "permalink": "/tests/docs/tests/links/broken-anchors-tests",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/links/broken-anchors-tests.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Import Bad Package",
+    "permalink": "/tests/docs/tests/import-bad-package"
+  },
+  "next": {
+    "title": "Link resolution tests",
+    "permalink": "/tests/docs/tests/links/resolution/"
+  }
+}

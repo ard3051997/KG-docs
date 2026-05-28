@@ -1,0 +1,26 @@
+{
+  "id": "kg_system/README",
+  "title": "Kalagato Agentic Org — Mobile Growth & Tech",
+  "description": "Version: 1.0",
+  "source": "@site/docs/kg_system/README.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/",
+  "permalink": "/docs/kg_system/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/README.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "KalaGato Agentic Org & Release SOP",
+    "permalink": "/docs/category/kalagato-agentic-org--release-sop"
+  },
+  "next": {
+    "title": "Standard Operating Procedure (SOP) for Releases",
+    "permalink": "/docs/kg_system/release-sop"
+  }
+}

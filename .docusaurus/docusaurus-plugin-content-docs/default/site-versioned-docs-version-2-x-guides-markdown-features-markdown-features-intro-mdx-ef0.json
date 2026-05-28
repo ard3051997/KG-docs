@@ -1,0 +1,30 @@
+{
+  "id": "guides/markdown-features/introduction",
+  "title": "Markdown Features",
+  "description": "Docusaurus uses MDX. Find out more about Docusaurus-specific features when writing Markdown.",
+  "source": "@site/versioned_docs/version-2.x/guides/markdown-features/markdown-features-intro.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features",
+  "permalink": "/docs/2.x/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-intro.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "introduction",
+    "description": "Docusaurus uses MDX. Find out more about Docusaurus-specific features when writing Markdown.",
+    "slug": "/markdown-features"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Blog",
+    "permalink": "/docs/2.x/blog"
+  },
+  "next": {
+    "title": "MDX and React",
+    "permalink": "/docs/2.x/markdown-features/react"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tests/Conflicts/category-index-name-2/beta/test/index",
+  "title": "Test",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/tests/Conflicts/category-index-name-2/beta/test/index.md",
+  "sourceDirName": "tests/Conflicts/category-index-name-2/beta/test",
+  "slug": "/tests/Conflicts/category-index-name-2/beta/test/",
+  "permalink": "/tests/docs/tests/Conflicts/category-index-name-2/beta/test/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/Conflicts/category-index-name-2/beta/test/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Test",
+    "sidebar_key": "category-index-name-2.beta.test"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc",
+    "permalink": "/tests/docs/tests/Conflicts/category-index-name-2/alpha/test/doc"
+  },
+  "next": {
+    "title": "Doc",
+    "permalink": "/tests/docs/tests/Conflicts/category-index-name-2/beta/test/doc"
+  }
+}

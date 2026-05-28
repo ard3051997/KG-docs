@@ -1,0 +1,19 @@
+{
+  "id": "static-assets",
+  "title": "Static Assets",
+  "description": "Static assets are the non-code files that are directly copied to the build output. Learn about how they are handled and what the best practices of using static assets are.",
+  "source": "@site/docs/static-assets.mdx",
+  "sourceDirName": ".",
+  "slug": "/static-assets",
+  "permalink": "/docs/next/static-assets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/static-assets.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Static assets are the non-code files that are directly copied to the build output. Learn about how they are handled and what the best practices of using static assets are."
+  }
+}

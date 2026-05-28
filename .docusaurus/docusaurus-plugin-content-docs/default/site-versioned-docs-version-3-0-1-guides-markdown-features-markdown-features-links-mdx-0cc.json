@@ -1,0 +1,30 @@
+{
+  "id": "guides/markdown-features/links",
+  "title": "Markdown links",
+  "description": "Links to other pages in Markdown",
+  "source": "@site/versioned_docs/version-3.0.1/guides/markdown-features/markdown-features-links.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/links",
+  "permalink": "/docs/3.0.1/markdown-features/links",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-links.mdx",
+  "tags": [],
+  "version": "3.0.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "links",
+    "description": "Links to other pages in Markdown",
+    "slug": "/markdown-features/links"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Assets",
+    "permalink": "/docs/3.0.1/markdown-features/assets"
+  },
+  "next": {
+    "title": "MDX Plugins",
+    "permalink": "/docs/3.0.1/markdown-features/plugins"
+  }
+}

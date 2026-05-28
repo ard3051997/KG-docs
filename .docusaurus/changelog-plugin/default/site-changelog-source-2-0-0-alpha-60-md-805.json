@@ -1,0 +1,67 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.60",
+  "source": "@site/changelog/source/2.0.0-alpha.60.md",
+  "title": "2.0.0-alpha.60",
+  "description": "New Feature",
+  "date": "2020-07-29T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Hob Adams",
+      "alias": "hobadams",
+      "url": "https://github.com/hobadams",
+      "imageURL": "https://github.com/hobadams.png",
+      "key": "hobadams",
+      "page": null
+    },
+    {
+      "name": "Bartosz Kaszubowski",
+      "alias": "Simek",
+      "url": "https://github.com/Simek",
+      "imageURL": "https://github.com/Simek.png",
+      "key": "Simek",
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    },
+    {
+      "name": "Teik Jun",
+      "alias": "teikjun",
+      "url": "https://github.com/teikjun",
+      "imageURL": "https://github.com/teikjun.png",
+      "key": "teikjun",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2020-07-29T20:00",
+    "authors": [
+      "hobadams",
+      "Simek",
+      "slorber",
+      "teikjun"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.61",
+    "permalink": "/changelog/2.0.0-alpha.61"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.59",
+    "permalink": "/changelog/2.0.0-alpha.59"
+  },
+  "listPageLink": "/changelog/page/4"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tests/links/test-markdown-links",
+  "title": "Test links",
+  "description": "These are dogfood tests showing that Markdown links with md/mdx file references are resolved correctly.",
+  "source": "@site/_dogfooding/_docs tests/tests/links/test-markdown-links.mdx",
+  "sourceDirName": "tests/links",
+  "slug": "/tests/links/test-markdown-links",
+  "permalink": "/tests/docs/tests/links/test-markdown-links",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/links/test-markdown-links.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Target doc",
+    "permalink": "/tests/docs/tests/links/target-doc-slug"
+  },
+  "next": {
+    "title": "Sidebar Front Matter Tests",
+    "permalink": "/tests/docs/tests/sidebar-frontmatter/"
+  }
+}

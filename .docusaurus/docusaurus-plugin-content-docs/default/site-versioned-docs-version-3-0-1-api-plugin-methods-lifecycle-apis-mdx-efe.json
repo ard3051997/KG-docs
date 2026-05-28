@@ -1,0 +1,30 @@
+{
+  "id": "api/plugin-methods/lifecycle-apis",
+  "title": "Lifecycle APIs",
+  "description": "During the build, plugins are loaded in parallel to fetch their own contents and render them to routes. Plugins may also configure webpack or post-process the generated files.",
+  "source": "@site/versioned_docs/version-3.0.1/api/plugin-methods/lifecycle-apis.mdx",
+  "sourceDirName": "api/plugin-methods",
+  "slug": "/api/plugin-methods/lifecycle-apis",
+  "permalink": "/docs/3.0.1/api/plugin-methods/lifecycle-apis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugin-methods/lifecycle-apis.mdx",
+  "tags": [],
+  "version": "3.0.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Plugin Method References",
+    "permalink": "/docs/3.0.1/api/plugin-methods/"
+  },
+  "next": {
+    "title": "Extending infrastructure",
+    "permalink": "/docs/3.0.1/api/plugin-methods/extend-infrastructure"
+  }
+}

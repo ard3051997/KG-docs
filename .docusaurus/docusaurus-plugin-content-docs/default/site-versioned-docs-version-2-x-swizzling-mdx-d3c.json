@@ -1,0 +1,28 @@
+{
+  "id": "swizzling",
+  "title": "Swizzling",
+  "description": "Customize your site's appearance through creating your own theme components",
+  "source": "@site/versioned_docs/version-2.x/swizzling.mdx",
+  "sourceDirName": ".",
+  "slug": "/swizzling",
+  "permalink": "/docs/2.x/swizzling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/swizzling.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Customize your site's appearance through creating your own theme components"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Styling and Layout",
+    "permalink": "/docs/2.x/styling-layout"
+  },
+  "next": {
+    "title": "Static Assets",
+    "permalink": "/docs/2.x/static-assets"
+  }
+}

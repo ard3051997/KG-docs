@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/2018/12/14/Happy-First-Birthday-Slash",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2018/12-14-Happy-First-Birthday-Slash.mdx",
+  "source": "@site/blog/2018/12-14-Happy-First-Birthday-Slash.mdx",
+  "title": "Happy 1st Birthday Slash!",
+  "description": "Docusaurus makes 1 year! Happy Birthday Slash!",
+  "date": "2018-12-14T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Birth",
+      "permalink": "/blog/tags/birth"
+    }
+  ],
+  "readingTime": 0.87,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Joel Marcey",
+      "title": "Co-creator of Docusaurus",
+      "url": "https://x.com/JoelMarcey",
+      "page": {
+        "permalink": "/blog/authors/j-marcey"
+      },
+      "socials": {},
+      "imageURL": "https://github.com/JoelMarcey.png",
+      "key": "JMarcey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Happy 1st Birthday Slash!",
+    "authors": [
+      {
+        "key": "JMarcey",
+        "title": "Co-creator of Docusaurus"
+      }
+    ],
+    "tags": [
+      "birth"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Docusaurus 2019 Recap",
+    "permalink": "/blog/2019/12/30/docusaurus-2019-recap"
+  },
+  "nextItem": {
+    "title": "Towards Docusaurus 2",
+    "permalink": "/blog/2018/09/11/Towards-Docusaurus-2"
+  }
+}

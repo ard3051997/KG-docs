@@ -1,0 +1,33 @@
+{
+  "id": "seo",
+  "title": "Search engine optimization (SEO)",
+  "description": "How to make your Docusaurus site maximally search-engine-friendly.",
+  "source": "@site/versioned_docs/version-2.x/seo.mdx",
+  "sourceDirName": ".",
+  "slug": "/seo",
+  "permalink": "/docs/2.x/seo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/seo.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "How to make your Docusaurus site maximally search-engine-friendly.",
+    "sidebar_label": "SEO",
+    "keywords": [
+      "seo",
+      "positioning"
+    ]
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Browser support",
+    "permalink": "/docs/2.x/browser-support"
+  },
+  "next": {
+    "title": "Using Plugins",
+    "permalink": "/docs/2.x/using-plugins"
+  }
+}

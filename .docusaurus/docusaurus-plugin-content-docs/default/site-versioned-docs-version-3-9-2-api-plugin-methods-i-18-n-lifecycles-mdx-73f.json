@@ -1,0 +1,29 @@
+{
+  "id": "api/plugin-methods/i18n-lifecycles",
+  "title": "I18n lifecycles",
+  "description": "Plugins use these lifecycles to load i18n-related data.",
+  "source": "@site/versioned_docs/version-3.9.2/api/plugin-methods/i18n-lifecycles.mdx",
+  "sourceDirName": "api/plugin-methods",
+  "slug": "/api/plugin-methods/i18n-lifecycles",
+  "permalink": "/docs/3.9.2/api/plugin-methods/i18n-lifecycles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugin-methods/i18n-lifecycles.mdx",
+  "tags": [],
+  "version": "3.9.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Extending infrastructure",
+    "permalink": "/docs/3.9.2/api/plugin-methods/extend-infrastructure"
+  },
+  "next": {
+    "title": "Static methods",
+    "permalink": "/docs/3.9.2/api/plugin-methods/static-methods"
+  }
+}

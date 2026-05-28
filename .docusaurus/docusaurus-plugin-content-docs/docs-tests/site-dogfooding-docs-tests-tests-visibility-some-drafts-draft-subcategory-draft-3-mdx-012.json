@@ -1,0 +1,41 @@
+{
+  "id": "tests/visibility/some-drafts/draft-subcategory/draft3",
+  "title": "Some Drafts - Draft 3",
+  "description": "Doc with draft front matter",
+  "source": "@site/_dogfooding/_docs tests/tests/visibility/some-drafts/draft-subcategory/draft3.mdx",
+  "sourceDirName": "tests/visibility/some-drafts/draft-subcategory",
+  "slug": "/tests/visibility/some-drafts/draft-subcategory/draft3",
+  "permalink": "/tests/docs/tests/visibility/some-drafts/draft-subcategory/draft3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/visibility/some-drafts/draft-subcategory/draft3.mdx",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Visibility",
+      "permalink": "/tests/docs/tags/visibility"
+    },
+    {
+      "inline": false,
+      "label": "Draft",
+      "permalink": "/tests/docs/tags/draft"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "draft": true,
+    "tags": [
+      "visibility",
+      "draft"
+    ]
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Some Drafts - Subcategory index draft",
+    "permalink": "/tests/docs/tests/visibility/some-drafts/draft-subcategory/"
+  },
+  "next": {
+    "title": "Some Drafts - Listed 1",
+    "permalink": "/tests/docs/tests/visibility/some-drafts/draft-subcategory/listed1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tests/category-links/readme",
+  "title": "Readme",
+  "description": "This readme.md should not be used as the category index due to the category.json link",
+  "source": "@site/_dogfooding/_docs tests/tests/category-links/readme.mdx",
+  "sourceDirName": "tests/category-links",
+  "slug": "/tests/category-links/",
+  "permalink": "/tests/docs/tests/category-links/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/category-links/readme.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "No sub-docs",
+    "permalink": "/tests/docs/tests/category-links/no-subdoc/"
+  },
+  "next": {
+    "title": "Sample doc",
+    "permalink": "/tests/docs/tests/category-links/regular-category/sample-doc"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "permalink": "/tests/blog/2024/07/03/dual-author",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_blog tests/2024-07-03-dual-author.mdx",
+  "source": "@site/_dogfooding/_blog tests/2024-07-03-dual-author.mdx",
+  "title": "Dual author socials",
+  "description": "Content",
+  "date": "2024-07-03T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.2,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "imageURL": "https://github.com/slorber.png",
+      "socials": {
+        "x": "https://x.com/sebastienlorber",
+        "github": "https://github.com/slorber",
+        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
+        "newsletter": "https://thisweekinreact.com/newsletter"
+      },
+      "key": null,
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "imageURL": "https://github.com/slorber.png",
+      "socials": {
+        "x": "https://x.com/sebastienlorber",
+        "github": "https://github.com/slorber",
+        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
+        "newsletter": "https://thisweekinreact.com/newsletter"
+      },
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "title": "Dual author socials",
+    "authors": [
+      {
+        "name": "Sébastien Lorber",
+        "imageURL": "https://github.com/slorber.png",
+        "socials": {
+          "x": "https://x.com/sebastienlorber",
+          "github": "https://github.com/slorber",
+          "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
+          "newsletter": "https://thisweekinreact.com/newsletter"
+        }
+      },
+      {
+        "name": "Sébastien Lorber",
+        "imageURL": "https://github.com/slorber.png",
+        "socials": {
+          "x": "https://x.com/sebastienlorber",
+          "github": "https://github.com/slorber",
+          "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
+          "newsletter": "https://thisweekinreact.com/newsletter"
+        }
+      }
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "How multiple authors with socials looks",
+    "permalink": "/tests/blog/2024/07/03/multiple-authors"
+  }
+}

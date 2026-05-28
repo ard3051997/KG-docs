@@ -1,0 +1,24 @@
+{
+  "id": "tests/ascii/folder/æøå",
+  "title": "æøå",
+  "description": "Dogfood test for https://github.com/facebook/docusaurus/pull/8137",
+  "source": "@site/_dogfooding/_docs tests/tests/ascii/folder/æøå.mdx",
+  "sourceDirName": "tests/ascii/folder",
+  "slug": "/tests/ascii/folder/æøå",
+  "permalink": "/tests/docs/tests/ascii/folder/æøå",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/ascii/folder/æøå.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Another Draft",
+    "permalink": "/tests/docs/tests/another-draft"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/tests/docs/tests/ascii/æøå/"
+  }
+}

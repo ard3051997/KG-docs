@@ -1,0 +1,23 @@
+{
+  "id": "release-process",
+  "title": "Release process",
+  "description": "Let's see how Docusaurus handles versioning, releases and breaking changes.",
+  "source": "@site/community/5-release-process.mdx",
+  "sourceDirName": ".",
+  "slug": "/release-process",
+  "permalink": "/community/release-process",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/community/5-release-process.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "community",
+  "previous": {
+    "title": "Canary releases",
+    "permalink": "/community/canary"
+  }
+}

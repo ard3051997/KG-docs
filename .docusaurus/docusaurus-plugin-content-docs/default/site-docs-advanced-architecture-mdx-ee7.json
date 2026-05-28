@@ -1,0 +1,19 @@
+{
+  "id": "advanced/architecture",
+  "title": "Architecture",
+  "description": "How Docusaurus works to build your app",
+  "source": "@site/docs/advanced/architecture.mdx",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/architecture",
+  "permalink": "/docs/next/advanced/architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/advanced/architecture.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "How Docusaurus works to build your app"
+  }
+}

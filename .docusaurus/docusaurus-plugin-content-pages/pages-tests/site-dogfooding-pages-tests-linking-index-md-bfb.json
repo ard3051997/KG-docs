@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/linking/",
+  "source": "@site/_dogfooding/_pages tests/linking/index.md",
+  "title": "Markdown Linking Test",
+  "description": "Test pages to verify markdown file path links work in the pages plugin",
+  "frontMatter": {
+    "title": "Markdown Linking Test",
+    "description": "Test pages to verify markdown file path links work in the pages plugin"
+  },
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/linking/index.md",
+  "unlisted": false
+}

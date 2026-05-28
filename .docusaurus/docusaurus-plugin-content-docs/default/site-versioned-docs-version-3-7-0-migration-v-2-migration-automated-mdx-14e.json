@@ -1,0 +1,28 @@
+{
+  "id": "migration/v2/migration-automated",
+  "title": "Automated migration",
+  "description": "The migration CLI automatically migrates your v1 website to a v2 website.",
+  "source": "@site/versioned_docs/version-3.7.0/migration/v2/migration-automated.mdx",
+  "sourceDirName": "migration/v2",
+  "slug": "/migration/v2/automated",
+  "permalink": "/docs/3.7.0/migration/v2/automated",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/migration/v2/migration-automated.mdx",
+  "tags": [],
+  "version": "3.7.0",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/migration/v2/automated"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/3.7.0/migration/v2"
+  },
+  "next": {
+    "title": "Manual migration",
+    "permalink": "/docs/3.7.0/migration/v2/manual"
+  }
+}

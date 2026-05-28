@@ -1,0 +1,23 @@
+{
+  "id": "support",
+  "title": "Support",
+  "description": "Docusaurus has a community of thousands of developers.",
+  "source": "@site/community/0-support.mdx",
+  "sourceDirName": ".",
+  "slug": "/support",
+  "permalink": "/community/support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/community/0-support.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "community",
+  "next": {
+    "title": "Team",
+    "permalink": "/community/team"
+  }
+}

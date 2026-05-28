@@ -1,0 +1,67 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.75",
+  "source": "@site/changelog/source/2.0.0-alpha.75.md",
+  "title": "2.0.0-alpha.75",
+  "description": "Breaking Change",
+  "date": "2021-04-30T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Geoffroy Empain",
+      "alias": "gempain",
+      "url": "https://github.com/gempain",
+      "imageURL": "https://github.com/gempain.png",
+      "key": "gempain",
+      "page": null
+    },
+    {
+      "name": "Reece Dunham",
+      "alias": "RDIL",
+      "url": "https://github.com/RDIL",
+      "imageURL": "https://github.com/RDIL.png",
+      "key": "RDIL",
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    },
+    {
+      "name": "Tommy Chen",
+      "alias": "tommy351",
+      "url": "https://github.com/tommy351",
+      "imageURL": "https://github.com/tommy351.png",
+      "key": "tommy351",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2021-04-30T20:00",
+    "authors": [
+      "gempain",
+      "RDIL",
+      "slorber",
+      "tommy351"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-beta.0",
+    "permalink": "/changelog/2.0.0-beta.0"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.74",
+    "permalink": "/changelog/2.0.0-alpha.74"
+  },
+  "listPageLink": "/changelog/page/3"
+}

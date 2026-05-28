@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-debug",
+  "title": "📦 plugin-debug",
+  "description": "The debug plugin will display useful debug information at http3000/docusaurus/debug.",
+  "source": "@site/versioned_docs/version-3.7.0/api/plugins/plugin-debug.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-debug",
+  "permalink": "/docs/3.7.0/api/plugins/@docusaurus/plugin-debug",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-debug.mdx",
+  "tags": [],
+  "version": "3.7.0",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "slug": "/api/plugins/@docusaurus/plugin-debug"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-client-redirects",
+    "permalink": "/docs/3.7.0/api/plugins/@docusaurus/plugin-client-redirects"
+  },
+  "next": {
+    "title": "📦 plugin-google-analytics",
+    "permalink": "/docs/3.7.0/api/plugins/@docusaurus/plugin-google-analytics"
+  }
+}

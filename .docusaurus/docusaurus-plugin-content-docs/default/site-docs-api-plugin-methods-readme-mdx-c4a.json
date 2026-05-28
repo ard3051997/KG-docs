@@ -1,0 +1,17 @@
+{
+  "id": "api/plugin-methods/README",
+  "title": "Plugin Method References",
+  "description": "This section is a work in progress. Anchor links or even URLs are not guaranteed to be stable.",
+  "source": "@site/docs/api/plugin-methods/README.mdx",
+  "sourceDirName": "api/plugin-methods",
+  "slug": "/api/plugin-methods/",
+  "permalink": "/docs/next/api/plugin-methods/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugin-methods/README.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {}
+}

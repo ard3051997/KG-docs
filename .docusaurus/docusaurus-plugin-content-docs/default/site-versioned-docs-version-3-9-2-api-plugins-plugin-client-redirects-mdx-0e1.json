@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-client-redirects",
+  "title": "📦 plugin-client-redirects",
+  "description": "Docusaurus Plugin to generate client-side redirects.",
+  "source": "@site/versioned_docs/version-3.9.2/api/plugins/plugin-client-redirects.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-client-redirects",
+  "permalink": "/docs/3.9.2/api/plugins/@docusaurus/plugin-client-redirects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-client-redirects.mdx",
+  "tags": [],
+  "version": "3.9.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "slug": "/api/plugins/@docusaurus/plugin-client-redirects"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-content-pages",
+    "permalink": "/docs/3.9.2/api/plugins/@docusaurus/plugin-content-pages"
+  },
+  "next": {
+    "title": "📦 plugin-debug",
+    "permalink": "/docs/3.9.2/api/plugins/@docusaurus/plugin-debug"
+  }
+}

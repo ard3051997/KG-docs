@@ -1,0 +1,29 @@
+{
+  "id": "agent_org/README",
+  "title": "Kalagato Agentic Org Mobile Growth & Tech",
+  "description": "Version: 1.0",
+  "source": "@site/docs/agent_org/README.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org",
+  "permalink": "/docs/agent_org",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/README.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "slug": "/agent_org",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Agentic Operational Layer (Agent Org)",
+    "permalink": "/docs/category/agentic-operational-layer-agent-org"
+  },
+  "next": {
+    "title": "Standard Operating Procedure (SOP) for Releases",
+    "permalink": "/docs/agent_org/release-sop"
+  }
+}

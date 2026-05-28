@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.67",
+  "source": "@site/changelog/source/2.0.0-alpha.67.md",
+  "title": "2.0.0-alpha.67",
+  "description": "Failed release",
+  "date": "2020-11-18T19:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2020-11-18T19:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.68",
+    "permalink": "/changelog/2.0.0-alpha.68"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.66",
+    "permalink": "/changelog/2.0.0-alpha.66"
+  },
+  "listPageLink": "/changelog/page/4"
+}

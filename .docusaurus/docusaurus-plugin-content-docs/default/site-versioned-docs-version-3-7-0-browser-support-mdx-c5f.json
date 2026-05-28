@@ -1,0 +1,28 @@
+{
+  "id": "browser-support",
+  "title": "Browser support",
+  "description": "How to keep a reasonable bundle size while ensuring sufficient browser support.",
+  "source": "@site/versioned_docs/version-3.7.0/browser-support.mdx",
+  "sourceDirName": ".",
+  "slug": "/browser-support",
+  "permalink": "/docs/3.7.0/browser-support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/browser-support.mdx",
+  "tags": [],
+  "version": "3.7.0",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "How to keep a reasonable bundle size while ensuring sufficient browser support."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Search",
+    "permalink": "/docs/3.7.0/search"
+  },
+  "next": {
+    "title": "SEO",
+    "permalink": "/docs/3.7.0/seo"
+  }
+}

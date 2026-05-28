@@ -1,0 +1,28 @@
+{
+  "id": "advanced/client",
+  "title": "Client architecture",
+  "description": "How the Docusaurus client is structured",
+  "source": "@site/versioned_docs/version-2.x/advanced/client.mdx",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/client",
+  "permalink": "/docs/2.x/advanced/client",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/advanced/client.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "How the Docusaurus client is structured"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Static site generation",
+    "permalink": "/docs/2.x/advanced/ssg"
+  },
+  "next": {
+    "title": "Migration overview",
+    "permalink": "/docs/2.x/migration"
+  }
+}

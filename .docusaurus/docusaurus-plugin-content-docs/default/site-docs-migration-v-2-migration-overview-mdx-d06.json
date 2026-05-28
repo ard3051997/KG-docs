@@ -1,0 +1,19 @@
+{
+  "id": "migration/v2/migration-overview",
+  "title": "Overview",
+  "description": "This doc guides you through migrating an existing Docusaurus 1 site to Docusaurus 2.",
+  "source": "@site/docs/migration/v2/migration-overview.mdx",
+  "sourceDirName": "migration/v2",
+  "slug": "/migration/v2",
+  "permalink": "/docs/next/migration/v2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/migration/v2/migration-overview.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/migration/v2"
+  }
+}

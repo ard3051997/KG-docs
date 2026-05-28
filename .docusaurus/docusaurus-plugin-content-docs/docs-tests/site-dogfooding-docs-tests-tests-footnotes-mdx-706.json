@@ -1,0 +1,24 @@
+{
+  "id": "tests/footnotes",
+  "title": "Footnotes",
+  "description": "Lorem ipsum dolor sit amet",
+  "source": "@site/_dogfooding/_docs tests/tests/footnotes.mdx",
+  "sourceDirName": "tests",
+  "slug": "/tests/footnotes",
+  "permalink": "/tests/docs/tests/footnotes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/footnotes.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Sample doc",
+    "permalink": "/tests/docs/tests/category-links/with-readme-doc/sample-doc"
+  },
+  "next": {
+    "title": "Image Tests",
+    "permalink": "/tests/docs/tests/images/"
+  }
+}

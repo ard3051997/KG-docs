@@ -1,0 +1,19 @@
+{
+  "id": "migration/v2/migration-translated-sites",
+  "title": "Translated sites",
+  "description": "This page explains how migrate a translated Docusaurus v1 site to Docusaurus v2.",
+  "source": "@site/docs/migration/v2/migration-translated-sites.mdx",
+  "sourceDirName": "migration/v2",
+  "slug": "/migration/v2/translated-sites",
+  "permalink": "/docs/next/migration/v2/translated-sites",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/migration/v2/migration-translated-sites.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/migration/v2/translated-sites"
+  }
+}

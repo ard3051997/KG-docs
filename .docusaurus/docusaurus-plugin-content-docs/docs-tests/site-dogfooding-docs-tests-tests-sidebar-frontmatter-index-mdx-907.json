@@ -1,0 +1,27 @@
+{
+  "id": "tests/sidebar-frontmatter/index",
+  "title": "Sidebar front matter",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/tests/sidebar-frontmatter/index.mdx",
+  "sourceDirName": "tests/sidebar-frontmatter",
+  "slug": "/tests/sidebar-frontmatter/",
+  "permalink": "/tests/docs/tests/sidebar-frontmatter/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/sidebar-frontmatter/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Sidebar Front Matter Tests",
+    "sidebar_class_name": "dogfood_sidebar_class_name_test"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Test links",
+    "permalink": "/tests/docs/tests/links/test-markdown-links"
+  },
+  "next": {
+    "title": "Dir with unique index label",
+    "permalink": "/tests/docs/tests/sidebar-frontmatter/dir-with-unique-index/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc3longlonglonglonglonglonglonglonglonglonglonglong",
+  "title": "Doc 3 longlonglonglonglonglonglonglonglonglonglonglong",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc3longlonglonglonglonglonglonglonglonglonglonglong.mdx",
+  "sourceDirName": "tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong",
+  "slug": "/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc3longlonglonglonglonglonglonglonglonglonglonglong",
+  "permalink": "/tests/docs/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc3longlonglonglonglonglonglonglonglonglonglonglong",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc3longlonglonglonglonglonglonglonglonglonglonglong.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc 2 long long long long long long long long long long long long",
+    "permalink": "/tests/docs/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc2 long long long long long long long long long long long long"
+  },
+  "next": {
+    "title": "Case-Sensitive doc",
+    "permalink": "/tests/docs/tests/Case-Sentitive-Doc"
+  }
+}

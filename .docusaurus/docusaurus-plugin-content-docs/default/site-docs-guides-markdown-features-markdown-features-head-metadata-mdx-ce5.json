@@ -1,0 +1,21 @@
+{
+  "id": "guides/markdown-features/head-metadata",
+  "title": "Head metadata",
+  "description": "Declaring page-specific head metadata through MDX",
+  "source": "@site/docs/guides/markdown-features/markdown-features-head-metadata.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/head-metadata",
+  "permalink": "/docs/next/markdown-features/head-metadata",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-head-metadata.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "head-metadata",
+    "description": "Declaring page-specific head metadata through MDX",
+    "slug": "/markdown-features/head-metadata"
+  }
+}

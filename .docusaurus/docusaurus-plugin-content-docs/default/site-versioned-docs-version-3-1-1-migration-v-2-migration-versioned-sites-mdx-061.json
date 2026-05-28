@@ -1,0 +1,28 @@
+{
+  "id": "migration/v2/migration-versioned-sites",
+  "title": "Versioned sites",
+  "description": "Read up https://docusaurus.io/blog/2018/09/11/Towards-Docusaurus-2#versioning first for problems in v1's approach.",
+  "source": "@site/versioned_docs/version-3.1.1/migration/v2/migration-versioned-sites.mdx",
+  "sourceDirName": "migration/v2",
+  "slug": "/migration/v2/versioned-sites",
+  "permalink": "/docs/3.1.1/migration/v2/versioned-sites",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/migration/v2/migration-versioned-sites.mdx",
+  "tags": [],
+  "version": "3.1.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/migration/v2/versioned-sites"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Manual migration",
+    "permalink": "/docs/3.1.1/migration/v2/manual"
+  },
+  "next": {
+    "title": "Translated sites",
+    "permalink": "/docs/3.1.1/migration/v2/translated-sites"
+  }
+}

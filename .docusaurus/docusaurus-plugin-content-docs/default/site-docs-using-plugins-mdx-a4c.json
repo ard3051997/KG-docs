@@ -1,0 +1,17 @@
+{
+  "id": "using-plugins",
+  "title": "Using Plugins",
+  "description": "The Docusaurus core doesn't provide any feature of its own. All features are delegated to individual plugins: the docs feature provided by the docs plugin; the blog feature provided by the blog plugin; or individual pages provided by the pages plugin. If there are no plugins installed, the site won't contain any routes.",
+  "source": "@site/docs/using-plugins.mdx",
+  "sourceDirName": ".",
+  "slug": "/using-plugins",
+  "permalink": "/docs/next/using-plugins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/using-plugins.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {}
+}

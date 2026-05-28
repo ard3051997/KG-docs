@@ -1,0 +1,24 @@
+{
+  "id": "tests/links/resolution/index",
+  "title": "Link resolution tests",
+  "description": "Test for issue #11099",
+  "source": "@site/_dogfooding/_docs tests/tests/links/resolution/index.mdx",
+  "sourceDirName": "tests/links/resolution",
+  "slug": "/tests/links/resolution/",
+  "permalink": "/tests/docs/tests/links/resolution/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/links/resolution/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Broken Anchors tests",
+    "permalink": "/tests/docs/tests/links/broken-anchors-tests"
+  },
+  "next": {
+    "title": "Target doc",
+    "permalink": "/tests/docs/tests/links/target-doc-slug"
+  }
+}

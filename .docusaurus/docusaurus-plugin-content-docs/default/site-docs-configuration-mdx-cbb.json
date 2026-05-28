@@ -1,0 +1,28 @@
+{
+  "id": "configuration",
+  "title": "Credentials & Configurations",
+  "description": "Comprehensive catalog of accounts, credentials management, key storage, and SDK configuration files across the KalaGato app ecosystem.",
+  "source": "@site/docs/configuration.mdx",
+  "sourceDirName": ".",
+  "slug": "/configuration",
+  "permalink": "/docs/configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/configuration.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Comprehensive catalog of accounts, credentials management, key storage, and SDK configuration files across the KalaGato app ecosystem."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Developer Staging & Setup",
+    "permalink": "/docs/installation"
+  },
+  "next": {
+    "title": "Interactive Testing & Playgrounds",
+    "permalink": "/docs/playground"
+  }
+}

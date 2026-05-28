@@ -1,0 +1,26 @@
+{
+  "id": "playground",
+  "title": "Playground",
+  "description": "Playgrounds allow you to run Docusaurus in your browser, without installing anything!",
+  "source": "@site/versioned_docs/version-2.x/playground.mdx",
+  "sourceDirName": ".",
+  "slug": "/playground",
+  "permalink": "/docs/2.x/playground",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/playground.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/2.x/configuration"
+  },
+  "next": {
+    "title": "TypeScript Support",
+    "permalink": "/docs/2.x/typescript-support"
+  }
+}

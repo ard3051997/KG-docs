@@ -1,0 +1,21 @@
+{
+  "id": "api/plugins/plugin-svgr",
+  "title": "📦 plugin-svgr",
+  "description": "An SVGR plugin to transform SVG files into React components automatically at build time.",
+  "source": "@site/docs/api/plugins/plugin-svgr.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-svgr",
+  "permalink": "/docs/next/api/plugins/@docusaurus/plugin-svgr",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-svgr.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "slug": "/api/plugins/@docusaurus/plugin-svgr"
+  }
+}

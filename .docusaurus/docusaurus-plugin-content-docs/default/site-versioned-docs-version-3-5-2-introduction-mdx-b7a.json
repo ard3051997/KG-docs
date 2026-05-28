@@ -1,0 +1,25 @@
+{
+  "id": "introduction",
+  "title": "Introduction",
+  "description": "Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.",
+  "source": "@site/versioned_docs/version-3.5.2/introduction.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/3.5.2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/introduction.mdx",
+  "tags": [],
+  "version": "3.5.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.",
+    "slug": "/"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/3.5.2/category/getting-started"
+  }
+}

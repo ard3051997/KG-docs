@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/2019/12/30/docusaurus-2019-recap",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2019/12-30-docusaurus-2019-recap.mdx",
+  "source": "@site/blog/2019/12-30-docusaurus-2019-recap.mdx",
+  "title": "Docusaurus 2019 Recap",
+  "description": "2019 was a great year for Docusaurus - we've made tremendous progress on Docusaurus 2. Current Docusaurus 1 users who aren't using the translations feature can feel free to check it out and migrate to it! Otherwise we will work with you to make that happen in 2020 :)",
+  "date": "2019-12-30T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Recap",
+      "permalink": "/blog/tags/recap",
+      "description": "Blog posts about Docusaurus' year recaps"
+    }
+  ],
+  "readingTime": 3.15,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Yangshun Tay",
+      "title": "Ex-Meta Staff Engineer, Co-founder GreatFrontEnd",
+      "url": "https://linkedin.com/in/yangshun",
+      "page": {
+        "permalink": "/blog/authors/yangshun"
+      },
+      "socials": {
+        "x": "https://x.com/yangshunz",
+        "linkedin": "https://www.linkedin.com/in/yangshun/",
+        "github": "https://github.com/yangshun",
+        "newsletter": "https://www.greatfrontend.com"
+      },
+      "imageURL": "https://github.com/yangshun.png",
+      "key": "yangshun"
+    }
+  ],
+  "frontMatter": {
+    "title": "Docusaurus 2019 Recap",
+    "authors": "yangshun",
+    "tags": [
+      "recap"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Tribute to Endi",
+    "permalink": "/blog/2020/01/07/tribute-to-endi"
+  },
+  "nextItem": {
+    "title": "Happy 1st Birthday Slash!",
+    "permalink": "/blog/2018/12/14/Happy-First-Birthday-Slash"
+  }
+}

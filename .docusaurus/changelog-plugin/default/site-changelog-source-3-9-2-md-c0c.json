@@ -1,0 +1,112 @@
+{
+  "permalink": "/changelog/3.9.2",
+  "source": "@site/changelog/source/3.9.2.md",
+  "title": "3.9.2",
+  "description": "Bug Fix",
+  "date": "2025-10-17T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Dan Roscigno",
+      "alias": "DanRoscigno",
+      "url": "https://github.com/DanRoscigno",
+      "imageURL": "https://github.com/DanRoscigno.png",
+      "key": "DanRoscigno",
+      "page": null
+    },
+    {
+      "name": "Eleni Grosdouli",
+      "alias": "egrosdou01",
+      "url": "https://github.com/egrosdou01",
+      "imageURL": "https://github.com/egrosdou01.png",
+      "key": "egrosdou01",
+      "page": null
+    },
+    {
+      "name": "Ethan",
+      "alias": "ethanppl",
+      "url": "https://github.com/ethanppl",
+      "imageURL": "https://github.com/ethanppl.png",
+      "key": "ethanppl",
+      "page": null
+    },
+    {
+      "name": "Mariusz Krzaczkowski",
+      "alias": "mariuszkrzaczkowski",
+      "url": "https://github.com/mariuszkrzaczkowski",
+      "imageURL": "https://github.com/mariuszkrzaczkowski.png",
+      "key": "mariuszkrzaczkowski",
+      "page": null
+    },
+    {
+      "name": "Maysara",
+      "alias": "maysara-elshewehy",
+      "url": "https://github.com/maysara-elshewehy",
+      "imageURL": "https://github.com/maysara-elshewehy.png",
+      "key": "maysara-elshewehy",
+      "page": null
+    },
+    {
+      "name": "Richa Kiran",
+      "alias": "richk21",
+      "url": "https://github.com/richk21",
+      "imageURL": "https://github.com/richk21.png",
+      "key": "richk21",
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    },
+    {
+      "name": "Alexander Trofimov",
+      "alias": "trofim24",
+      "url": "https://github.com/trofim24",
+      "imageURL": "https://github.com/trofim24.png",
+      "key": "trofim24",
+      "page": null
+    },
+    {
+      "name": "YDKK",
+      "alias": "YDKK",
+      "url": "https://github.com/YDKK",
+      "imageURL": "https://github.com/YDKK.png",
+      "key": "YDKK",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2025-10-17T20:00",
+    "authors": [
+      "DanRoscigno",
+      "egrosdou01",
+      "ethanppl",
+      "mariuszkrzaczkowski",
+      "maysara-elshewehy",
+      "richk21",
+      "slorber",
+      "trofim24",
+      "YDKK"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "3.10.0",
+    "permalink": "/changelog/3.10.0"
+  },
+  "nextItem": {
+    "title": "3.9.1",
+    "permalink": "/changelog/3.9.1"
+  },
+  "listPageLink": "/changelog/"
+}

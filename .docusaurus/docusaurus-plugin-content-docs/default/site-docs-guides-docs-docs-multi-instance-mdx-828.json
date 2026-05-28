@@ -1,0 +1,21 @@
+{
+  "id": "guides/docs/multi-instance",
+  "title": "Docs Multi-instance",
+  "description": "Use multiple docs plugin instances on a single Docusaurus site.",
+  "source": "@site/docs/guides/docs/docs-multi-instance.mdx",
+  "sourceDirName": "guides/docs",
+  "slug": "/docs-multi-instance",
+  "permalink": "/docs/next/docs-multi-instance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/docs/docs-multi-instance.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "multi-instance",
+    "description": "Use multiple docs plugin instances on a single Docusaurus site.",
+    "slug": "/docs-multi-instance"
+  }
+}

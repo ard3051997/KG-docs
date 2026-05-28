@@ -1,0 +1,28 @@
+{
+  "id": "advanced/routing",
+  "title": "Routing",
+  "description": "Docusaurus' routing system follows single-page application conventions: one route, one component.",
+  "source": "@site/versioned_docs/version-3.1.1/advanced/routing.mdx",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/routing",
+  "permalink": "/docs/3.1.1/advanced/routing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/advanced/routing.mdx",
+  "tags": [],
+  "version": "3.1.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Docusaurus' routing system follows single-page application conventions: one route, one component."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Plugins",
+    "permalink": "/docs/3.1.1/advanced/plugins"
+  },
+  "next": {
+    "title": "Static site generation",
+    "permalink": "/docs/3.1.1/advanced/ssg"
+  }
+}

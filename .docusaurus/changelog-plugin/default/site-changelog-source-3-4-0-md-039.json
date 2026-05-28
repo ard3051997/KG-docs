@@ -1,0 +1,130 @@
+{
+  "permalink": "/changelog/3.4.0",
+  "source": "@site/changelog/source/3.4.0.md",
+  "title": "3.4.0",
+  "description": "New Feature",
+  "date": "2024-05-31T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Azzedine E.",
+      "alias": "Arsero",
+      "url": "https://github.com/Arsero",
+      "imageURL": "https://github.com/Arsero.png",
+      "key": "Arsero",
+      "page": null
+    },
+    {
+      "name": "CodeDoctor",
+      "alias": "CodeDoctorDE",
+      "url": "https://github.com/CodeDoctorDE",
+      "imageURL": "https://github.com/CodeDoctorDE.png",
+      "key": "CodeDoctorDE",
+      "page": null
+    },
+    {
+      "name": "Mikey O'Toole",
+      "alias": "homotechsual",
+      "url": "https://github.com/homotechsual",
+      "imageURL": "https://github.com/homotechsual.png",
+      "key": "homotechsual",
+      "page": null
+    },
+    {
+      "name": "Mahri Ilmedova",
+      "alias": "ilmedova",
+      "url": "https://github.com/ilmedova",
+      "imageURL": "https://github.com/ilmedova.png",
+      "key": "ilmedova",
+      "page": null
+    },
+    {
+      "name": "Nguyễn Thành Nam",
+      "alias": "namnguyenthanhwork",
+      "url": "https://github.com/namnguyenthanhwork",
+      "imageURL": "https://github.com/namnguyenthanhwork.png",
+      "key": "namnguyenthanhwork",
+      "page": null
+    },
+    {
+      "name": "Nick Coughlin",
+      "alias": "ncoughlin",
+      "url": "https://github.com/ncoughlin",
+      "imageURL": "https://github.com/ncoughlin.png",
+      "key": "ncoughlin",
+      "page": null
+    },
+    {
+      "name": "ozaki",
+      "alias": "OzakIOne",
+      "url": "https://github.com/OzakIOne",
+      "imageURL": "https://github.com/OzakIOne.png",
+      "key": "OzakIOne",
+      "page": null
+    },
+    {
+      "name": "Petar_mc",
+      "alias": "PetarMc1",
+      "url": "https://github.com/PetarMc1",
+      "imageURL": "https://github.com/PetarMc1.png",
+      "key": "PetarMc1",
+      "page": null
+    },
+    {
+      "name": "Yongmin",
+      "alias": "revi",
+      "url": "https://github.com/revi",
+      "imageURL": "https://github.com/revi.png",
+      "key": "revi",
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    },
+    {
+      "name": "Tatsunori Uchino",
+      "alias": "tats-u",
+      "url": "https://github.com/tats-u",
+      "imageURL": "https://github.com/tats-u.png",
+      "key": "tats-u",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2024-05-31T20:00",
+    "authors": [
+      "Arsero",
+      "CodeDoctorDE",
+      "homotechsual",
+      "ilmedova",
+      "namnguyenthanhwork",
+      "ncoughlin",
+      "OzakIOne",
+      "PetarMc1",
+      "revi",
+      "slorber",
+      "tats-u"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "3.5.0",
+    "permalink": "/changelog/3.5.0"
+  },
+  "nextItem": {
+    "title": "3.3.2",
+    "permalink": "/changelog/3.3.2"
+  },
+  "listPageLink": "/changelog/"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "guides/markdown-features/head-metadata",
+  "title": "Head metadata",
+  "description": "Declaring page-specific head metadata through MDX",
+  "source": "@site/versioned_docs/version-3.4.0/guides/markdown-features/markdown-features-head-metadata.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/head-metadata",
+  "permalink": "/docs/3.4.0/markdown-features/head-metadata",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-head-metadata.mdx",
+  "tags": [],
+  "version": "3.4.0",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "head-metadata",
+    "description": "Declaring page-specific head metadata through MDX",
+    "slug": "/markdown-features/head-metadata"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Diagrams",
+    "permalink": "/docs/3.4.0/markdown-features/diagrams"
+  },
+  "next": {
+    "title": "Styling and Layout",
+    "permalink": "/docs/3.4.0/styling-layout"
+  }
+}

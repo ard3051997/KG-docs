@@ -1,0 +1,28 @@
+{
+  "id": "typescript-support",
+  "title": "Codebase Architectures & Technical Standards",
+  "description": "Technical architecture specifications, language-specific guidelines, coding standards, and module organization layouts across the KalaGato portfolio.",
+  "source": "@site/docs/typescript-support.mdx",
+  "sourceDirName": ".",
+  "slug": "/typescript-support",
+  "permalink": "/docs/typescript-support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/typescript-support.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Technical architecture specifications, language-specific guidelines, coding standards, and module organization layouts across the KalaGato portfolio."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Interactive Testing & Playgrounds",
+    "permalink": "/docs/playground"
+  },
+  "next": {
+    "title": "Human Strategic Layer (Human Org)",
+    "permalink": "/docs/category/human-strategic-layer-human-org"
+  }
+}

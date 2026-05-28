@@ -1,0 +1,32 @@
+{
+  "id": "tests/sidebar-frontmatter/dir-with-unique-index/index",
+  "title": "Single index.md in dir",
+  "description": "This doc has sidebarclass* front matter",
+  "source": "@site/_dogfooding/_docs tests/tests/sidebar-frontmatter/dir-with-unique-index/index.mdx",
+  "sourceDirName": "tests/sidebar-frontmatter/dir-with-unique-index",
+  "slug": "/tests/sidebar-frontmatter/dir-with-unique-index/",
+  "permalink": "/tests/docs/tests/sidebar-frontmatter/dir-with-unique-index/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/sidebar-frontmatter/dir-with-unique-index/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Dir with unique index label",
+    "sidebar_class_name": "dogfood_sidebar_class_name_test",
+    "sidebar_custom_props": {
+      "prop": "custom",
+      "number": 1,
+      "boolean": true
+    }
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Sidebar Front Matter Tests",
+    "permalink": "/tests/docs/tests/sidebar-frontmatter/"
+  },
+  "next": {
+    "title": "Doc With Sidebar Class Name",
+    "permalink": "/tests/docs/tests/sidebar-frontmatter/doc-with-sidebar-className"
+  }
+}

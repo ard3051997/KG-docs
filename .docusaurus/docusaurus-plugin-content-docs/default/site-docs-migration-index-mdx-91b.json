@@ -1,0 +1,19 @@
+{
+  "id": "migration/index",
+  "title": "Upgrading Docusaurus",
+  "description": "Docusaurus versioning is based on the major.minor.patch scheme and respects Semantic Versioning.",
+  "source": "@site/docs/migration/index.mdx",
+  "sourceDirName": "migration",
+  "slug": "/migration",
+  "permalink": "/docs/next/migration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/migration/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/migration"
+  }
+}

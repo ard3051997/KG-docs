@@ -1,0 +1,17 @@
+{
+  "id": "advanced/plugins",
+  "title": "Plugins",
+  "description": "Plugins are the building blocks of features in a Docusaurus site. Each plugin handles its own individual feature. Plugins may work and be distributed as part of a bundle via presets.",
+  "source": "@site/docs/advanced/plugins.mdx",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/plugins",
+  "permalink": "/docs/next/advanced/plugins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/advanced/plugins.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "permalink": "/tests/blog/2022/04/20/dup-footnote",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_blog tests/2022-04-20-dup-footnote.mdx",
+  "source": "@site/_dogfooding/_blog tests/2022-04-20-dup-footnote.mdx",
+  "title": "First post with footnote to test posts with same footnote reference.",
+  "description": "foo",
+  "date": "2022-04-20T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 2.4,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "First post with footnote to test posts with same footnote reference."
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Unlisted blog post",
+    "permalink": "/tests/blog/unlisted-post"
+  },
+  "nextItem": {
+    "title": "Second post with footnote to test posts with same footnote reference.",
+    "permalink": "/tests/blog/2022/01/22/dup-footnote"
+  }
+}

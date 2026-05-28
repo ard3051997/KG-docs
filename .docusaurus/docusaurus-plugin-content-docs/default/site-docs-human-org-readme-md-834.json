@@ -1,0 +1,29 @@
+{
+  "id": "human_org/README",
+  "title": "Human Strategic Layer",
+  "description": "Welcome to the Human Strategic Layer of KalaGato (Human Data SG Pte. Ltd.). This portal serves as the primary operational manual, role mapping, and standard operating procedures (SOPs) for the real-world human team members who govern, steer, and grow our global application portfolio.",
+  "source": "@site/docs/human_org/README.md",
+  "sourceDirName": "human_org",
+  "slug": "/human_org",
+  "permalink": "/docs/human_org",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/human_org/README.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "slug": "/human_org",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Human Strategic Layer (Human Org)",
+    "permalink": "/docs/category/human-strategic-layer-human-org"
+  },
+  "next": {
+    "title": "Employee Onboarding Manual",
+    "permalink": "/docs/human_org/onboarding"
+  }
+}

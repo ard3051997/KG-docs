@@ -1,0 +1,58 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.54",
+  "source": "@site/changelog/source/2.0.0-alpha.54.md",
+  "title": "2.0.0-alpha.54",
+  "description": "HOTFIX for 2.0.0-alpha.53.",
+  "date": "2020-04-28T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "JavaScript Joe",
+      "alias": "jsjoeio",
+      "url": "https://github.com/jsjoeio",
+      "imageURL": "https://github.com/jsjoeio.png",
+      "key": "jsjoeio",
+      "page": null
+    },
+    {
+      "name": "Alexey Pyltsyn",
+      "alias": "lex111",
+      "url": "https://github.com/lex111",
+      "imageURL": "https://github.com/lex111.png",
+      "key": "lex111",
+      "page": null
+    },
+    {
+      "name": "Sam Zhou",
+      "alias": "SamChou19815",
+      "url": "https://github.com/SamChou19815",
+      "imageURL": "https://github.com/SamChou19815.png",
+      "key": "SamChou19815",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2020-04-28T20:00",
+    "authors": [
+      "jsjoeio",
+      "lex111",
+      "SamChou19815"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.55",
+    "permalink": "/changelog/2.0.0-alpha.55"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.53",
+    "permalink": "/changelog/2.0.0-alpha.53"
+  },
+  "listPageLink": "/changelog/page/5"
+}

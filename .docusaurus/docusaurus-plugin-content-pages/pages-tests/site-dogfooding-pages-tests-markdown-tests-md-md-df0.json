@@ -1,0 +1,14 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/markdown-tests-md",
+  "source": "@site/_dogfooding/_pages tests/markdown-tests-md.md",
+  "title": "Markdown Page tests title",
+  "description": "Markdown Page tests description",
+  "frontMatter": {
+    "title": "Markdown Page tests title",
+    "description": "Markdown Page tests description",
+    "wrapperClassName": "docusaurus-markdown-example"
+  },
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/markdown-tests-md.md",
+  "unlisted": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "guides/docs/versioning",
+  "title": "Versioning",
+  "description": "You can use the versioning CLI to create a new documentation version based on the latest content in the docs directory. That specific set of documentation will then be preserved and accessible even as the documentation in the docs directory continues to evolve.",
+  "source": "@site/versioned_docs/version-3.6.3/guides/docs/versioning.mdx",
+  "sourceDirName": "guides/docs",
+  "slug": "/versioning",
+  "permalink": "/docs/3.6.3/versioning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/docs/versioning.mdx",
+  "tags": [],
+  "version": "3.6.3",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/versioning"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using multiple sidebars",
+    "permalink": "/docs/3.6.3/sidebar/multiple-sidebars"
+  },
+  "next": {
+    "title": "Docs Multi-instance",
+    "permalink": "/docs/3.6.3/docs-multi-instance"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.20",
+  "source": "@site/changelog/source/2.0.0-alpha.20.md",
+  "title": "2.0.0-alpha.20",
+  "description": "- Add copy codeblock button",
+  "date": "2019-07-14T19:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-07-14T19:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.21",
+    "permalink": "/changelog/2.0.0-alpha.21"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.19",
+    "permalink": "/changelog/2.0.0-alpha.19"
+  },
+  "listPageLink": "/changelog/page/6"
+}

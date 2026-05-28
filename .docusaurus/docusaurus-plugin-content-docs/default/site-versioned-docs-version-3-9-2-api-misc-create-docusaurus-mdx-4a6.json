@@ -1,0 +1,30 @@
+{
+  "id": "api/misc/create-docusaurus",
+  "title": "📦 create-docusaurus",
+  "description": "A scaffolding utility to help you instantly set up a functional Docusaurus app.",
+  "source": "@site/versioned_docs/version-3.9.2/api/misc/create-docusaurus.mdx",
+  "sourceDirName": "api/misc",
+  "slug": "/api/misc/create-docusaurus",
+  "permalink": "/docs/3.9.2/api/misc/create-docusaurus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/misc/create-docusaurus.mdx",
+  "tags": [],
+  "version": "3.9.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "slug": "/api/misc/create-docusaurus"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 theme-mermaid",
+    "permalink": "/docs/3.9.2/api/themes/@docusaurus/theme-mermaid"
+  },
+  "next": {
+    "title": "📦 eslint-plugin",
+    "permalink": "/docs/3.9.2/api/misc/@docusaurus/eslint-plugin"
+  }
+}

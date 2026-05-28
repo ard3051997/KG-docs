@@ -1,0 +1,48 @@
+{
+  "id": "more-test",
+  "title": "Another test page",
+  "description": "Test link",
+  "source": "@site/_dogfooding/_docs tests/more-test.mdx",
+  "sourceDirName": ".",
+  "slug": "/more-test",
+  "permalink": "/tests/docs/more-test",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/more-test.mdx",
+  "tags": [
+    {
+      "inline": false,
+      "label": "A",
+      "permalink": "/tests/docs/tags/a",
+      "description": "Description for tag a"
+    },
+    {
+      "inline": false,
+      "label": "Label for tag e",
+      "permalink": "/tests/docs/tags/permalink-for-tag-e",
+      "description": "Description for tag e"
+    },
+    {
+      "inline": false,
+      "label": "Some-tag",
+      "permalink": "/tests/docs/tags/some-tag"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "tags": [
+      "a",
+      "e",
+      "some-tag"
+    ]
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Another category with index",
+    "permalink": "/tests/docs/category/another-category-with-index"
+  },
+  "next": {
+    "title": "toc-2-2",
+    "permalink": "/tests/docs/toc/toc-2-2"
+  }
+}

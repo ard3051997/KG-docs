@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-ideal-image",
+  "title": "📦 plugin-ideal-image",
+  "description": "Docusaurus Plugin to generate an almost ideal image (responsive, lazy-loading, and low quality placeholder).",
+  "source": "@site/versioned_docs/version-3.3.2/api/plugins/plugin-ideal-image.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-ideal-image",
+  "permalink": "/docs/3.3.2/api/plugins/@docusaurus/plugin-ideal-image",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-ideal-image.mdx",
+  "tags": [],
+  "version": "3.3.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "slug": "/api/plugins/@docusaurus/plugin-ideal-image"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-google-tag-manager",
+    "permalink": "/docs/3.3.2/api/plugins/@docusaurus/plugin-google-tag-manager"
+  },
+  "next": {
+    "title": "📦 plugin-pwa",
+    "permalink": "/docs/3.3.2/api/plugins/@docusaurus/plugin-pwa"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "api/themes/theme-search-algolia",
+  "title": "📦 theme-search-algolia",
+  "description": "This theme provides a @theme/SearchBar component that integrates with Algolia DocSearch easily. Combined with @docusaurus/theme-classic, it provides a very easy search integration. You can read more on search documentation.",
+  "source": "@site/docs/api/themes/theme-search-algolia.mdx",
+  "sourceDirName": "api/themes",
+  "slug": "/api/themes/@docusaurus/theme-search-algolia",
+  "permalink": "/docs/next/api/themes/@docusaurus/theme-search-algolia",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/themes/theme-search-algolia.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "slug": "/api/themes/@docusaurus/theme-search-algolia"
+  }
+}

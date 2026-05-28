@@ -1,0 +1,26 @@
+{
+  "id": "agent_org/portfolio-pm",
+  "title": "0.2 Portfolio PM Agent (PPM)",
+  "description": "Tier: 0 Orchestration",
+  "source": "@site/docs/agent_org/portfolio-pm.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/portfolio-pm",
+  "permalink": "/docs/agent_org/portfolio-pm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/portfolio-pm.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "0.1 Chief of Staff Agent (CoS)",
+    "permalink": "/docs/agent_org/chief-of-staff"
+  },
+  "next": {
+    "title": "1.0 Mobile Growth Manager Agent",
+    "permalink": "/docs/agent_org/growth-manager"
+  }
+}

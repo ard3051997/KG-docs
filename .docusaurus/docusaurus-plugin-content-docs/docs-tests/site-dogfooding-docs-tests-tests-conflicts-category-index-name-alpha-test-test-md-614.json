@@ -1,0 +1,24 @@
+{
+  "id": "tests/Conflicts/category-index-name/alpha/test/test",
+  "title": "test",
+  "description": "Test file",
+  "source": "@site/_dogfooding/_docs tests/tests/Conflicts/category-index-name/alpha/test/test.md",
+  "sourceDirName": "tests/Conflicts/category-index-name/alpha/test",
+  "slug": "/tests/Conflicts/category-index-name/alpha/test/",
+  "permalink": "/tests/docs/tests/Conflicts/category-index-name/alpha/test/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/Conflicts/category-index-name/alpha/test/test.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "CategoryLabelTest",
+    "permalink": "/tests/docs/category/categorylabeltest"
+  },
+  "next": {
+    "title": "Beta",
+    "permalink": "/tests/docs/category/beta"
+  }
+}

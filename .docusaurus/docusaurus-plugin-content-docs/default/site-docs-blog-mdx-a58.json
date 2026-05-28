@@ -1,0 +1,19 @@
+{
+  "id": "blog",
+  "title": "Blog",
+  "description": "Deploy a full-featured blog in no time with Docusaurus.",
+  "source": "@site/docs/blog.mdx",
+  "sourceDirName": ".",
+  "slug": "/blog",
+  "permalink": "/docs/next/blog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/blog.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Deploy a full-featured blog in no time with Docusaurus."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tests/sidebar-display/Category 2 Long Long Long Long Long Long Long Long Long Long Long/doc1",
+  "title": "Doc 1",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/tests/sidebar-display/Category 2 Long Long Long Long Long Long Long Long Long Long Long/doc1.mdx",
+  "sourceDirName": "tests/sidebar-display/Category 2 Long Long Long Long Long Long Long Long Long Long Long",
+  "slug": "/tests/sidebar-display/Category 2 Long Long Long Long Long Long Long Long Long Long Long/doc1",
+  "permalink": "/tests/docs/tests/sidebar-display/Category 2 Long Long Long Long Long Long Long Long Long Long Long/doc1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/sidebar-display/Category 2 Long Long Long Long Long Long Long Long Long Long Long/doc1.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Sidebar Display",
+    "permalink": "/tests/docs/category/sidebar-display"
+  },
+  "next": {
+    "title": "Doc 1",
+    "permalink": "/tests/docs/tests/sidebar-display/Category1LongLongLongLongLongLongLongLongLongLong/doc1"
+  }
+}

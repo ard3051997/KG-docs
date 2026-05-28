@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/linking/page-a",
+  "source": "@site/_dogfooding/_pages tests/linking/page-a.md",
+  "title": "Linking Test - Page A",
+  "description": "Relative file path links",
+  "frontMatter": {},
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/linking/page-a.md",
+  "unlisted": false
+}

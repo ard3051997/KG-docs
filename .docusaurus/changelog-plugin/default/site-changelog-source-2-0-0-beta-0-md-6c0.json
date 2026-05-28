@@ -1,0 +1,130 @@
+{
+  "permalink": "/changelog/2.0.0-beta.0",
+  "source": "@site/changelog/source/2.0.0-beta.0.md",
+  "title": "2.0.0-beta.0",
+  "description": "Read the 2.0.0 beta blog post!",
+  "date": "2021-05-12T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Chris Owen",
+      "alias": "ChrisOwen101",
+      "url": "https://github.com/ChrisOwen101",
+      "imageURL": "https://github.com/ChrisOwen101.png",
+      "key": "ChrisOwen101",
+      "page": null
+    },
+    {
+      "name": "Evan",
+      "alias": "DigiPie",
+      "url": "https://github.com/DigiPie",
+      "imageURL": "https://github.com/DigiPie.png",
+      "key": "DigiPie",
+      "page": null
+    },
+    {
+      "name": "Forresst",
+      "alias": "forresst",
+      "url": "https://github.com/forresst",
+      "imageURL": "https://github.com/forresst.png",
+      "key": "forresst",
+      "page": null
+    },
+    {
+      "name": "Sergio Rafael Gianazza",
+      "alias": "gianu",
+      "url": "https://github.com/gianu",
+      "imageURL": "https://github.com/gianu.png",
+      "key": "gianu",
+      "page": null
+    },
+    {
+      "name": "Joel Hans",
+      "alias": "joelhans",
+      "url": "https://github.com/joelhans",
+      "imageURL": "https://github.com/joelhans.png",
+      "key": "joelhans",
+      "page": null
+    },
+    {
+      "name": "Joshua Chen",
+      "alias": "Josh-Cena",
+      "url": "https://github.com/Josh-Cena",
+      "imageURL": "https://github.com/Josh-Cena.png",
+      "key": "Josh-Cena",
+      "page": null
+    },
+    {
+      "name": "Костя Третяк",
+      "alias": "KostyaTretyak",
+      "url": "https://github.com/KostyaTretyak",
+      "imageURL": "https://github.com/KostyaTretyak.png",
+      "key": "KostyaTretyak",
+      "page": null
+    },
+    {
+      "name": "Nam Hoang Le",
+      "alias": "nam-hle",
+      "url": "https://github.com/nam-hle",
+      "imageURL": "https://github.com/nam-hle.png",
+      "key": "nam-hle",
+      "page": null
+    },
+    {
+      "name": "Rodrigo Moreno",
+      "alias": "rodmoreno",
+      "url": "https://github.com/rodmoreno",
+      "imageURL": "https://github.com/rodmoreno.png",
+      "key": "rodmoreno",
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    },
+    {
+      "name": "Ian Hornik",
+      "alias": "yiliansource",
+      "url": "https://github.com/yiliansource",
+      "imageURL": "https://github.com/yiliansource.png",
+      "key": "yiliansource",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2021-05-12T20:00",
+    "authors": [
+      "ChrisOwen101",
+      "DigiPie",
+      "forresst",
+      "gianu",
+      "joelhans",
+      "Josh-Cena",
+      "KostyaTretyak",
+      "nam-hle",
+      "rodmoreno",
+      "slorber",
+      "yiliansource"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-beta.1",
+    "permalink": "/changelog/2.0.0-beta.1"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.75",
+    "permalink": "/changelog/2.0.0-alpha.75"
+  },
+  "listPageLink": "/changelog/page/3"
+}

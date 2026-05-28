@@ -1,0 +1,31 @@
+{
+  "id": "guides/markdown-features/diagrams",
+  "title": "Diagrams",
+  "description": "Writing diagrams with Mermaid",
+  "source": "@site/versioned_docs/version-3.10.1/guides/markdown-features/markdown-features-diagrams.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/diagrams",
+  "permalink": "/docs/markdown-features/diagrams",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-diagrams.mdx",
+  "tags": [],
+  "version": "3.10.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "diagrams",
+    "title": "Diagrams",
+    "description": "Writing diagrams with Mermaid",
+    "slug": "/markdown-features/diagrams"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Math Equations",
+    "permalink": "/docs/markdown-features/math-equations"
+  },
+  "next": {
+    "title": "Head metadata",
+    "permalink": "/docs/markdown-features/head-metadata"
+  }
+}

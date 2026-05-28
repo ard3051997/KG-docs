@@ -1,0 +1,18 @@
+{
+  "id": "agent_org/attribution",
+  "title": "1.5 — First-Party Attribution Agent",
+  "description": "Tier: 1 — Mobile Growth (worker)",
+  "source": "@site/docs/agent_org/15-attribution.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/attribution",
+  "permalink": "/docs/agent_org/attribution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/15-attribution.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 15,
+  "frontMatter": {}
+}

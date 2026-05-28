@@ -1,0 +1,21 @@
+{
+  "id": "guides/markdown-features/introduction",
+  "title": "Markdown Features",
+  "description": "Docusaurus uses MDX. Find out more about Docusaurus-specific features when writing Markdown.",
+  "source": "@site/docs/guides/markdown-features/markdown-features-intro.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features",
+  "permalink": "/docs/next/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-intro.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "introduction",
+    "description": "Docusaurus uses MDX. Find out more about Docusaurus-specific features when writing Markdown.",
+    "slug": "/markdown-features"
+  }
+}

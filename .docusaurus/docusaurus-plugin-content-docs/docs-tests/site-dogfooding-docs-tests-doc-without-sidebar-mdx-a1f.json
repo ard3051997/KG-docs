@@ -1,0 +1,17 @@
+{
+  "id": "doc-without-sidebar",
+  "title": "Doc without sidebar",
+  "description": "My link appears in a sidebar, but I don't want to display that...",
+  "source": "@site/_dogfooding/_docs tests/doc-without-sidebar.mdx",
+  "sourceDirName": ".",
+  "slug": "/doc-without-sidebar",
+  "permalink": "/tests/docs/doc-without-sidebar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/doc-without-sidebar.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": null
+  }
+}

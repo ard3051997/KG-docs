@@ -1,0 +1,20 @@
+{
+  "id": "api/plugin-methods/i18n-lifecycles",
+  "title": "I18n lifecycles",
+  "description": "Plugins use these lifecycles to load i18n-related data.",
+  "source": "@site/docs/api/plugin-methods/i18n-lifecycles.mdx",
+  "sourceDirName": "api/plugin-methods",
+  "slug": "/api/plugin-methods/i18n-lifecycles",
+  "permalink": "/docs/next/api/plugin-methods/i18n-lifecycles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugin-methods/i18n-lifecycles.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

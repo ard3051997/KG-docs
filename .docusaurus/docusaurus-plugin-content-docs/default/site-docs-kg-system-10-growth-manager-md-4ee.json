@@ -1,0 +1,27 @@
+{
+  "id": "kg_system/growth-manager",
+  "title": "1.0 — Mobile Growth Manager Agent",
+  "description": "Tier: 1 — Mobile Growth",
+  "source": "@site/docs/kg_system/10-growth-manager.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/growth-manager",
+  "permalink": "/docs/kg_system/growth-manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/10-growth-manager.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 10,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "0.2 — Portfolio PM Agent (PPM)",
+    "permalink": "/docs/kg_system/portfolio-pm"
+  },
+  "next": {
+    "title": "1.1 — ASO & Keyword Agent",
+    "permalink": "/docs/kg_system/aso-keyword"
+  }
+}

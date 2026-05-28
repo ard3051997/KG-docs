@@ -1,0 +1,76 @@
+{
+  "permalink": "/changelog/3.6.2",
+  "source": "@site/changelog/source/3.6.2.md",
+  "title": "3.6.2",
+  "description": "Bug Fix",
+  "date": "2024-11-19T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Junior_Gx",
+      "alias": "goffxnca",
+      "url": "https://github.com/goffxnca",
+      "imageURL": "https://github.com/goffxnca.png",
+      "key": "goffxnca",
+      "page": null
+    },
+    {
+      "name": "Kyle Tsang",
+      "alias": "kyletsang",
+      "url": "https://github.com/kyletsang",
+      "imageURL": "https://github.com/kyletsang.png",
+      "key": "kyletsang",
+      "page": null
+    },
+    {
+      "name": "Ryoga",
+      "alias": "Ryoga-exe",
+      "url": "https://github.com/Ryoga-exe",
+      "imageURL": "https://github.com/Ryoga-exe.png",
+      "key": "Ryoga-exe",
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    },
+    {
+      "name": "Zwyx",
+      "alias": "Zwyx",
+      "url": "https://github.com/Zwyx",
+      "imageURL": "https://github.com/Zwyx.png",
+      "key": "Zwyx",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2024-11-19T20:00",
+    "authors": [
+      "goffxnca",
+      "kyletsang",
+      "Ryoga-exe",
+      "slorber",
+      "Zwyx"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "3.6.3",
+    "permalink": "/changelog/3.6.3"
+  },
+  "nextItem": {
+    "title": "3.6.1",
+    "permalink": "/changelog/3.6.1"
+  },
+  "listPageLink": "/changelog/"
+}

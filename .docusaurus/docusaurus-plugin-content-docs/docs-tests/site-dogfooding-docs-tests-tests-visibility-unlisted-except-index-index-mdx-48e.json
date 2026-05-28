@@ -1,0 +1,24 @@
+{
+  "id": "tests/visibility/unlisted-except-index/index",
+  "title": "Unlisted Except Index",
+  "description": "This index page is listed, but the other pages are unlisted.",
+  "source": "@site/_dogfooding/_docs tests/tests/visibility/unlisted-except-index/index.mdx",
+  "sourceDirName": "tests/visibility/unlisted-except-index",
+  "slug": "/tests/visibility/unlisted-except-index/",
+  "permalink": "/tests/docs/tests/visibility/unlisted-except-index/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/visibility/unlisted-except-index/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Some Unlisteds - Unlisted 2",
+    "permalink": "/tests/docs/tests/visibility/some-unlisteds/unlisted2"
+  },
+  "next": {
+    "title": "Unlisted 1",
+    "permalink": "/tests/docs/tests/visibility/unlisted-except-index/unlisted1"
+  }
+}

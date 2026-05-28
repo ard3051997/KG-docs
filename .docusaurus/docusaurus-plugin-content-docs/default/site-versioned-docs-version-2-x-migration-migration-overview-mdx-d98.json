@@ -1,0 +1,28 @@
+{
+  "id": "migration/migration-overview",
+  "title": "Migration overview",
+  "description": "This doc guides you through migrating an existing Docusaurus 1 site to Docusaurus 2.",
+  "source": "@site/versioned_docs/version-2.x/migration/migration-overview.mdx",
+  "sourceDirName": "migration",
+  "slug": "/migration",
+  "permalink": "/docs/2.x/migration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/migration/migration-overview.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "slug": "/migration"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Client architecture",
+    "permalink": "/docs/2.x/advanced/client"
+  },
+  "next": {
+    "title": "Automated migration",
+    "permalink": "/docs/2.x/migration/automated"
+  }
+}

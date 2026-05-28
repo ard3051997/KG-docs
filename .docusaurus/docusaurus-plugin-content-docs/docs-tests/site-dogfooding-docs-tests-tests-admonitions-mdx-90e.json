@@ -1,0 +1,24 @@
+{
+  "id": "tests/admonitions",
+  "title": "Admonitions tests",
+  "description": "Empty content",
+  "source": "@site/_dogfooding/_docs tests/tests/admonitions.mdx",
+  "sourceDirName": "tests",
+  "slug": "/tests/admonitions",
+  "permalink": "/tests/docs/tests/admonitions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/admonitions.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc sidebar label",
+    "permalink": "/tests/docs/tests/Conflicts/sidebar-label/doc2"
+  },
+  "next": {
+    "title": "Another Draft",
+    "permalink": "/tests/docs/tests/another-draft"
+  }
+}

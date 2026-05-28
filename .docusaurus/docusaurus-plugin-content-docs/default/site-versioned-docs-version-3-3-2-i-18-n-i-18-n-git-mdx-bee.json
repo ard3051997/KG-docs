@@ -1,0 +1,29 @@
+{
+  "id": "i18n/git",
+  "title": "i18n - Using git",
+  "description": "A possible translation strategy is to version control the translation files with Git (or any other VCS).",
+  "source": "@site/versioned_docs/version-3.3.2/i18n/i18n-git.mdx",
+  "sourceDirName": "i18n",
+  "slug": "/i18n/git",
+  "permalink": "/docs/3.3.2/i18n/git",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/i18n/i18n-git.mdx",
+  "tags": [],
+  "version": "3.3.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "git",
+    "slug": "/i18n/git"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tutorial",
+    "permalink": "/docs/3.3.2/i18n/tutorial"
+  },
+  "next": {
+    "title": "Using Crowdin",
+    "permalink": "/docs/3.3.2/i18n/crowdin"
+  }
+}

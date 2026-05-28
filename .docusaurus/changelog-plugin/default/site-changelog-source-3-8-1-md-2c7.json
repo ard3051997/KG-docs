@@ -1,0 +1,94 @@
+{
+  "permalink": "/changelog/3.8.1",
+  "source": "@site/changelog/source/3.8.1.md",
+  "title": "3.8.1",
+  "description": "Bug Fix",
+  "date": "2025-06-06T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ben McCann",
+      "alias": "benmccann",
+      "url": "https://github.com/benmccann",
+      "imageURL": "https://github.com/benmccann.png",
+      "key": "benmccann",
+      "page": null
+    },
+    {
+      "name": "Dave Meyer",
+      "alias": "dave-meyer",
+      "url": "https://github.com/dave-meyer",
+      "imageURL": "https://github.com/dave-meyer.png",
+      "key": "dave-meyer",
+      "page": null
+    },
+    {
+      "name": "Léo Vincent",
+      "alias": "leovct",
+      "url": "https://github.com/leovct",
+      "imageURL": "https://github.com/leovct.png",
+      "key": "leovct",
+      "page": null
+    },
+    {
+      "name": "Noritaka Kobayashi",
+      "alias": "noritaka1166",
+      "url": "https://github.com/noritaka1166",
+      "imageURL": "https://github.com/noritaka1166.png",
+      "key": "noritaka1166",
+      "page": null
+    },
+    {
+      "name": "Phil Parsons",
+      "alias": "p-m-p",
+      "url": "https://github.com/p-m-p",
+      "imageURL": "https://github.com/p-m-p.png",
+      "key": "p-m-p",
+      "page": null
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber",
+      "page": null
+    },
+    {
+      "name": "Weslley Araújo",
+      "alias": "wellwelwel",
+      "url": "https://github.com/wellwelwel",
+      "imageURL": "https://github.com/wellwelwel.png",
+      "key": "wellwelwel",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2025-06-06T20:00",
+    "authors": [
+      "benmccann",
+      "dave-meyer",
+      "leovct",
+      "noritaka1166",
+      "p-m-p",
+      "slorber",
+      "wellwelwel"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "3.9.0",
+    "permalink": "/changelog/3.9.0"
+  },
+  "nextItem": {
+    "title": "3.8.0",
+    "permalink": "/changelog/3.8.0"
+  },
+  "listPageLink": "/changelog/"
+}

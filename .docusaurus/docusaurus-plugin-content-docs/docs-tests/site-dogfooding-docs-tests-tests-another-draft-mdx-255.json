@@ -1,0 +1,26 @@
+{
+  "id": "tests/another-draft",
+  "title": "Another Draft",
+  "description": "This page should only be visible in local development",
+  "source": "@site/_dogfooding/_docs tests/tests/another-draft.mdx",
+  "sourceDirName": "tests",
+  "slug": "/tests/another-draft",
+  "permalink": "/tests/docs/tests/another-draft",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/another-draft.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "draft": true
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Admonitions tests",
+    "permalink": "/tests/docs/tests/admonitions"
+  },
+  "next": {
+    "title": "æøå",
+    "permalink": "/tests/docs/tests/ascii/folder/æøå"
+  }
+}

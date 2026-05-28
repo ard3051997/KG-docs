@@ -1,0 +1,17 @@
+{
+  "id": "kg_system/release-sop",
+  "title": "Standard Operating Procedure (SOP) for Releases",
+  "description": "This Standard Operating Procedure (SOP) defines the systematic, metrics-driven release lifecycle for the KalaGato app portfolio. It establishes clear operational boundaries and structured workflows for all departments.",
+  "source": "@site/docs/kg_system/release-sop.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/release-sop",
+  "permalink": "/docs/kg_system/release-sop",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/release-sop.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {}
+}

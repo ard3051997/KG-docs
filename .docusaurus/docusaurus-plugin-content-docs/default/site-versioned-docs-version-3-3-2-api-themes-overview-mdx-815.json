@@ -1,0 +1,32 @@
+{
+  "id": "api/themes/themes-overview",
+  "title": "Docusaurus themes",
+  "description": "We provide official Docusaurus themes.",
+  "source": "@site/versioned_docs/version-3.3.2/api/themes/overview.mdx",
+  "sourceDirName": "api/themes",
+  "slug": "/api/themes",
+  "permalink": "/docs/3.3.2/api/themes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/themes/overview.mdx",
+  "tags": [],
+  "version": "3.3.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "id": "themes-overview",
+    "sidebar_label": "Themes overview",
+    "slug": "/api/themes"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-vercel-analytics",
+    "permalink": "/docs/3.3.2/api/plugins/@docusaurus/plugin-vercel-analytics"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/docs/3.3.2/api/themes/configuration"
+  }
+}

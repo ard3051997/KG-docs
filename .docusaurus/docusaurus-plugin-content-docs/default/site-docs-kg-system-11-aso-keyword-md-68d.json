@@ -1,0 +1,27 @@
+{
+  "id": "kg_system/aso-keyword",
+  "title": "1.1 — ASO & Keyword Agent",
+  "description": "Tier: 1 — Mobile Growth (worker)",
+  "source": "@site/docs/kg_system/11-aso-keyword.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/aso-keyword",
+  "permalink": "/docs/kg_system/aso-keyword",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/11-aso-keyword.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 11,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "1.0 — Mobile Growth Manager Agent",
+    "permalink": "/docs/kg_system/growth-manager"
+  },
+  "next": {
+    "title": "1.2 — AdMob Mediation Agent",
+    "permalink": "/docs/kg_system/admob-mediation"
+  }
+}

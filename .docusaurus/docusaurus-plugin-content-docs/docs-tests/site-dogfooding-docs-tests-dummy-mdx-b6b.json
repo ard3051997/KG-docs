@@ -1,0 +1,18 @@
+{
+  "id": "dummy",
+  "title": "Just a dummy page",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/dummy.mdx",
+  "sourceDirName": ".",
+  "slug": "/dummy.html",
+  "permalink": "/tests/docs/dummy.html",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/dummy.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "dummy.html"
+  },
+  "sidebar": "anotherSidebar"
+}

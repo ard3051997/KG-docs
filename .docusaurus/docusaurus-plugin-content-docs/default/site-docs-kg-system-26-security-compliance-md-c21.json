@@ -1,0 +1,27 @@
+{
+  "id": "kg_system/security-compliance",
+  "title": "2.6 — Security & Compliance Agent",
+  "description": "Tier: 2 — Tech (worker)",
+  "source": "@site/docs/kg_system/26-security-compliance.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/security-compliance",
+  "permalink": "/docs/kg_system/security-compliance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/26-security-compliance.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 26,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "2.5 — Observability & Crash Agent",
+    "permalink": "/docs/kg_system/observability"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/docs/category/guides"
+  }
+}

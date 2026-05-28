@@ -1,0 +1,24 @@
+{
+  "id": "tests/sidebar-frontmatter/doc-without",
+  "title": "Doc Without",
+  "description": "This doc doesn't have any sidebar_ front matter",
+  "source": "@site/_dogfooding/_docs tests/tests/sidebar-frontmatter/doc-without.mdx",
+  "sourceDirName": "tests/sidebar-frontmatter",
+  "slug": "/tests/sidebar-frontmatter/doc-without",
+  "permalink": "/tests/docs/tests/sidebar-frontmatter/doc-without",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/sidebar-frontmatter/doc-without.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc With Sidebar Label",
+    "permalink": "/tests/docs/tests/sidebar-frontmatter/doc-with-sidebar-label"
+  },
+  "next": {
+    "title": "TOC partial test",
+    "permalink": "/tests/docs/tests/toc-partials/"
+  }
+}

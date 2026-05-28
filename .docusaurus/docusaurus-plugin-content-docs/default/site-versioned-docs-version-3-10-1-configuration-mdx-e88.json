@@ -1,0 +1,28 @@
+{
+  "id": "configuration",
+  "title": "Configuration",
+  "description": "Configuring your site's behavior through docusaurus.config.js and more.",
+  "source": "@site/versioned_docs/version-3.10.1/configuration.mdx",
+  "sourceDirName": ".",
+  "slug": "/configuration",
+  "permalink": "/docs/configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/configuration.mdx",
+  "tags": [],
+  "version": "3.10.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Configuring your site's behavior through docusaurus.config.js and more."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/installation"
+  },
+  "next": {
+    "title": "Playground",
+    "permalink": "/docs/playground"
+  }
+}

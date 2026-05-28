@@ -1,0 +1,29 @@
+{
+  "id": "api/plugin-methods/static-methods",
+  "title": "Static methods",
+  "description": "Static methods are not part of the plugin instance—they are attached to the constructor function. These methods are used to validate and normalize the plugin options and theme config, which are then used as constructor parameters to initialize the plugin instance.",
+  "source": "@site/versioned_docs/version-2.x/api/plugin-methods/static-methods.mdx",
+  "sourceDirName": "api/plugin-methods",
+  "slug": "/api/plugin-methods/static-methods",
+  "permalink": "/docs/2.x/api/plugin-methods/static-methods",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugin-methods/static-methods.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "I18n lifecycles",
+    "permalink": "/docs/2.x/api/plugin-methods/i18n-lifecycles"
+  },
+  "next": {
+    "title": "Plugins overview",
+    "permalink": "/docs/2.x/api/plugins"
+  }
+}

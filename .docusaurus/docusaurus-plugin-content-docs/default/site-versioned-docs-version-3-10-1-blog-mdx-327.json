@@ -1,0 +1,28 @@
+{
+  "id": "blog",
+  "title": "Blog",
+  "description": "Deploy a full-featured blog in no time with Docusaurus.",
+  "source": "@site/versioned_docs/version-3.10.1/blog.mdx",
+  "sourceDirName": ".",
+  "slug": "/blog",
+  "permalink": "/docs/blog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/blog.mdx",
+  "tags": [],
+  "version": "3.10.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Deploy a full-featured blog in no time with Docusaurus."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Docs Multi-instance",
+    "permalink": "/docs/docs-multi-instance"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/markdown-features"
+  }
+}

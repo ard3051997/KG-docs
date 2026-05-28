@@ -1,0 +1,27 @@
+{
+  "id": "toc/toc-2-5",
+  "title": "toc-2-5",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/toc/toc-2-5.mdx",
+  "sourceDirName": "toc",
+  "slug": "/toc/toc-2-5",
+  "permalink": "/tests/docs/toc/toc-2-5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/toc/toc-2-5.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_min_heading_level": 2,
+    "toc_max_heading_level": 5
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "toc-2-4",
+    "permalink": "/tests/docs/toc/toc-2-4"
+  },
+  "next": {
+    "title": "toc-3-5",
+    "permalink": "/tests/docs/toc/toc-3-5"
+  }
+}

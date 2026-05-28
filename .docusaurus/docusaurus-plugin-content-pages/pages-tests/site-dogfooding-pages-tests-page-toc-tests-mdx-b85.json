@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/page-toc-tests",
+  "source": "@site/_dogfooding/_pages tests/page-toc-tests.mdx",
+  "frontMatter": {
+    "toc_min_heading_level": 2,
+    "toc_max_heading_level": 4
+  },
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/page-toc-tests.mdx",
+  "unlisted": false
+}

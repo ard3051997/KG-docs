@@ -1,0 +1,40 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.53",
+  "source": "@site/changelog/source/2.0.0-alpha.53.md",
+  "title": "2.0.0-alpha.53",
+  "description": "HOTFIX for 2.0.0-alpha.51.",
+  "date": "2020-04-27T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Alexey Pyltsyn",
+      "alias": "lex111",
+      "url": "https://github.com/lex111",
+      "imageURL": "https://github.com/lex111.png",
+      "key": "lex111",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2020-04-27T20:00",
+    "authors": [
+      "lex111"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.54",
+    "permalink": "/changelog/2.0.0-alpha.54"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.51",
+    "permalink": "/changelog/2.0.0-alpha.51"
+  },
+  "listPageLink": "/changelog/page/5"
+}

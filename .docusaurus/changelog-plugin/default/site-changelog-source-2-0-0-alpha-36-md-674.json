@@ -1,0 +1,58 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.36",
+  "source": "@site/changelog/source/2.0.0-alpha.36.md",
+  "title": "2.0.0-alpha.36",
+  "description": "Breaking Change",
+  "date": "2019-11-22T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Endi",
+      "alias": "endiliey",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "endiliey",
+      "page": null
+    },
+    {
+      "name": "Alexey Pyltsyn",
+      "alias": "lex111",
+      "url": "https://github.com/lex111",
+      "imageURL": "https://github.com/lex111.png",
+      "key": "lex111",
+      "page": null
+    },
+    {
+      "name": "Yangshun Tay",
+      "alias": "yangshun",
+      "url": "https://github.com/yangshun",
+      "imageURL": "https://github.com/yangshun.png",
+      "key": "yangshun",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-11-22T20:00",
+    "authors": [
+      "endiliey",
+      "lex111",
+      "yangshun"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.37",
+    "permalink": "/changelog/2.0.0-alpha.37"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.35",
+    "permalink": "/changelog/2.0.0-alpha.35"
+  },
+  "listPageLink": "/changelog/page/5"
+}

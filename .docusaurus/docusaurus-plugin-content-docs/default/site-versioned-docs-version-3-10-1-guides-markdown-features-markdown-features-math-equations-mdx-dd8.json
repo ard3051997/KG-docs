@@ -1,0 +1,30 @@
+{
+  "id": "guides/markdown-features/math-equations",
+  "title": "Math Equations",
+  "description": "Writing LaTeX Math Equations",
+  "source": "@site/versioned_docs/version-3.10.1/guides/markdown-features/markdown-features-math-equations.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/math-equations",
+  "permalink": "/docs/markdown-features/math-equations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-math-equations.mdx",
+  "tags": [],
+  "version": "3.10.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "math-equations",
+    "description": "Writing LaTeX Math Equations",
+    "slug": "/markdown-features/math-equations"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "MDX Plugins",
+    "permalink": "/docs/markdown-features/plugins"
+  },
+  "next": {
+    "title": "Diagrams",
+    "permalink": "/docs/markdown-features/diagrams"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "api/themes/theme-configuration",
+  "title": "Theme configuration",
+  "description": "This configuration applies to all main themes.",
+  "source": "@site/versioned_docs/version-2.x/api/themes/theme-configuration.mdx",
+  "sourceDirName": "api/themes",
+  "slug": "/api/themes/configuration",
+  "permalink": "/docs/2.x/api/themes/configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/themes/theme-configuration.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Configuration",
+    "slug": "/api/themes/configuration",
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Themes overview",
+    "permalink": "/docs/2.x/api/themes"
+  },
+  "next": {
+    "title": "📦 theme-classic",
+    "permalink": "/docs/2.x/api/themes/@docusaurus/theme-classic"
+  }
+}

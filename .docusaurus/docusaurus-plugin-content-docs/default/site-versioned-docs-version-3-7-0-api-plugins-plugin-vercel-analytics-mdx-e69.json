@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-vercel-analytics",
+  "title": "📦 plugin-vercel-analytics",
+  "description": "Vercel Analytics provides comprehensive insights into your website's visitors, tracking top pages, referrers, and demographics like location, operating systems, and browser info.",
+  "source": "@site/versioned_docs/version-3.7.0/api/plugins/plugin-vercel-analytics.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-vercel-analytics",
+  "permalink": "/docs/3.7.0/api/plugins/@docusaurus/plugin-vercel-analytics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-vercel-analytics.mdx",
+  "tags": [],
+  "version": "3.7.0",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "slug": "/api/plugins/@docusaurus/plugin-vercel-analytics"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-sitemap",
+    "permalink": "/docs/3.7.0/api/plugins/@docusaurus/plugin-sitemap"
+  },
+  "next": {
+    "title": "Themes overview",
+    "permalink": "/docs/3.7.0/api/themes"
+  }
+}

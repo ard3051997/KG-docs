@@ -1,0 +1,131 @@
+{
+  "permalink": "/blog/2022/08/01/announcing-docusaurus-2.0",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2022/08-01-announcing-docusaurus-2.0/index.mdx",
+  "source": "@site/blog/2022/08-01-announcing-docusaurus-2.0/index.mdx",
+  "title": "Announcing Docusaurus 2.0",
+  "description": "Today we are extremely happy to finally announce Docusaurus 2.0! 🥳️",
+  "date": "2022-08-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Release",
+      "permalink": "/blog/tags/release",
+      "description": "Blog posts about Docusaurus' new releases"
+    }
+  ],
+  "readingTime": 14.57,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer, This Week In React editor",
+      "url": "https://thisweekinreact.com",
+      "page": {
+        "permalink": "/blog/authors/slorber"
+      },
+      "description": "A freelance React and React-Native developer near Paris and Docusaurus maintainer. Also runs ThisWeekInReact.com, a newsletter to stay updated with the React ecosystem.",
+      "socials": {
+        "bluesky": "https://bsky.app/profile/sebastienlorber.com",
+        "x": "https://x.com/sebastienlorber",
+        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
+        "github": "https://github.com/slorber",
+        "instagram": "https://www.instagram.com/thisweekinreact",
+        "newsletter": "https://thisweekinreact.com"
+      },
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    },
+    {
+      "name": "Joshua Chen",
+      "title": "Working hard on Docusaurus",
+      "url": "https://joshcena.com/",
+      "email": "sidachen2003@gmail.com",
+      "page": {
+        "permalink": "/blog/authors/josh-cena"
+      },
+      "imageURL": "https://github.com/josh-cena.png",
+      "key": "Josh-Cena"
+    },
+    {
+      "name": "Yangshun Tay",
+      "title": "Ex-Meta Staff Engineer, Co-founder GreatFrontEnd",
+      "url": "https://linkedin.com/in/yangshun",
+      "page": {
+        "permalink": "/blog/authors/yangshun"
+      },
+      "socials": {
+        "x": "https://x.com/yangshunz",
+        "linkedin": "https://www.linkedin.com/in/yangshun/",
+        "github": "https://github.com/yangshun",
+        "newsletter": "https://www.greatfrontend.com"
+      },
+      "imageURL": "https://github.com/yangshun.png",
+      "key": "yangshun"
+    },
+    {
+      "name": "Alexey Pyltsyn",
+      "title": "Open-source enthusiast",
+      "url": "https://github.com/lex111",
+      "email": "lex@php.net",
+      "page": {
+        "permalink": "/blog/authors/lex-111"
+      },
+      "imageURL": "https://github.com/lex111.png",
+      "key": "lex111"
+    },
+    {
+      "name": "Paul O’Shannessy",
+      "title": "Engineering Manager at Meta",
+      "url": "https://x.com/zpao",
+      "page": {
+        "permalink": "/blog/authors/zpao"
+      },
+      "socials": {
+        "x": "https://x.com/zpao",
+        "github": "https://github.com/zpao"
+      },
+      "imageURL": "https://github.com/zpao.png",
+      "key": "zpao"
+    },
+    {
+      "name": "Joel Marcey",
+      "title": "Co-creator of Docusaurus 1",
+      "url": "https://x.com/JoelMarcey",
+      "page": {
+        "permalink": "/blog/authors/j-marcey"
+      },
+      "socials": {},
+      "imageURL": "https://github.com/JoelMarcey.png",
+      "key": "JMarcey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Announcing Docusaurus 2.0",
+    "authors": [
+      "slorber",
+      "Josh-Cena",
+      "yangshun",
+      "lex111",
+      "zpao",
+      {
+        "key": "JMarcey",
+        "title": "Co-creator of Docusaurus 1"
+      }
+    ],
+    "tags": [
+      "release"
+    ],
+    "image": "./img/social-card.png"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Docusaurus 2.1",
+    "permalink": "/blog/2022/09/01/docusaurus-2.1"
+  },
+  "nextItem": {
+    "title": "Docusaurus 2021 Recap",
+    "permalink": "/blog/2022/01/24/docusaurus-2021-recap"
+  }
+}

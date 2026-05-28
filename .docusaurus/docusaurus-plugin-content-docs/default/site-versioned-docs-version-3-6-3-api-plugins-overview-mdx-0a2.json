@@ -1,0 +1,32 @@
+{
+  "id": "api/plugins/plugins-overview",
+  "title": "Docusaurus plugins",
+  "description": "We provide official Docusaurus plugins.",
+  "source": "@site/versioned_docs/version-3.6.3/api/plugins/overview.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins",
+  "permalink": "/docs/3.6.3/api/plugins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/overview.mdx",
+  "tags": [],
+  "version": "3.6.3",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "id": "plugins-overview",
+    "sidebar_label": "Plugins overview",
+    "slug": "/api/plugins"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Static methods",
+    "permalink": "/docs/3.6.3/api/plugin-methods/static-methods"
+  },
+  "next": {
+    "title": "📦 plugin-content-docs",
+    "permalink": "/docs/3.6.3/api/plugins/@docusaurus/plugin-content-docs"
+  }
+}

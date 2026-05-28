@@ -1,0 +1,24 @@
+{
+  "id": "tests/category-links/regular-category/sample-doc",
+  "title": "Sample doc",
+  "description": "Lorem Ipsum",
+  "source": "@site/_dogfooding/_docs tests/tests/category-links/regular-category/sample-doc.mdx",
+  "sourceDirName": "tests/category-links/regular-category",
+  "slug": "/tests/category-links/regular-category/sample-doc",
+  "permalink": "/tests/docs/tests/category-links/regular-category/sample-doc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/category-links/regular-category/sample-doc.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Readme",
+    "permalink": "/tests/docs/tests/category-links/"
+  },
+  "next": {
+    "title": "Category with a doc of category's name",
+    "permalink": "/tests/docs/tests/category-links/with-category-name-doc/"
+  }
+}

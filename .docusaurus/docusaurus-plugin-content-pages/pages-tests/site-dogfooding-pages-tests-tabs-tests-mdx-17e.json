@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/tabs-tests",
+  "source": "@site/_dogfooding/_pages tests/tabs-tests.mdx",
+  "title": "Tabs tests",
+  "description": "Tabs sync with different heights",
+  "frontMatter": {},
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/tabs-tests.mdx",
+  "unlisted": false
+}

@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.21",
+  "source": "@site/changelog/source/2.0.0-alpha.21.md",
+  "title": "2.0.0-alpha.21",
+  "description": "- Fix babel-loader not transpiling docusaurus package",
+  "date": "2019-07-14T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-07-14T20:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.22",
+    "permalink": "/changelog/2.0.0-alpha.22"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.20",
+    "permalink": "/changelog/2.0.0-alpha.20"
+  },
+  "listPageLink": "/changelog/page/6"
+}

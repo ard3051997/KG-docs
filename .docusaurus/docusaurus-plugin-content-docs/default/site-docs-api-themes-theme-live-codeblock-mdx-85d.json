@@ -1,0 +1,21 @@
+{
+  "id": "api/themes/theme-live-codeblock",
+  "title": "📦 theme-live-codeblock",
+  "description": "This theme provides a @theme/CodeBlock component that is powered by react-live. You can read more on interactive code editor documentation.",
+  "source": "@site/docs/api/themes/theme-live-codeblock.mdx",
+  "sourceDirName": "api/themes",
+  "slug": "/api/themes/@docusaurus/theme-live-codeblock",
+  "permalink": "/docs/next/api/themes/@docusaurus/theme-live-codeblock",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/themes/theme-live-codeblock.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "slug": "/api/themes/@docusaurus/theme-live-codeblock"
+  }
+}

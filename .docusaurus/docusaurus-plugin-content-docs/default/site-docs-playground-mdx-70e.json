@@ -1,0 +1,28 @@
+{
+  "id": "playground",
+  "title": "Interactive Testing & Playgrounds",
+  "description": "Interactive testing portals, paywall previewing setups, local debugging tools, and sandbox verification channels.",
+  "source": "@site/docs/playground.mdx",
+  "sourceDirName": ".",
+  "slug": "/playground",
+  "permalink": "/docs/playground",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/playground.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Interactive testing portals, paywall previewing setups, local debugging tools, and sandbox verification channels."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Credentials & Configurations",
+    "permalink": "/docs/configuration"
+  },
+  "next": {
+    "title": "Codebase Architectures & Technical Standards",
+    "permalink": "/docs/typescript-support"
+  }
+}

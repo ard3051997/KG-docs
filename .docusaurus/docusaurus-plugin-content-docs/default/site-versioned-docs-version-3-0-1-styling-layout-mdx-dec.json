@@ -1,0 +1,28 @@
+{
+  "id": "styling-layout",
+  "title": "Styling and Layout",
+  "description": "A Docusaurus site is a pre-rendered single-page React application. You can style it the way you style React apps.",
+  "source": "@site/versioned_docs/version-3.0.1/styling-layout.mdx",
+  "sourceDirName": ".",
+  "slug": "/styling-layout",
+  "permalink": "/docs/3.0.1/styling-layout",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/styling-layout.mdx",
+  "tags": [],
+  "version": "3.0.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "A Docusaurus site is a pre-rendered single-page React application. You can style it the way you style React apps."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Head metadata",
+    "permalink": "/docs/3.0.1/markdown-features/head-metadata"
+  },
+  "next": {
+    "title": "Swizzling",
+    "permalink": "/docs/3.0.1/swizzling"
+  }
+}

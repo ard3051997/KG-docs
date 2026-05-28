@@ -1,0 +1,15 @@
+{
+  "id": "beginner's guide",
+  "title": "Beginner's guide",
+  "description": "#9160",
+  "source": "@site/_dogfooding/_docs tests/beginner's guide.mdx",
+  "sourceDirName": ".",
+  "slug": "/beginner's guide",
+  "permalink": "/tests/docs/beginner's guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/beginner's guide.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

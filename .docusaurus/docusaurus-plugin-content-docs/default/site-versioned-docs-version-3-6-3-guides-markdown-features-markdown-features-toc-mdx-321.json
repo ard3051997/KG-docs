@@ -1,0 +1,30 @@
+{
+  "id": "guides/markdown-features/toc",
+  "title": "Headings and Table of contents",
+  "description": "Customizing headings and table-of-contents in Markdown",
+  "source": "@site/versioned_docs/version-3.6.3/guides/markdown-features/markdown-features-toc.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/toc",
+  "permalink": "/docs/3.6.3/markdown-features/toc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-toc.mdx",
+  "tags": [],
+  "version": "3.6.3",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "toc",
+    "description": "Customizing headings and table-of-contents in Markdown",
+    "slug": "/markdown-features/toc"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Admonitions",
+    "permalink": "/docs/3.6.3/markdown-features/admonitions"
+  },
+  "next": {
+    "title": "Assets",
+    "permalink": "/docs/3.6.3/markdown-features/assets"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "api/plugins/plugin-google-tag-manager",
+  "title": "📦 plugin-google-tag-manager",
+  "description": "A plugin for adding Google Tag Manager (gtm.js) to a Docusaurus site. Use this plugin in conjunction with the standard gtag plugin for in-depth analysis of how users are using your site.",
+  "source": "@site/docs/api/plugins/plugin-google-tag-manager.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-google-tag-manager",
+  "permalink": "/docs/next/api/plugins/@docusaurus/plugin-google-tag-manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-google-tag-manager.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "slug": "/api/plugins/@docusaurus/plugin-google-tag-manager"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tests/visibility/only-unlisteds/unlisted-subcategory/unlisted3",
+  "title": "Only Unlisteds - Unlisted 3",
+  "description": "Doc with unlisted front matter",
+  "source": "@site/_dogfooding/_docs tests/tests/visibility/only-unlisteds/unlisted-subcategory/unlisted3.mdx",
+  "sourceDirName": "tests/visibility/only-unlisteds/unlisted-subcategory",
+  "slug": "/tests/visibility/only-unlisteds/unlisted-subcategory/unlisted3",
+  "permalink": "/tests/docs/tests/visibility/only-unlisteds/unlisted-subcategory/unlisted3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/visibility/only-unlisteds/unlisted-subcategory/unlisted3.mdx",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Visibility",
+      "permalink": "/tests/docs/tags/visibility"
+    },
+    {
+      "inline": false,
+      "label": "Unlisted",
+      "permalink": "/tests/docs/tags/unlisted"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true,
+    "tags": [
+      "visibility",
+      "unlisted"
+    ]
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Only Unlisteds - Subcategory index unlisted",
+    "permalink": "/tests/docs/tests/visibility/only-unlisteds/unlisted-subcategory/"
+  },
+  "next": {
+    "title": "Only Unlisteds - Unlisted 1",
+    "permalink": "/tests/docs/tests/visibility/only-unlisteds/unlisted1"
+  }
+}

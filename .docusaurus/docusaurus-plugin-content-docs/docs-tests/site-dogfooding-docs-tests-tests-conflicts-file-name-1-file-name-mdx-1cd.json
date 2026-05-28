@@ -1,0 +1,28 @@
+{
+  "id": "tests/Conflicts/file-name/file-name-1",
+  "title": "File name 1",
+  "description": "File name 1",
+  "source": "@site/_dogfooding/_docs tests/tests/Conflicts/file-name/1-file-name.mdx",
+  "sourceDirName": "tests/Conflicts/file-name",
+  "slug": "/tests/Conflicts/file-name/file-name-1",
+  "permalink": "/tests/docs/tests/Conflicts/file-name/file-name-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/Conflicts/file-name/1-file-name.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "file-name-1",
+    "slug": "file-name-1"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "File name conflict",
+    "permalink": "/tests/docs/category/file-name-conflict"
+  },
+  "next": {
+    "title": "File name 2",
+    "permalink": "/tests/docs/tests/Conflicts/file-name/file-name-2"
+  }
+}

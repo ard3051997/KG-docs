@@ -1,0 +1,24 @@
+{
+  "id": "toc/toc-_-_",
+  "title": "toc-_-_",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/toc/toc-_-_.mdx",
+  "sourceDirName": "toc",
+  "slug": "/toc/toc-_-_",
+  "permalink": "/tests/docs/toc/toc-_-_",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/toc/toc-_-_.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "toc-_-5",
+    "permalink": "/tests/docs/toc/toc-_-5"
+  },
+  "next": {
+    "title": "toc-test-bad",
+    "permalink": "/tests/docs/toc/toc-test-bad"
+  }
+}

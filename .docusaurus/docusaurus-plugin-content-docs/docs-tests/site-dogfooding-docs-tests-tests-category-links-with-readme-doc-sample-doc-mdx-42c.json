@@ -1,0 +1,24 @@
+{
+  "id": "tests/category-links/with-readme-doc/sample-doc",
+  "title": "Sample doc",
+  "description": "Lorem Ipsum",
+  "source": "@site/_dogfooding/_docs tests/tests/category-links/with-readme-doc/sample-doc.mdx",
+  "sourceDirName": "tests/category-links/with-readme-doc",
+  "slug": "/tests/category-links/with-readme-doc/sample-doc",
+  "permalink": "/tests/docs/tests/category-links/with-readme-doc/sample-doc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/category-links/with-readme-doc/sample-doc.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Category with readme.md doc",
+    "permalink": "/tests/docs/tests/category-links/with-readme-doc/"
+  },
+  "next": {
+    "title": "Footnotes",
+    "permalink": "/tests/docs/tests/footnotes"
+  }
+}

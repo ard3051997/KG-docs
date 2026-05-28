@@ -1,0 +1,30 @@
+{
+  "id": "guides/markdown-features/admonitions",
+  "title": "Admonitions",
+  "description": "Handling admonitions/callouts in Docusaurus Markdown",
+  "source": "@site/versioned_docs/version-3.6.3/guides/markdown-features/markdown-features-admonitions.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/admonitions",
+  "permalink": "/docs/3.6.3/markdown-features/admonitions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-admonitions.mdx",
+  "tags": [],
+  "version": "3.6.3",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "admonitions",
+    "description": "Handling admonitions/callouts in Docusaurus Markdown",
+    "slug": "/markdown-features/admonitions"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Code blocks",
+    "permalink": "/docs/3.6.3/markdown-features/code-blocks"
+  },
+  "next": {
+    "title": "Headings and Table of contents",
+    "permalink": "/docs/3.6.3/markdown-features/toc"
+  }
+}

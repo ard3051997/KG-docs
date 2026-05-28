@@ -1,0 +1,30 @@
+{
+  "id": "tests/sidebar-frontmatter/doc-with-sidebar-custom-props",
+  "title": "Doc With Custom Props",
+  "description": "This doc has sidebarcustomprops front matter.",
+  "source": "@site/_dogfooding/_docs tests/tests/sidebar-frontmatter/doc-with-sidebar-custom-props.mdx",
+  "sourceDirName": "tests/sidebar-frontmatter",
+  "slug": "/tests/sidebar-frontmatter/doc-with-sidebar-custom-props",
+  "permalink": "/tests/docs/tests/sidebar-frontmatter/doc-with-sidebar-custom-props",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_docs tests/tests/sidebar-frontmatter/doc-with-sidebar-custom-props.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_custom_props": {
+      "prop": "custom",
+      "number": 1,
+      "boolean": true
+    }
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc With Sidebar Class Name",
+    "permalink": "/tests/docs/tests/sidebar-frontmatter/doc-with-sidebar-className"
+  },
+  "next": {
+    "title": "Doc With Sidebar Label",
+    "permalink": "/tests/docs/tests/sidebar-frontmatter/doc-with-sidebar-label"
+  }
+}

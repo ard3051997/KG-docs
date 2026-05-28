@@ -1,0 +1,28 @@
+{
+  "id": "docusaurus-core",
+  "title": "Docusaurus Client API",
+  "description": "Docusaurus provides some APIs on the clients that can be helpful to you when building your site.",
+  "source": "@site/versioned_docs/version-3.8.1/docusaurus-core.mdx",
+  "sourceDirName": ".",
+  "slug": "/docusaurus-core",
+  "permalink": "/docs/3.8.1/docusaurus-core",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/docusaurus-core.mdx",
+  "tags": [],
+  "version": "3.8.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "sidebar_label": "Client API"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "CLI",
+    "permalink": "/docs/3.8.1/cli"
+  },
+  "next": {
+    "title": "docusaurus.config.js",
+    "permalink": "/docs/3.8.1/api/docusaurus-config"
+  }
+}

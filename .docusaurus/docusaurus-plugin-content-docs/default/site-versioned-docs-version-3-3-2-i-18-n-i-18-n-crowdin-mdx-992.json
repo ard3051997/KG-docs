@@ -1,0 +1,30 @@
+{
+  "id": "i18n/crowdin",
+  "title": "i18n - Using Crowdin",
+  "description": "The i18n system of Docusaurus is decoupled from any translation software.",
+  "source": "@site/versioned_docs/version-3.3.2/i18n/i18n-crowdin.mdx",
+  "sourceDirName": "i18n",
+  "slug": "/i18n/crowdin",
+  "permalink": "/docs/3.3.2/i18n/crowdin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/i18n/i18n-crowdin.mdx",
+  "tags": [],
+  "version": "3.3.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "crowdin",
+    "slug": "/i18n/crowdin",
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using Git",
+    "permalink": "/docs/3.3.2/i18n/git"
+  },
+  "next": {
+    "title": "What's next?",
+    "permalink": "/docs/3.3.2/guides/whats-next"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kg_system/attribution",
+  "title": "1.5 — First-Party Attribution Agent",
+  "description": "Tier: 1 — Mobile Growth (worker)",
+  "source": "@site/docs/kg_system/15-attribution.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/attribution",
+  "permalink": "/docs/kg_system/attribution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/15-attribution.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 15,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "1.4 — UA & Paid Marketing Agent",
+    "permalink": "/docs/kg_system/ua-paid"
+  },
+  "next": {
+    "title": "1.6 — CRM / Lifecycle Agent",
+    "permalink": "/docs/kg_system/crm-lifecycle"
+  }
+}

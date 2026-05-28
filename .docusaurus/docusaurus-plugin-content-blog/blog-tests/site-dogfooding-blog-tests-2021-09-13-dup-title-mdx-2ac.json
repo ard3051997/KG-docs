@@ -1,0 +1,79 @@
+{
+  "permalink": "/tests/blog/2021/09/13/dup-title",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_blog tests/2021-09-13-dup-title.mdx",
+  "source": "@site/_dogfooding/_blog tests/2021-09-13-dup-title.mdx",
+  "title": "Post with duplicate title",
+  "description": "See https://github.com/facebook/docusaurus/issues/6059. This one and 2021-11-13-dup-title.md should both show up.",
+  "date": "2021-09-13T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Paginated-tag",
+      "permalink": "/tests/blog/tags/paginated-tag"
+    }
+  ],
+  "readingTime": 4.8,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Josh-Cena1",
+      "socials": {},
+      "key": null,
+      "page": null
+    },
+    {
+      "name": "Josh-Cena2",
+      "image_url": "https://github.com/Josh-Cena.png",
+      "imageURL": "https://github.com/Josh-Cena.png",
+      "socials": {},
+      "key": null,
+      "page": null
+    },
+    {
+      "name": "Josh-Cena3",
+      "url": "https://github.com/Josh-Cena",
+      "socials": {},
+      "key": null,
+      "page": null
+    },
+    {
+      "name": "Josh-Cena4",
+      "email": "sidechen2003@gmail.com",
+      "socials": {},
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "tags": [
+      "paginated-tag"
+    ],
+    "authors": [
+      {
+        "name": "Josh-Cena1"
+      },
+      {
+        "name": "Josh-Cena2",
+        "image_url": "https://github.com/Josh-Cena.png",
+        "imageURL": "https://github.com/Josh-Cena.png"
+      },
+      {
+        "name": "Josh-Cena3",
+        "url": "https://github.com/Josh-Cena"
+      },
+      {
+        "name": "Josh-Cena4",
+        "email": "sidechen2003@gmail.com"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Blog post MDX Feed tests",
+    "permalink": "/tests/blog/2021/10/07/blog-post-mdx-feed-tests"
+  },
+  "nextItem": {
+    "title": "Multiple authors",
+    "permalink": "/tests/blog/2021/08/23/multiple-authors"
+  }
+}

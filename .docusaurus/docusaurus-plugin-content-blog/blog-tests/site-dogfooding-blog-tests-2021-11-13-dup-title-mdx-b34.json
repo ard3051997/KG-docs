@@ -1,0 +1,32 @@
+{
+  "permalink": "/tests/blog/2021/11/13/dup-title",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_blog tests/2021-11-13-dup-title.mdx",
+  "source": "@site/_dogfooding/_blog tests/2021-11-13-dup-title.mdx",
+  "title": "Post with duplicate title",
+  "description": "I hope I'm still here",
+  "date": "2021-11-13T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Paginated-tag",
+      "permalink": "/tests/blog/tags/paginated-tag"
+    }
+  ],
+  "readingTime": 1,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "tags": [
+      "paginated-tag"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Image-only authors",
+    "permalink": "/tests/blog/2022/01/20/image-only-authors"
+  },
+  "nextItem": {
+    "title": "Blog post MDX require Feed tests",
+    "permalink": "/tests/blog/2021/10/08/blog-post-mdx-require-feed-tests"
+  }
+}

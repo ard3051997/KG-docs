@@ -1,0 +1,26 @@
+{
+  "id": "advanced/index",
+  "title": "Advanced Tutorials",
+  "description": "This section is not going to be very structured, but we will cover the following topics:",
+  "source": "@site/versioned_docs/version-3.9.2/advanced/index.mdx",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/",
+  "permalink": "/docs/3.9.2/advanced/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/advanced/index.mdx",
+  "tags": [],
+  "version": "3.9.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "What's next?",
+    "permalink": "/docs/3.9.2/guides/whats-next"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/docs/3.9.2/advanced/architecture"
+  }
+}

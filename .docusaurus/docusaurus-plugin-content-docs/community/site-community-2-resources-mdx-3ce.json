@@ -1,0 +1,27 @@
+{
+  "id": "resources",
+  "title": "Awesome Resources",
+  "description": "A curated list of interesting Docusaurus community projects.",
+  "source": "@site/community/2-resources.mdx",
+  "sourceDirName": ".",
+  "slug": "/resources",
+  "permalink": "/community/resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/community/2-resources.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "community",
+  "previous": {
+    "title": "Team",
+    "permalink": "/community/team"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/community/contributing"
+  }
+}

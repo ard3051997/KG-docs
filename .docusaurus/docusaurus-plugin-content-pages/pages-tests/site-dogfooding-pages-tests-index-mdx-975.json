@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/",
+  "source": "@site/_dogfooding/_pages tests/index.mdx",
+  "description": "Page",
+  "frontMatter": {},
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/index.mdx",
+  "unlisted": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "guides/markdown-features/assets",
+  "title": "Assets",
+  "description": "Handling assets in Docusaurus Markdown",
+  "source": "@site/docs/guides/markdown-features/markdown-features-assets.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/assets",
+  "permalink": "/docs/next/markdown-features/assets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-assets.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "assets",
+    "description": "Handling assets in Docusaurus Markdown",
+    "slug": "/markdown-features/assets"
+  }
+}

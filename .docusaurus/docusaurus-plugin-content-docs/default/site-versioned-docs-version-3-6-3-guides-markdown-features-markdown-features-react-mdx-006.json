@@ -1,0 +1,30 @@
+{
+  "id": "guides/markdown-features/react",
+  "title": "MDX and React",
+  "description": "Using the power of React in Docusaurus Markdown documents, thanks to MDX",
+  "source": "@site/versioned_docs/version-3.6.3/guides/markdown-features/markdown-features-react.mdx",
+  "sourceDirName": "guides/markdown-features",
+  "slug": "/markdown-features/react",
+  "permalink": "/docs/3.6.3/markdown-features/react",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/guides/markdown-features/markdown-features-react.mdx",
+  "tags": [],
+  "version": "3.6.3",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "id": "react",
+    "description": "Using the power of React in Docusaurus Markdown documents, thanks to MDX",
+    "slug": "/markdown-features/react"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/docs/3.6.3/markdown-features"
+  },
+  "next": {
+    "title": "Tabs",
+    "permalink": "/docs/3.6.3/markdown-features/tabs"
+  }
+}

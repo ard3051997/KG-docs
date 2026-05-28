@@ -1,0 +1,30 @@
+{
+  "id": "api/misc/eslint-plugin/README",
+  "title": "📦 eslint-plugin",
+  "description": "ESLint is a tool that statically analyzes your code and reports problems or suggests best practices through editor hints and command line. Docusaurus provides an ESLint plugin to enforce best Docusaurus practices.",
+  "source": "@site/versioned_docs/version-3.1.1/api/misc/eslint-plugin/README.mdx",
+  "sourceDirName": "api/misc/eslint-plugin",
+  "slug": "/api/misc/@docusaurus/eslint-plugin",
+  "permalink": "/docs/3.1.1/api/misc/@docusaurus/eslint-plugin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/misc/eslint-plugin/README.mdx",
+  "tags": [],
+  "version": "3.1.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/api/misc/@docusaurus/eslint-plugin"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 create-docusaurus",
+    "permalink": "/docs/3.1.1/api/misc/create-docusaurus"
+  },
+  "next": {
+    "title": "no-html-links",
+    "permalink": "/docs/3.1.1/api/misc/@docusaurus/eslint-plugin/no-html-links"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kg_system/crm-lifecycle",
+  "title": "1.6 — CRM / Lifecycle Agent",
+  "description": "Tier: 1 — Mobile Growth (worker)",
+  "source": "@site/docs/kg_system/16-crm-lifecycle.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/crm-lifecycle",
+  "permalink": "/docs/kg_system/crm-lifecycle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/16-crm-lifecycle.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 16,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "1.5 — First-Party Attribution Agent",
+    "permalink": "/docs/kg_system/attribution"
+  },
+  "next": {
+    "title": "1.7 — Store Listing & Creatives Agent",
+    "permalink": "/docs/kg_system/store-creatives"
+  }
+}

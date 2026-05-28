@@ -1,0 +1,18 @@
+{
+  "id": "agent_org/crm-lifecycle",
+  "title": "1.6 — CRM / Lifecycle Agent",
+  "description": "Tier: 1 — Mobile Growth (worker)",
+  "source": "@site/docs/agent_org/16-crm-lifecycle.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/crm-lifecycle",
+  "permalink": "/docs/agent_org/crm-lifecycle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/16-crm-lifecycle.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 16,
+  "frontMatter": {}
+}

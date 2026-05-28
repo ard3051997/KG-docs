@@ -1,0 +1,26 @@
+{
+  "id": "agent_org/release-sop",
+  "title": "Standard Operating Procedure (SOP) for Releases",
+  "description": "This Standard Operating Procedure (SOP) defines the systematic, metrics-driven release lifecycle for the KalaGato app portfolio. It establishes clear operational boundaries and structured workflows for all departments.",
+  "source": "@site/docs/agent_org/release-sop.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/release-sop",
+  "permalink": "/docs/agent_org/release-sop",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/release-sop.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/agent_org"
+  },
+  "next": {
+    "title": "0.1 Chief of Staff Agent (CoS)",
+    "permalink": "/docs/agent_org/chief-of-staff"
+  }
+}

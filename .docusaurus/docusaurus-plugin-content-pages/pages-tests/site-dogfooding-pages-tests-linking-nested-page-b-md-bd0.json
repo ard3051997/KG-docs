@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/linking/nested/page-b",
+  "source": "@site/_dogfooding/_pages tests/linking/nested/page-b.md",
+  "title": "Linking Test - Page B",
+  "description": "Relative file path links",
+  "frontMatter": {},
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/linking/nested/page-b.md",
+  "unlisted": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "advanced/plugins",
+  "title": "Plugins",
+  "description": "Plugins are the building blocks of features in a Docusaurus 2 site. Each plugin handles its own individual feature. Plugins may work and be distributed as part of a bundle via presets.",
+  "source": "@site/versioned_docs/version-2.x/advanced/plugins.mdx",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/plugins",
+  "permalink": "/docs/2.x/advanced/plugins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/advanced/plugins.mdx",
+  "tags": [],
+  "version": "2.x",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/docs/2.x/advanced/architecture"
+  },
+  "next": {
+    "title": "Routing",
+    "permalink": "/docs/2.x/advanced/routing"
+  }
+}

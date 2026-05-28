@@ -1,0 +1,24 @@
+{
+  "id": "cli",
+  "title": "CLI",
+  "description": "Docusaurus provides a set of scripts to help you generate, serve, and deploy your website.",
+  "source": "@site/versioned_docs/version-3.8.1/cli.mdx",
+  "sourceDirName": ".",
+  "slug": "/cli",
+  "permalink": "/docs/3.8.1/cli",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cli.mdx",
+  "tags": [],
+  "version": "3.8.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "frontMatter": {
+    "description": "Docusaurus provides a set of scripts to help you generate, serve, and deploy your website."
+  },
+  "sidebar": "api",
+  "next": {
+    "title": "Client API",
+    "permalink": "/docs/3.8.1/docusaurus-core"
+  }
+}

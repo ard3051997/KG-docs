@@ -1,0 +1,26 @@
+{
+  "id": "agent_org/release-train",
+  "title": "2.3 Release Train Agent",
+  "description": "Tier: 2 Tech (worker)",
+  "source": "@site/docs/agent_org/release-train.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/release-train",
+  "permalink": "/docs/agent_org/release-train",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/release-train.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "2.2 iOS Dev Agent",
+    "permalink": "/docs/agent_org/ios-dev"
+  },
+  "next": {
+    "title": "2.4 QA & E2E Test Agent",
+    "permalink": "/docs/agent_org/qa-test"
+  }
+}

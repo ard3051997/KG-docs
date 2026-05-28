@@ -1,0 +1,30 @@
+{
+  "id": "api/themes/theme-mermaid",
+  "title": "📦 theme-mermaid",
+  "description": "This theme provides a @theme/Mermaid component that is powered by mermaid. You can read more on diagrams documentation.",
+  "source": "@site/versioned_docs/version-3.10.1/api/themes/theme-mermaid.mdx",
+  "sourceDirName": "api/themes",
+  "slug": "/api/themes/@docusaurus/theme-mermaid",
+  "permalink": "/docs/api/themes/@docusaurus/theme-mermaid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/themes/theme-mermaid.mdx",
+  "tags": [],
+  "version": "3.10.1",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "slug": "/api/themes/@docusaurus/theme-mermaid"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 theme-search-algolia",
+    "permalink": "/docs/api/themes/@docusaurus/theme-search-algolia"
+  },
+  "next": {
+    "title": "Miscellaneous",
+    "permalink": "/docs/category/miscellaneous"
+  }
+}

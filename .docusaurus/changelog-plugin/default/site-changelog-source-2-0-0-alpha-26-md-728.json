@@ -1,0 +1,28 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.26",
+  "source": "@site/changelog/source/2.0.0-alpha.26.md",
+  "title": "2.0.0-alpha.26",
+  "description": "- Docs, pages plugin is rewritten in TypeScript",
+  "date": "2019-10-12T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2019-10-12T20:00"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "2.0.0-alpha.27",
+    "permalink": "/changelog/2.0.0-alpha.27"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.25",
+    "permalink": "/changelog/2.0.0-alpha.25"
+  },
+  "listPageLink": "/changelog/page/6"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-content-blog",
+  "title": "📦 plugin-content-blog",
+  "description": "Provides the Blog feature and is the default blog plugin for Docusaurus.",
+  "source": "@site/versioned_docs/version-3.9.2/api/plugins/plugin-content-blog.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-content-blog",
+  "permalink": "/docs/3.9.2/api/plugins/@docusaurus/plugin-content-blog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-content-blog.mdx",
+  "tags": [],
+  "version": "3.9.2",
+  "lastUpdatedBy": null,
+  "lastUpdatedAt": null,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "slug": "/api/plugins/@docusaurus/plugin-content-blog"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-content-docs",
+    "permalink": "/docs/3.9.2/api/plugins/@docusaurus/plugin-content-docs"
+  },
+  "next": {
+    "title": "📦 plugin-content-pages",
+    "permalink": "/docs/3.9.2/api/plugins/@docusaurus/plugin-content-pages"
+  }
+}

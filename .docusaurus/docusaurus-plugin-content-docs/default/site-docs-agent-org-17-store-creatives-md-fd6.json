@@ -1,0 +1,18 @@
+{
+  "id": "agent_org/store-creatives",
+  "title": "1.7 — Store Listing & Creatives Agent",
+  "description": "Tier: 1 — Mobile Growth (worker)",
+  "source": "@site/docs/agent_org/17-store-creatives.md",
+  "sourceDirName": "agent_org",
+  "slug": "/agent_org/store-creatives",
+  "permalink": "/docs/agent_org/store-creatives",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/agent_org/17-store-creatives.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 17,
+  "frontMatter": {}
+}

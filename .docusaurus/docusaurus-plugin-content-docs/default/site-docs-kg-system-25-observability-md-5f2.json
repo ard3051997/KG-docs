@@ -1,0 +1,27 @@
+{
+  "id": "kg_system/observability",
+  "title": "2.5 — Observability & Crash Agent",
+  "description": "Tier: 2 — Tech (worker)",
+  "source": "@site/docs/kg_system/25-observability.md",
+  "sourceDirName": "kg_system",
+  "slug": "/kg_system/observability",
+  "permalink": "/docs/kg_system/observability",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/kg_system/25-observability.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 25,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "2.4 — QA & E2E Test Agent",
+    "permalink": "/docs/kg_system/qa-test"
+  },
+  "next": {
+    "title": "2.6 — Security & Compliance Agent",
+    "permalink": "/docs/kg_system/security-compliance"
+  }
+}
