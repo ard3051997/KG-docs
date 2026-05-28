@@ -1,0 +1,60 @@
+---
+description: Technical architecture specifications, language-specific guidelines, coding standards, and module organization layouts across the KalaGato portfolio.
+---
+
+# Codebase Architectures & Technical Standards
+
+This document establishes the architecture frameworks, coding practices, and core quality guidelines enforced across all Android, iOS, and Web environments at KalaGato.
+
+---
+
+## Android Technical Standards (Kotlin)
+
+KalaGato's Android native applications conform to the modern Android Development playbook:
+
+### 1. Architectural Pattern
+All repositories implement the **MVVM (Model-View-ViewModel)** architectural pattern using Android Jetpack:
+* **UI Layer**: Declared using **Jetpack Compose** (declarative layouts, state hoisting, and preview wrappers).
+* **Domain Layer**: Clean Kotlin components encapsulating specific business logic (e.g., VPN tunnel session setup or audio manipulation).
+* **Data Layer**: Retrofit clients, Room databases, and repository classes handling network caching and storage.
+
+### 2. Best Practices
+* **Asynchronous Flow**: Utilize **Kotlin Coroutines and Flows** for all background data requests, network polling, and database transactions.
+* **Dependency Injection**: Use **Hilt / Dagger** to manage class lifetimes and ensure clean unit testing.
+* **Gradle Cleanliness**: Consolidate third-party library versions inside a centralized version catalog (`libs.versions.toml`).
+
+---
+
+## iOS Technical Standards (Swift)
+
+Our iOS applications follow Apple's modern Swift guidelines:
+
+### 1. Architectural Pattern
+* **UI Framework**: Expressed via **SwiftUI** for standard views and view controllers.
+* **Data Flow**: Utilize the **Combine** framework or modern **Swift Concurrency (async/await)** for thread-safe asynchronous calls.
+* **Core Logic**: Abstract networking layers and analytics event tracking into dedicated Swift packages to share functionality across apps.
+
+### 2. Best Practices
+* **State Management**: Hoist states using `@StateObject` and `@ObservedObject` structures to ensure predictable interface updates.
+* **Memory Management**: Prevent retain cycles by explicitly declaring `[weak self]` in closures and callback routines.
+
+---
+
+## Web & Portal Standards (TypeScript)
+
+For the documentation portal, editor screens, and analytics micro-frontends:
+
+### 1. Strict Typing Standards
+* **Explicit Parameters**: Always specify precise type mappings for interface inputs and function outputs. Avoid utilizing the `any` fallback type.
+* **Enums and Mapped Types**: Declare clear key-value maps or string enums when handling role scopes, app categories, or release stages:
+ ```typescript
+ export enum ApplicationCategory {
+ SECURITY = 'Security & Privacy',
+ ENTERTAINMENT = 'Entertainment',
+ UTILITY = 'Utility & Productivity',
+ }
+ ```
+
+### 2. Quality Guardrails
+* **ESLint Configuration**: Strictly conform to codebase rules, including trailing commas, bracket spacing, and no-unused-variables checks.
+* **Module Structures**: Maintain modular, testable utilities. Avoid placing database calls, API fetch logic, and UI layout code in the same module.
