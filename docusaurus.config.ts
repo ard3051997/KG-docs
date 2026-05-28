@@ -395,17 +395,17 @@ export default async function createConfigAsync() {
           redirects: [],
         } satisfies ClientRedirectsOptions,
       ],
-      [
-        'ideal-image',
-        {
-          quality: 70,
-          max: 1030,
-          min: 640,
-          steps: 2,
-          // Use false to debug, but it incurs huge perf costs
-          disableInDev: true,
-        } satisfies IdealImageOptions,
-      ],
+      // [
+      //   'ideal-image',
+      //   {
+      //     quality: 70,
+      //     max: 1030,
+      //     min: 640,
+      //     steps: 2,
+      //     // Use false to debug, but it incurs huge perf costs
+      //     disableInDev: true,
+      //   } satisfies IdealImageOptions,
+      // ],
       [
         'pwa',
         {
