@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([["8237"],{44573(e){e.exports="/KG-docs/fr/feature-requests"}}]);

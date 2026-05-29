@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([["8383"],{67510(e){e.exports=JSON.parse('{"metadata":{"permalink":"/KG-docs/tests/blog/page/2","page":2,"postsPerPage":3,"totalPages":7,"totalCount":19,"previousPage":"/KG-docs/tests/blog","nextPage":"/KG-docs/tests/blog/page/3","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

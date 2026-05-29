@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([["7843"],{32842(e){e.exports=JSON.parse('{"metadata":{"permalink":"/KG-docs/blog","page":1,"postsPerPage":5,"totalPages":6,"totalCount":29,"nextPage":"/KG-docs/blog/page/2","blogDescription":"Read blog posts about Docusaurus from the team","blogTitle":"Docusaurus blog"}}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkalagato_docs=self.webpackChunkkalagato_docs||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/KG-docs/blog","blogTitle":"Blog","authorsListPath":"/KG-docs/blog/authors"}')}}]);
