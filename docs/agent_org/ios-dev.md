@@ -69,7 +69,7 @@ Same shape as Android Dev Agent:
 |---|---|
 | Apple code-signing / provisioning profiles | Renewal automation via fastlane match; cert changes require human approval (iOS Lead or you) |
 | App Store review process | Submissions wrapped in Release Train Agent's workflow, not direct |
-| SKAN postback timing | Agent doesn't make decisions based on SKAN data &lt;72h old |
+| SKAN postback timing | Agent doesn't make decisions based on SKAN data <72h old |
 | SwiftUI / UIKit hybrid codebases | Per-app `agent-context.md` specifies which framework each screen uses |
 | Privacy manifest (iOS 17+ PrivacyInfo.xcprivacy) | Agent maintains the manifest with every SDK / data-access change |
 | App Tracking Transparency (ATT) | Any change touching tracking flow requires Security & Compliance Agent review |
