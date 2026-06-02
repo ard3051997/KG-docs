@@ -16,10 +16,11 @@ const config: Config = {
 
   organizationName: 'ard3051997',
   projectName: 'KG-docs',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
-  onBrokenLinks: 'warn',
-  onBrokenAnchors: 'warn',
+  onBrokenLinks: 'throw',
+  onBrokenAnchors: 'throw',
 
   i18n: {
     defaultLocale: 'en',

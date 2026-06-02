@@ -80,7 +80,7 @@ Company resources including hardware (laptops, phones, tablets), software licens
 - Using company cloud infrastructure for cryptocurrency mining, personal hosting, or non-business computation.
 
 ### Device Security
-All devices used to access KalaGato systems must meet minimum security standards (see the [Information Security & Data Privacy Policy](./information-security) for details).
+All devices used to access KalaGato systems must meet minimum security standards per the Information Security & Data Privacy Policy.
 
 ---
 
