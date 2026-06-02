@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkalagato_docs=self.webpackChunkkalagato_docs||[]).push([["8744"],{2555(a,e,s){s.d(e,{createWardleyServices:()=>c.J});var c=s(4837);s(9302)}}]);

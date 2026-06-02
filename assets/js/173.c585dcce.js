@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkalagato_docs=self.webpackChunkkalagato_docs||[]).push([["173"],{7180(a,e,c){c.d(e,{createPacketServices:()=>s.$});var s=c(4824);c(9302)}}]);

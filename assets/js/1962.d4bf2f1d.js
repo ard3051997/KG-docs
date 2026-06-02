@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkalagato_docs=self.webpackChunkkalagato_docs||[]).push([["1962"],{4737(a,e,s){s.d(e,{createPieServices:()=>c.f});var c=s(532);s(9302)}}]);

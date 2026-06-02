@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkalagato_docs=self.webpackChunkkalagato_docs||[]).push([["9171"],{2014(a,e,s){s.d(e,{createTreemapServices:()=>c.d});var c=s(1681);s(9302)}}]);

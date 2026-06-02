@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkalagato_docs=self.webpackChunkkalagato_docs||[]).push([["985"],{3872(a,e,s){s.d(e,{createRadarServices:()=>c.f});var c=s(5160);s(9302)}}]);
