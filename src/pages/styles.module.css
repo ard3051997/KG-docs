@@ -1,0 +1,297 @@
+/* Custom Styling for KalaGato Hub Homepage */
+
+.hero {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  padding: 80px 20px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.heroInner {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+}
+
+.heroTagline {
+  color: #94a3b8;
+  font-size: 1.25rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.heroTitle {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.1;
+  color: #ffffff;
+  margin: 0 auto 1.5rem;
+  max-width: 900px;
+}
+
+.heroTitleGradient {
+  background: linear-gradient(90deg, #38bdf8 0%, #3b82f6 50%, #818cf8 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.heroSubtitle {
+  font-size: 1.5rem;
+  color: #cbd5e1;
+  margin: 0 auto 2.5rem;
+  max-width: 800px;
+  line-height: 1.5;
+}
+
+.indexCtas {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 3rem;
+}
+
+.primaryCta {
+  background: linear-gradient(90deg, #3b82f6 0%, #2563eb 100%);
+  color: #ffffff !important;
+  font-weight: 600;
+  padding: 14px 28px;
+  border-radius: 8px;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+}
+
+.primaryCta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(59, 130, 246, 0.4);
+  text-decoration: none;
+}
+
+.secondaryCta {
+  background: rgba(255, 255, 255, 0.05);
+  color: #f1f5f9 !important;
+  font-weight: 600;
+  padding: 14px 28px;
+  border-radius: 8px;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.secondaryCta:hover {
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+/* Metric Display Grid */
+.metricsGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  max-width: 1000px;
+  margin: 3rem auto 0;
+}
+
+.metricCard {
+  background: rgba(30, 41, 59, 0.5);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 24px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.metricCard:hover {
+  border-color: rgba(56, 189, 248, 0.3);
+  transform: translateY(-3px);
+}
+
+.metricValue {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: #38bdf8;
+  margin-bottom: 0.5rem;
+}
+
+.metricLabel {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Section Styling */
+.section {
+  padding: 80px 20px;
+  background-color: var(--ifm-background-color);
+}
+
+.sectionAlt {
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 3.5rem;
+}
+
+.featuresGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.featureCard {
+  background: var(--ifm-card-background-color);
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 16px;
+  padding: 40px 30px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  border-color: var(--ifm-color-primary);
+}
+
+.featureNum {
+  font-size: 2.5rem;
+  font-weight: 900;
+  color: var(--ifm-color-primary);
+  margin-bottom: 1.5rem;
+  display: inline-block;
+  font-family: var(--ifm-font-family-monospace);
+  letter-spacing: -0.05em;
+  opacity: 0.85;
+}
+
+.featureTitle {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.featureDesc {
+  color: var(--ifm-color-emphasis-600);
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+/* App Showcase Carousel styles */
+.portfolioSection {
+  background: linear-gradient(180deg, var(--ifm-background-color) 0%, var(--ifm-color-emphasis-100) 100%);
+  padding: 80px 20px;
+}
+
+.portfolioGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.appCard {
+  background: var(--ifm-card-background-color);
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  padding: 24px;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.appCard:hover {
+  transform: scale(1.02);
+  border-color: var(--ifm-color-primary-light);
+}
+
+.appHeader {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.appIcon {
+  width: 48px;
+  height: 48px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #3b82f6 0%, #818cf8 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 800;
+  font-size: 1.25rem;
+}
+
+.appName {
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--ifm-heading-color);
+}
+
+.appCategory {
+  font-size: 0.75rem;
+  color: #3b82f6;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.appDesc {
+  font-size: 0.875rem;
+  color: var(--ifm-color-emphasis-600);
+  line-height: 1.5;
+  flex-grow: 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 996px) {
+  .heroTitle {
+    font-size: 3rem;
+  }
+  .featuresGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .metricsGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .portfolioGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .heroTitle {
+    font-size: 2.25rem;
+  }
+  .heroSubtitle {
+    font-size: 1.2rem;
+  }
+  .featuresGrid {
+    grid-template-columns: 1fr;
+  }
+  .metricsGrid {
+    grid-template-columns: 1fr;
+  }
+  .portfolioGrid {
+    grid-template-columns: 1fr;
+  }
+}
