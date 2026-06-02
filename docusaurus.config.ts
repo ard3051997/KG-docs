@@ -12,10 +12,10 @@ const config: Config = {
   },
 
   url: 'https://ard3051997.github.io',
-  baseUrl: '/',
+  baseUrl: process.env.BASE_URL ?? '/',
 
   organizationName: 'ard3051997',
-  projectName: 'kalagato-docs',
+  projectName: 'KG-docs',
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
